@@ -1,0 +1,2842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2026-09-25T13:18:52+03:00</generation-date>
+  <offer internal-id="100226">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100226</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>6840881</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7600979</old-price>
+    <area>
+      <value>26.67</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/52188405413476a531f16ba91791f703636f7ef5.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7981886eb69d674832342da698e0b2349b798b6c.svg</image>
+    <description>1-комн. квартира, 26.67 кв.м, Этаж 3/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101116">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101116</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7019319</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7799244</old-price>
+    <area>
+      <value>25.68</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/7738ce2d4bbf3f496216860e568f1566a3b23195.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg</image>
+    <description>1-комн. квартира, 25.68 кв.м, Этаж 14/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101107">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101107</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7241828</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8046476</old-price>
+    <area>
+      <value>24.22</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/c2cba23a0ca261ac74e838d792da25b20b3dd28d.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg</image>
+    <description>1-комн. квартира, 24.22 кв.м, Этаж 14/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101117">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101117</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7241828</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8046476</old-price>
+    <area>
+      <value>24.22</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/b8ffa92963cc2a1b765b4aaf6a870f2e5863d495.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg</image>
+    <description>1-комн. квартира, 24.22 кв.м, Этаж 14/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101118">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101118</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7241828</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8046476</old-price>
+    <area>
+      <value>24.22</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/b106557becc66881914dfd9e01c21810a3ce83a9.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg</image>
+    <description>1-комн. квартира, 24.22 кв.м, Этаж 14/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101174">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101174</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7241828</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8046476</old-price>
+    <area>
+      <value>24.22</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/ec0592d73758aefc2e28bc4f46f76dea4d6d7b96.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg</image>
+    <description>1-комн. квартира, 24.22 кв.м, Этаж 14/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101170">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101170</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7265748</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8073054</old-price>
+    <area>
+      <value>24.3</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/c733f9fb0d398d88a372fefa5f594b62d0b2131f.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg</image>
+    <description>1-комн. квартира, 24.3 кв.м, Этаж 14/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100258">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100258</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7323721</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8137467</old-price>
+    <area>
+      <value>27.16</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/bef1e85cc3b999d99938d92801598a6bb77c8dd8.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7981886eb69d674832342da698e0b2349b798b6c.svg</image>
+    <description>1-комн. квартира, 27.16 кв.м, Этаж 3/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100268">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100268</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7323721</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8137467</old-price>
+    <area>
+      <value>27.16</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/f536d53820f684735424f7f3b975acd3c8df46e3.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7981886eb69d674832342da698e0b2349b798b6c.svg</image>
+    <description>1-комн. квартира, 27.16 кв.м, Этаж 3/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100270">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100270</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7323721</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8137467</old-price>
+    <area>
+      <value>27.16</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d6a13732225d36a090a3ca3a923d79986ebd482f.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7981886eb69d674832342da698e0b2349b798b6c.svg</image>
+    <description>1-комн. квартира, 27.16 кв.м, Этаж 3/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100272">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100272</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7323721</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8137467</old-price>
+    <area>
+      <value>27.16</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/43e49c5d786cb52c997cd9b78b0babff9e7f1177.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7981886eb69d674832342da698e0b2349b798b6c.svg</image>
+    <description>1-комн. квартира, 27.16 кв.м, Этаж 3/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100420">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100420</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7353624</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8170693</old-price>
+    <area>
+      <value>27.16</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>5</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/28ff71b6b6ee2f257afdc863c26305533d7d97dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/f545aba1e335f10b175ce83d98046490e99abee3.svg</image>
+    <description>1-комн. квартира, 27.16 кв.м, Этаж 5/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100643">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100643</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7420584</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8245093</old-price>
+    <area>
+      <value>31.15</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>8</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/5f22ca260c53940c5002ab11d5c0c933f5794cc2.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/55d6a765decc7d9e3e9741d6f618b63f83f0a2b6.svg</image>
+    <description>1-комн. квартира, 31.15 кв.м, Этаж 8/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100723">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100723</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7437467</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8263852</old-price>
+    <area>
+      <value>31.15</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>9</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/2ccdf7c520beb4eb305b0044ffde2356f3fa08b4.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/8d09b54aa5c51679d03148ccc9e4cbcce83bb5c7.svg</image>
+    <description>1-комн. квартира, 31.15 кв.м, Этаж 9/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100883">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100883</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7471389</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8301544</old-price>
+    <area>
+      <value>31.15</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>11</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/3b429439c44ea469884353b8227120063a87e8f9.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/adddf21fe3d79b5d3613961f8d71db6ac5ac0de7.svg</image>
+    <description>1-комн. квартира, 31.15 кв.м, Этаж 11/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100257">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100257</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7672401</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8524890</old-price>
+    <area>
+      <value>27.16</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/419ac36348191615b025cd555c4db33ef0e39fd7.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7981886eb69d674832342da698e0b2349b798b6c.svg</image>
+    <description>1-комн. квартира, 27.16 кв.м, Этаж 3/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100259">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100259</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7672401</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8524890</old-price>
+    <area>
+      <value>27.16</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/899a9d9ceab71a817fd4df620b68fcbbb68134ef.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7981886eb69d674832342da698e0b2349b798b6c.svg</image>
+    <description>1-комн. квартира, 27.16 кв.м, Этаж 3/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100261">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100261</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7672401</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8524890</old-price>
+    <area>
+      <value>27.16</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/5782a1d4e8d269d19f60e6f98a04abd6cff7fa74.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7981886eb69d674832342da698e0b2349b798b6c.svg</image>
+    <description>1-комн. квартира, 27.16 кв.м, Этаж 3/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100271">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100271</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7672401</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8524890</old-price>
+    <area>
+      <value>27.16</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/4ddc20eef4508ef55565154b543bf27f6e2ad169.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7981886eb69d674832342da698e0b2349b798b6c.svg</image>
+    <description>1-комн. квартира, 27.16 кв.м, Этаж 3/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100329">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100329</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>8755272</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>9728081</old-price>
+    <area>
+      <value>39.23</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>4</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/8f73aaf98a6b3d402abe5695fd115406cadfbd40.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/2dac79d2965b57375a2198c4461fdbc5518d2197.svg</image>
+    <description>1-комн. квартира, 39.23 кв.м, Этаж 4/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100409">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100409</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>8776221</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>9751357</old-price>
+    <area>
+      <value>39.23</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>5</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/2339ef2b2e7c10313a012d595a0359f085f88db1.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/f545aba1e335f10b175ce83d98046490e99abee3.svg</image>
+    <description>1-комн. квартира, 39.23 кв.м, Этаж 5/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100569">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100569</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>8818080</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>9797866</old-price>
+    <area>
+      <value>39.23</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>7</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/bc42fde42e3b9a7f8569c161eeab4cd4cbab932d.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/1b3955847cfbcda0e6de4e7ee429a3e196a9822c.svg</image>
+    <description>1-комн. квартира, 39.23 кв.м, Этаж 7/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100484">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100484</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>8832737</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>9814152</old-price>
+    <area>
+      <value>39.35</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>6</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/f9f1a943e420973abd0daa9d409b170eae9e0417.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/31575456624cc8814dc4e838e1e9c1583e3bf5d2.svg</image>
+    <description>1-комн. квартира, 39.35 кв.м, Этаж 6/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100606">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100606</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>8853671</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>9837412</old-price>
+    <area>
+      <value>39.35</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>7</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/9bec6bbbfbb153701f6fbbc8429cc4875e5def43.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/1b3955847cfbcda0e6de4e7ee429a3e196a9822c.svg</image>
+    <description>1-комн. квартира, 39.35 кв.м, Этаж 7/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100724">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100724</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>8895697</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>9884107</old-price>
+    <area>
+      <value>39.35</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>9</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/f25363138c3287fb41ffa62a581bc93bfb260d28.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/8d09b54aa5c51679d03148ccc9e4cbcce83bb5c7.svg</image>
+    <description>1-комн. квартира, 39.35 кв.м, Этаж 9/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100804">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100804</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>8916670</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>9907411</old-price>
+    <area>
+      <value>39.35</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>10</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/f2c62ec08888484f9197b4eaf8769767838fc3e6.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/2e2ae326d43c9d8dff7d91581534557c7928411b.svg</image>
+    <description>1-комн. квартира, 39.35 кв.м, Этаж 10/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100846">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100846</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>8916670</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>9907411</old-price>
+    <area>
+      <value>39.35</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>10</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/61e57933bfd32402ad3c8c2462887079f260fa5c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/2e2ae326d43c9d8dff7d91581534557c7928411b.svg</image>
+    <description>1-комн. квартира, 39.35 кв.м, Этаж 10/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100439">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100439</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>8926108</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>9917898</old-price>
+    <area>
+      <value>39.9</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>5</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/55bd1e7b7cb14ca3bf804b183faf46ac75e4a0d2.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/f545aba1e335f10b175ce83d98046490e99abee3.svg</image>
+    <description>1-комн. квартира, 39.9 кв.м, Этаж 5/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100926">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100926</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>8937683</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>9930759</old-price>
+    <area>
+      <value>39.35</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>11</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/1017522905aa88e7aaad2b8b0c0744fd076bd384.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/adddf21fe3d79b5d3613961f8d71db6ac5ac0de7.svg</image>
+    <description>1-комн. квартира, 39.35 кв.м, Этаж 11/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100519">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100519</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>8947375</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>9941528</old-price>
+    <area>
+      <value>39.9</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>6</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/787c9f73c97ad084c829bc2043f3c23fa383cf65.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/31575456624cc8814dc4e838e1e9c1583e3bf5d2.svg</image>
+    <description>1-комн. квартира, 39.9 кв.м, Этаж 6/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100964">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100964</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>8958657</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>9954063</old-price>
+    <area>
+      <value>39.35</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>12</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/15e6921cbc039529b43aaec935f427bfa86b771f.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/144d7e7a6f57789161febaf84ee776b1bc2cd71c.svg</image>
+    <description>1-комн. квартира, 39.35 кв.м, Этаж 12/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101044">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101044</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>8979670</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>9977411</old-price>
+    <area>
+      <value>39.35</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>13</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/9301c6c15cd1d3afdea2469e95f30e227c7e1532.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/27256c208d84cea1f8eea4fadb975316bac98c13.svg</image>
+    <description>1-комн. квартира, 39.35 кв.м, Этаж 13/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101124">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101124</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>9000604</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>10000671</old-price>
+    <area>
+      <value>39.35</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/8a7b9440d4ebbf141c41a6efd83208b6433ce53a.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg</image>
+    <description>1-комн. квартира, 39.35 кв.м, Этаж 14/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101166">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101166</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>9000604</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>10000671</old-price>
+    <area>
+      <value>39.35</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/9e4cadab3d72104e304ceb95112cf7461f73bd67.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg</image>
+    <description>1-комн. квартира, 39.35 кв.м, Этаж 14/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100759">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100759</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>9011215</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>10012461</old-price>
+    <area>
+      <value>39.9</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>9</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/f0ddd5c4185b1650cdbb050c2155cb2f4521c365.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/8d09b54aa5c51679d03148ccc9e4cbcce83bb5c7.svg</image>
+    <description>1-комн. квартира, 39.9 кв.м, Этаж 9/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100839">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100839</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>9032482</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>10036091</old-price>
+    <area>
+      <value>39.9</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>10</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/ae96b984062e6a7515f5b156a28c0d3689af9e0b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/2e2ae326d43c9d8dff7d91581534557c7928411b.svg</image>
+    <description>1-комн. квартира, 39.9 кв.м, Этаж 10/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100919">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100919</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>9053788</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>10059765</old-price>
+    <area>
+      <value>39.9</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>11</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/667bf3b94028bb86e0c6d8a789ff4d2993d6243c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/adddf21fe3d79b5d3613961f8d71db6ac5ac0de7.svg</image>
+    <description>1-комн. квартира, 39.9 кв.м, Этаж 11/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101079">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101079</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>9096362</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>10107069</old-price>
+    <area>
+      <value>39.9</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>13</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/031150738f21a7c56f1e3a1f240c955e4b3930ad.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/27256c208d84cea1f8eea4fadb975316bac98c13.svg</image>
+    <description>1-комн. квартира, 39.9 кв.м, Этаж 13/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101159">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101159</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>9117668</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>10130743</old-price>
+    <area>
+      <value>39.9</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/c474e20454bb0f95dcc9f19e6fba413282310c2e.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg</image>
+    <description>1-комн. квартира, 39.9 кв.м, Этаж 14/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100416">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100416</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>9449709</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>10499677</old-price>
+    <area>
+      <value>43.33</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>5</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/6f559336e9e10b56288d7ce125f27c5cf160a63e.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/f545aba1e335f10b175ce83d98046490e99abee3.svg</image>
+    <description>1-комн. квартира, 43.33 кв.м, Этаж 5/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100496">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100496</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>9472891</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>10525434</old-price>
+    <area>
+      <value>43.33</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>6</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d35c3b7a7caece80899c75e6e0e83f35a472347c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/31575456624cc8814dc4e838e1e9c1583e3bf5d2.svg</image>
+    <description>1-комн. квартира, 43.33 кв.м, Этаж 6/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100656">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100656</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>9519341</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>10577045</old-price>
+    <area>
+      <value>43.33</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>8</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/bfe8422e778d48f73749406d48ff5af27fbef5f5.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/55d6a765decc7d9e3e9741d6f618b63f83f0a2b6.svg</image>
+    <description>1-комн. квартира, 43.33 кв.м, Этаж 8/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100736">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100736</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>9542609</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>10602899</old-price>
+    <area>
+      <value>43.33</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>9</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/5afcb85ce281da96446e5a1bac8a0cf68fbc4b27.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/8d09b54aa5c51679d03148ccc9e4cbcce83bb5c7.svg</image>
+    <description>1-комн. квартира, 43.33 кв.м, Этаж 9/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100513">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100513</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11227721</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12475245</old-price>
+    <area>
+      <value>50.87</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>6</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/3393c8ea05c0ae7217b753c460e7ef47d498636a.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/31575456624cc8814dc4e838e1e9c1583e3bf5d2.svg</image>
+    <description>1-комн. квартира, 50.87 кв.м, Этаж 6/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100495">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100495</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11235320</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12483689</old-price>
+    <area>
+      <value>51.26</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>6</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/93080e444c73da5ce81c5d50145ee161d5d9fde9.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/31575456624cc8814dc4e838e1e9c1583e3bf5d2.svg</image>
+    <description>1-комн. квартира, 51.26 кв.м, Этаж 6/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100575">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100575</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11262539</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12513932</old-price>
+    <area>
+      <value>51.26</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>7</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/e638ac71df9c694527d8c824b2a8377df0d774be.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/1b3955847cfbcda0e6de4e7ee429a3e196a9822c.svg</image>
+    <description>1-комн. квартира, 51.26 кв.м, Этаж 7/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100673">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100673</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11281694</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12535215</old-price>
+    <area>
+      <value>50.87</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>8</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/2ae8f5c4b8484ba85f0f7ca52403c00c147027c0.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/55d6a765decc7d9e3e9741d6f618b63f83f0a2b6.svg</image>
+    <description>1-комн. квартира, 50.87 кв.м, Этаж 8/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100655">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100655</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11289707</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12544119</old-price>
+    <area>
+      <value>51.26</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>8</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/c1a6365e03e1257179a2f22f149c93ae3ba828f1.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/55d6a765decc7d9e3e9741d6f618b63f83f0a2b6.svg</image>
+    <description>1-комн. квартира, 51.26 кв.м, Этаж 8/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100735">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100735</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11316926</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12574362</old-price>
+    <area>
+      <value>51.26</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>9</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/1593fddcd89454a0c2c51f117d57050479e60304.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/8d09b54aa5c51679d03148ccc9e4cbcce83bb5c7.svg</image>
+    <description>1-комн. квартира, 51.26 кв.м, Этаж 9/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100815">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100815</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11344094</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12604549</old-price>
+    <area>
+      <value>51.26</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>10</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d3cbd2b4d2a83b6e349d5bdbc624bd29fa16bfb1.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/2e2ae326d43c9d8dff7d91581534557c7928411b.svg</image>
+    <description>1-комн. квартира, 51.26 кв.м, Этаж 10/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100913">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100913</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11362679</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12625199</old-price>
+    <area>
+      <value>50.87</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>11</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/655eebca76d7612f0d9470d201cc32e01e612dcc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/adddf21fe3d79b5d3613961f8d71db6ac5ac0de7.svg</image>
+    <description>1-комн. квартира, 50.87 кв.м, Этаж 11/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100895">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100895</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11371364</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12634849</old-price>
+    <area>
+      <value>51.26</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>11</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/087d55a9dc85bd38ccf1c04fd0453756e1459bfc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/adddf21fe3d79b5d3613961f8d71db6ac5ac0de7.svg</image>
+    <description>1-комн. квартира, 51.26 кв.м, Этаж 11/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100993">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100993</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11389691</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12655212</old-price>
+    <area>
+      <value>50.87</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>12</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/cecac1f9f2ef682be40355b0dc487c97ce61a1f5.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/144d7e7a6f57789161febaf84ee776b1bc2cd71c.svg</image>
+    <description>1-комн. квартира, 50.87 кв.м, Этаж 12/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100975">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100975</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11398532</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12665036</old-price>
+    <area>
+      <value>51.26</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>12</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/eb44a0435b0efd2a6854d7390b83a2328808ad96.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/144d7e7a6f57789161febaf84ee776b1bc2cd71c.svg</image>
+    <description>1-комн. квартира, 51.26 кв.м, Этаж 12/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101073">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101073</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11416703</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12685225</old-price>
+    <area>
+      <value>50.87</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>13</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/106c77925c263d28861f4672534f0c664200a30b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/27256c208d84cea1f8eea4fadb975316bac98c13.svg</image>
+    <description>1-комн. квартира, 50.87 кв.м, Этаж 13/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101055">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101055</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11425751</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12695279</old-price>
+    <area>
+      <value>51.26</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>13</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/9909b1c893296030ee27ea6e887ae991d7146ba6.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/27256c208d84cea1f8eea4fadb975316bac98c13.svg</image>
+    <description>1-комн. квартира, 51.26 кв.м, Этаж 13/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101135">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101135</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>11452970</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>12725522</old-price>
+    <area>
+      <value>51.26</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/013f3e341a3c8352e005b43ab6716bd7d2a7b665.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg</image>
+    <description>1-комн. квартира, 51.26 кв.м, Этаж 14/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100434">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100434</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>13105032</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>14561147</old-price>
+    <area>
+      <value>60.83</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>5</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/131bae25dcb697de4c685de21207ab29000da62e.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/f545aba1e335f10b175ce83d98046490e99abee3.svg</image>
+    <description>1-комн. квартира, 60.83 кв.м, Этаж 5/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100594">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100594</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>13169634</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>14632926</old-price>
+    <area>
+      <value>60.83</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>7</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/f7185d9e62466103c2ec799bbc1a6905a4c1f8ac.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/1b3955847cfbcda0e6de4e7ee429a3e196a9822c.svg</image>
+    <description>1-комн. квартира, 60.83 кв.м, Этаж 7/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100674">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100674</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>13201874</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>14668748</old-price>
+    <area>
+      <value>60.83</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>8</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/ae2807190b0ad000544f52a370b60717c75c46a0.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/55d6a765decc7d9e3e9741d6f618b63f83f0a2b6.svg</image>
+    <description>1-комн. квартира, 60.83 кв.м, Этаж 8/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100754">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100754</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>13234174</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>14704638</old-price>
+    <area>
+      <value>60.83</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>9</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/520def88cd7e0197983024a42dd19d959f5393ec.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/8d09b54aa5c51679d03148ccc9e4cbcce83bb5c7.svg</image>
+    <description>1-комн. квартира, 60.83 кв.м, Этаж 9/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100834">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100834</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>13266414</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>14740460</old-price>
+    <area>
+      <value>60.83</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>10</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/fc69aed8d322b283a1d15de0f3bd9aabbb761796.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/2e2ae326d43c9d8dff7d91581534557c7928411b.svg</image>
+    <description>1-комн. квартира, 60.83 кв.м, Этаж 10/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100914">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100914</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>13298715</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>14776350</old-price>
+    <area>
+      <value>60.83</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>11</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/62413aa1551ff22f899672247a6c632a4f3dd79a.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/adddf21fe3d79b5d3613961f8d71db6ac5ac0de7.svg</image>
+    <description>1-комн. квартира, 60.83 кв.м, Этаж 11/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="100994">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100994</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>13331076</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>14812307</old-price>
+    <area>
+      <value>60.83</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>12</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/381895e35958beba27bf15bec514c61eaaa622df.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/144d7e7a6f57789161febaf84ee776b1bc2cd71c.svg</image>
+    <description>1-комн. квартира, 60.83 кв.м, Этаж 12/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101074">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101074</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>13363316</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>14848129</old-price>
+    <area>
+      <value>60.83</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>13</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/23f4a6a40f17228fcf77ab04021d4b1e5e041c91.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/27256c208d84cea1f8eea4fadb975316bac98c13.svg</image>
+    <description>1-комн. квартира, 60.83 кв.м, Этаж 13/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101154">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-25T13:18:52+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101154</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>13395617</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>14884019</old-price>
+    <area>
+      <value>60.83</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/18b59054e8fc80a097b9d840239f971b1c0add25.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg</image>
+    <description>1-комн. квартира, 60.83 кв.м, Этаж 14/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+</realty-feed>
