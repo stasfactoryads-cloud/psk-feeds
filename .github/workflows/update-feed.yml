@@ -1,0 +1,40 @@
+name: Update Yandex Direct Feed
+
+on:
+  schedule:
+    # Каждый день в 06:00 UTC (09:00 МСК)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Ручной запуск
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate feed
+        run: python generate_feed.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet respekt_yandex_direct_feed.xml && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add respekt_yandex_direct_feed.xml
+          FLAT_COUNT=$(grep -c '<offer ' respekt_yandex_direct_feed.xml || echo "0")
+          git commit -m "Update feed: ${FLAT_COUNT} flats ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          git push
