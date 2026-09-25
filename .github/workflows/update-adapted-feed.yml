@@ -1,0 +1,43 @@
+name: Update Adapted Feed (Товарная кампания)
+
+on:
+  schedule:
+    # Каждый день в 06:30 UTC (09:30 МСК) — через 30 мин после основного фида
+    - cron: '30 6 * * *'
+  workflow_dispatch: # Ручной запуск
+
+jobs:
+  update-adapted-feed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate adapted feed
+        run: python generate_adapted_feed.py
+
+      - name: Run audit
+        run: python audit_adapted_feed.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add pskall_adapted_feed.xml
+          git diff --cached --quiet && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          OFFERS=$(grep -c '<offer ' pskall_adapted_feed.xml 2>/dev/null || echo "0")
+          git commit -m "Update adapted feed: ${OFFERS} offers $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
