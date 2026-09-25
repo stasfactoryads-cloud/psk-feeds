@@ -35,9 +35,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          PSKALL=$(grep -c '<offer ' pskall_yandex_direct_feed.xml 2>/dev/null || echo "0")
           RESPEKT=$(grep -c '<offer ' respekt_yandex_direct_feed.xml 2>/dev/null || echo "0")
           OPTIMIST=$(grep -c '<offer ' optimist_yandex_direct_feed.xml 2>/dev/null || echo "0")
           SEZONY=$(grep -c '<offer ' sezony_yandex_direct_feed.xml 2>/dev/null || echo "0")
-          TOTAL=$((RESPEKT + OPTIMIST + SEZONY))
-          git commit -m "Update feeds: ${TOTAL} flats (R:${RESPEKT} O:${OPTIMIST} S:${SEZONY}) $(date -u '+%Y-%m-%d %H:%M UTC')"
+          TOTAL=$((PSKALL))
+          git commit -m "Update feeds: ${TOTAL} flats total (pskall) R:${RESPEKT} O:${OPTIMIST} S:${SEZONY} $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
