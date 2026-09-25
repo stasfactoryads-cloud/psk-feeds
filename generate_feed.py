@@ -17,6 +17,14 @@ import sys
 import os
 
 # === Конфигурация проектов ===
+# Структура API (list endpoint):
+#   id, type, status, number, rooms, price, original_price, area,
+#   project (int), project_name, project_slug, project_class,
+#   building (str - номер корпуса), max_floor (int),
+#   floor, completion_year, completion_quarter, section,
+#   plan (URL планировки SVG), floor_plan (URL этажа SVG),
+#   finishing, tags, discount, ...
+
 PROJECTS = {
     39: {
         "name": "РЕСПЕКТ",
@@ -26,13 +34,6 @@ PROJECTS = {
         "building_class": "комфорт",
         "building_type": "монолитный",
         "output_file": "respekt_yandex_direct_feed.xml",
-        "images": [
-            "https://psk-info.ru/images/projects/zhk-respect/slider/1.jpg",
-            "https://psk-info.ru/images/projects/zhk-respect/slider/2.jpg",
-            "https://psk-info.ru/images/projects/zhk-respect/slider/3.jpg",
-            "https://psk-info.ru/images/projects/zhk-respect/slider/4.jpg",
-            "https://psk-info.ru/images/projects/zhk-respect/slider/5.jpg",
-        ],
     },
     45: {
         "name": "ОПТИМИСТ",
@@ -42,13 +43,6 @@ PROJECTS = {
         "building_class": "бизнес",
         "building_type": "монолитный",
         "output_file": "optimist_yandex_direct_feed.xml",
-        "images": [
-            "https://psk-info.ru/images/projects/optimist-zhiloj-kompleks/slider/1.jpg",
-            "https://psk-info.ru/images/projects/optimist-zhiloj-kompleks/slider/2.jpg",
-            "https://psk-info.ru/images/projects/optimist-zhiloj-kompleks/slider/3.jpg",
-            "https://psk-info.ru/images/projects/optimist-zhiloj-kompleks/slider/4.jpg",
-            "https://psk-info.ru/images/projects/optimist-zhiloj-kompleks/slider/5.jpg",
-        ],
     },
     43: {
         "name": "СЕЗОНЫ",
@@ -58,17 +52,11 @@ PROJECTS = {
         "building_class": "комфорт",
         "building_type": "монолитный",
         "output_file": "sezony_yandex_direct_feed.xml",
-        "images": [
-            "https://psk-info.ru/images/projects/sezony-vidovoj-kompleks/slider/1.jpg",
-            "https://psk-info.ru/images/projects/sezony-vidovoj-kompleks/slider/2.jpg",
-            "https://psk-info.ru/images/projects/sezony-vidovoj-kompleks/slider/3.jpg",
-            "https://psk-info.ru/images/projects/sezony-vidovoj-kompleks/slider/4.jpg",
-            "https://psk-info.ru/images/projects/sezony-vidovoj-kompleks/slider/5.jpg",
-        ],
     },
 }
 
 API_BASE = "https://psk-info.ru/api/flats/?format=json"
+SITE_DOMAIN = "https://psk-info.ru"
 PAGE_SIZE = 100
 AGENT_ORG = "Группа компаний ПСК"
 MSK_TZ = timezone(timedelta(hours=3))
@@ -111,11 +99,8 @@ def filter_project_flats(all_flats, project_id):
     """Отфильтровать свободные квартиры проекта с ценой."""
     filtered = []
     for flat in all_flats:
-        project = flat.get("project")
-        if not project:
-            continue
-
-        pid = project if isinstance(project, int) else project.get("id")
+        # project — int ID в списочном API
+        pid = flat.get("project")
         if pid != project_id:
             continue
 
@@ -159,6 +144,8 @@ def get_finishing(flat):
         return "без отделки"
     if "под ключ" in finishing_lower:
         return "под ключ"
+    if "с отделк" in finishing_lower:
+        return "чистовая отделка"
     return finishing
 
 
@@ -180,8 +167,7 @@ def build_feed(flats, project_config):
     metro_name = project_config["metro"]
     building_class = project_config["building_class"]
     building_type = project_config["building_type"]
-    images = project_config["images"]
-    agent_url = f"https://psk-info.ru/{slug}/"
+    agent_url = f"{SITE_DOMAIN}/projects/{slug}"
 
     for flat in flats:
         flat_id = flat.get("id")
@@ -194,18 +180,13 @@ def build_feed(flats, project_config):
         price = flat.get("price", 0)
         original_price = flat.get("original_price")
 
-        # Информация о корпусе
-        building = flat.get("building", {})
-        if isinstance(building, dict):
-            building_name = building.get("name", "")
-            max_floor = building.get("max_floor", building.get("floors", 0))
-            completion_year = building.get("completion_year", 0)
-            completion_quarter = building.get("completion_quarter", 0)
-        else:
-            building_name = str(building) if building else ""
-            max_floor = flat.get("max_floor", 0)
-            completion_year = flat.get("completion_year", 0)
-            completion_quarter = flat.get("completion_quarter", 0)
+        # Информация о корпусе (building — строка в списочном API)
+        building_name = flat.get("building", "")
+        if building_name and not isinstance(building_name, str):
+            building_name = str(building_name)
+        max_floor = flat.get("max_floor", 0)
+        completion_year = flat.get("completion_year", 0)
+        completion_quarter = flat.get("completion_quarter", 0)
 
         offer = ET.SubElement(root, "offer", attrib={"internal-id": str(flat_id)})
 
@@ -214,7 +195,9 @@ def build_feed(flats, project_config):
         add_text(offer, "property-type", "жилая")
         add_text(offer, "category", "квартира")
         add_text(offer, "creation-date", creation_date)
-        add_text(offer, "url", f"https://psk-info.ru/{slug}/flat/{flat_id}/")
+
+        # URL квартиры: https://psk-info.ru/flats/{id}
+        add_text(offer, "url", f"{SITE_DOMAIN}/flats/{flat_id}")
 
         # Локация
         loc = ET.SubElement(offer, "location")
@@ -230,8 +213,8 @@ def build_feed(flats, project_config):
         add_text(price_el, "value", str(int(price)))
         add_text(price_el, "currency", "RUR")
 
-        if original_price and original_price > price:
-            add_text(offer, "old-price", str(int(original_price)))
+        if original_price and float(original_price) > price:
+            add_text(offer, "old-price", str(int(float(original_price))))
 
         # Площадь
         area_el = ET.SubElement(offer, "area")
@@ -269,9 +252,15 @@ def build_feed(flats, project_config):
         if finishing:
             add_text(offer, "renovation", finishing)
 
-        # Изображения
-        for img_url in images:
-            add_text(offer, "image", img_url)
+        # Изображения — планировка из API (поле plan)
+        plan_url = flat.get("plan", "")
+        if plan_url:
+            add_text(offer, "image", plan_url)
+
+        # Поэтажный план (floor_plan)
+        floor_plan_url = flat.get("floor_plan", "")
+        if floor_plan_url:
+            add_text(offer, "image", floor_plan_url)
 
         # Описание
         type_label = "Студия" if is_studio else f"{rooms}-комн. квартира"
@@ -285,12 +274,17 @@ def build_feed(flats, project_config):
         desc = (
             f"{desc_line1} "
             f"ЖК «{name}» — {building_class}-класс, "
-            f"рядом с метро {metro_name}. {building_type.capitalize()} дом, сдача "
-            f"{completion_quarter} кв. {completion_year} г."
+            f"рядом с метро {metro_name}. {building_type.capitalize()} дом"
         )
-        if original_price and original_price > price:
-            discount_pct = round((1 - price / original_price) * 100)
-            desc += f" Скидка {discount_pct}%!"
+        if completion_quarter and completion_year:
+            desc += f", сдача {completion_quarter} кв. {completion_year} г."
+        else:
+            desc += "."
+
+        if original_price and float(original_price) > price:
+            discount_pct = round((1 - price / float(original_price)) * 100)
+            if discount_pct > 0:
+                desc += f" Скидка {discount_pct}%!"
 
         add_text(offer, "description", desc)
 
