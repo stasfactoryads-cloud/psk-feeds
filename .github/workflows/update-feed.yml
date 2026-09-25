@@ -1,4 +1,4 @@
-name: Update Yandex Direct Feed
+name: Update Yandex Direct Feeds
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Ручной запуск
 
 jobs:
-  update-feed:
+  update-feeds:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -21,20 +21,23 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Generate feed
+      - name: Generate feeds
         run: python generate_feed.py
 
       - name: Check for changes
         id: changes
         run: |
-          git diff --quiet respekt_yandex_direct_feed.xml && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+          git add -A *.xml
+          git diff --cached --quiet && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push
         if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add respekt_yandex_direct_feed.xml
-          FLAT_COUNT=$(grep -c '<offer ' respekt_yandex_direct_feed.xml || echo "0")
-          git commit -m "Update feed: ${FLAT_COUNT} flats ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          RESPEKT=$(grep -c '<offer ' respekt_yandex_direct_feed.xml 2>/dev/null || echo "0")
+          OPTIMIST=$(grep -c '<offer ' optimist_yandex_direct_feed.xml 2>/dev/null || echo "0")
+          SEZONY=$(grep -c '<offer ' sezony_yandex_direct_feed.xml 2>/dev/null || echo "0")
+          TOTAL=$((RESPEKT + OPTIMIST + SEZONY))
+          git commit -m "Update feeds: ${TOTAL} flats (R:${RESPEKT} O:${OPTIMIST} S:${SEZONY}) $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push

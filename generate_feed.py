@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """
-Генератор XML-фида ЖК РЕСПЕКТ для Яндекс Директ (товарная кампания).
+Генератор XML-фидов для Яндекс Директ (товарная кампания).
 Формат: YRL (Yandex Realty Language).
 Источник данных: https://psk-info.ru/api/flats/?format=json
+
+Поддерживаемые проекты: РЕСПЕКТ, ОПТИМИСТ, СЕЗОНЫ
 """
 
 import json
@@ -10,30 +12,65 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 from datetime import datetime, timezone, timedelta
+from collections import Counter
 import sys
 import os
 
-# === Конфигурация ===
+# === Конфигурация проектов ===
+PROJECTS = {
+    39: {
+        "name": "РЕСПЕКТ",
+        "slug": "zhk-respect",
+        "address": "г. Санкт-Петербург, Полюстровский проспект, 87",
+        "metro": "Лесная",
+        "building_class": "комфорт",
+        "building_type": "монолитный",
+        "output_file": "respekt_yandex_direct_feed.xml",
+        "images": [
+            "https://psk.house/images/projects/zhk-respect/slider/1.jpg",
+            "https://psk.house/images/projects/zhk-respect/slider/2.jpg",
+            "https://psk.house/images/projects/zhk-respect/slider/3.jpg",
+            "https://psk.house/images/projects/zhk-respect/slider/4.jpg",
+            "https://psk.house/images/projects/zhk-respect/slider/5.jpg",
+        ],
+    },
+    45: {
+        "name": "ОПТИМИСТ",
+        "slug": "optimist-zhiloj-kompleks",
+        "address": "г. Санкт-Петербург, ул. Фучика, дом 21",
+        "metro": "Бухарестская",
+        "building_class": "бизнес",
+        "building_type": "монолитный",
+        "output_file": "optimist_yandex_direct_feed.xml",
+        "images": [
+            "https://psk.house/images/projects/optimist-zhiloj-kompleks/slider/1.jpg",
+            "https://psk.house/images/projects/optimist-zhiloj-kompleks/slider/2.jpg",
+            "https://psk.house/images/projects/optimist-zhiloj-kompleks/slider/3.jpg",
+            "https://psk.house/images/projects/optimist-zhiloj-kompleks/slider/4.jpg",
+            "https://psk.house/images/projects/optimist-zhiloj-kompleks/slider/5.jpg",
+        ],
+    },
+    43: {
+        "name": "СЕЗОНЫ",
+        "slug": "sezony-vidovoj-kompleks",
+        "address": "г. Санкт-Петербург, Суздальское шоссе, уч. 26",
+        "metro": "Проспект Просвещения",
+        "building_class": "комфорт",
+        "building_type": "монолитный",
+        "output_file": "sezony_yandex_direct_feed.xml",
+        "images": [
+            "https://psk.house/images/projects/sezony-vidovoj-kompleks/slider/1.jpg",
+            "https://psk.house/images/projects/sezony-vidovoj-kompleks/slider/2.jpg",
+            "https://psk.house/images/projects/sezony-vidovoj-kompleks/slider/3.jpg",
+            "https://psk.house/images/projects/sezony-vidovoj-kompleks/slider/4.jpg",
+            "https://psk.house/images/projects/sezony-vidovoj-kompleks/slider/5.jpg",
+        ],
+    },
+}
+
 API_BASE = "https://psk-info.ru/api/flats/?format=json"
-PROJECT_ID = 39  # ЖК РЕСПЕКТ
-PROJECT_SLUG = "zhk-respect"
-PROJECT_NAME = "РЕСПЕКТ"
-PROJECT_ADDRESS = "г. Санкт-Петербург, Полюстровский проспект, 87"
-METRO = "Лесная"
-BUILDING_TYPE = "монолитный"
-AGENT_ORG = "Группа компаний ПСК"
-AGENT_URL = f"https://psk.house/{PROJECT_SLUG}/"
 PAGE_SIZE = 100
-
-# Фотографии проекта (общие для всех квартир)
-PROJECT_IMAGES = [
-    "https://psk.house/images/projects/zhk-respect/slider/1.jpg",
-    "https://psk.house/images/projects/zhk-respect/slider/2.jpg",
-    "https://psk.house/images/projects/zhk-respect/slider/3.jpg",
-    "https://psk.house/images/projects/zhk-respect/slider/4.jpg",
-    "https://psk.house/images/projects/zhk-respect/slider/5.jpg",
-]
-
+AGENT_ORG = "Группа компаний ПСК"
 MSK_TZ = timezone(timedelta(hours=3))
 
 
@@ -70,16 +107,16 @@ def fetch_all_flats():
     return all_flats
 
 
-def filter_respekt_flats(all_flats):
-    """Отфильтровать свободные квартиры ЖК РЕСПЕКТ с ценой."""
+def filter_project_flats(all_flats, project_id):
+    """Отфильтровать свободные квартиры проекта с ценой."""
     filtered = []
     for flat in all_flats:
         project = flat.get("project")
         if not project:
             continue
 
-        project_id = project if isinstance(project, int) else project.get("id")
-        if project_id != PROJECT_ID:
+        pid = project if isinstance(project, int) else project.get("id")
+        if pid != project_id:
             continue
 
         status = flat.get("status", "")
@@ -125,8 +162,8 @@ def get_finishing(flat):
     return finishing
 
 
-def build_feed(flats):
-    """Собрать XML-фид в формате YRL."""
+def build_feed(flats, project_config):
+    """Собрать XML-фид в формате YRL для конкретного проекта."""
     now = datetime.now(MSK_TZ)
     creation_date = now.strftime("%Y-%m-%dT%H:%M:%S+03:00")
 
@@ -136,6 +173,15 @@ def build_feed(flats):
     root = ET.Element(f"{{{ns}}}realty-feed")
     gen_date = ET.SubElement(root, "generation-date")
     gen_date.text = creation_date
+
+    slug = project_config["slug"]
+    name = project_config["name"]
+    address = project_config["address"]
+    metro_name = project_config["metro"]
+    building_class = project_config["building_class"]
+    building_type = project_config["building_type"]
+    images = project_config["images"]
+    agent_url = f"https://psk.house/{slug}/"
 
     for flat in flats:
         flat_id = flat.get("id")
@@ -168,16 +214,16 @@ def build_feed(flats):
         add_text(offer, "property-type", "жилая")
         add_text(offer, "category", "квартира")
         add_text(offer, "creation-date", creation_date)
-        add_text(offer, "url", f"https://psk.house/{PROJECT_SLUG}/flat/{flat_id}/")
+        add_text(offer, "url", f"https://psk.house/{slug}/flat/{flat_id}/")
 
         # Локация
         loc = ET.SubElement(offer, "location")
         add_text(loc, "country", "Россия")
         add_text(loc, "region", "Санкт-Петербург")
         add_text(loc, "locality-name", "Санкт-Петербург")
-        add_text(loc, "address", PROJECT_ADDRESS)
+        add_text(loc, "address", address)
         metro = ET.SubElement(loc, "metro")
-        add_text(metro, "name", METRO)
+        add_text(metro, "name", metro_name)
 
         # Цена
         price_el = ET.SubElement(offer, "price")
@@ -205,11 +251,11 @@ def build_feed(flats):
             add_text(offer, "floors-total", str(max_floor))
 
         # Здание
-        bld_label = f'ЖК «{PROJECT_NAME}»'
+        bld_label = f'ЖК «{name}»'
         if building_name:
             bld_label += f", корпус {building_name}"
         add_text(offer, "building-name", bld_label)
-        add_text(offer, "building-type", BUILDING_TYPE)
+        add_text(offer, "building-type", building_type)
 
         if completion_year:
             add_text(offer, "built-year", str(completion_year))
@@ -224,7 +270,7 @@ def build_feed(flats):
             add_text(offer, "renovation", finishing)
 
         # Изображения
-        for img_url in PROJECT_IMAGES:
+        for img_url in images:
             add_text(offer, "image", img_url)
 
         # Описание
@@ -238,8 +284,8 @@ def build_feed(flats):
 
         desc = (
             f"{desc_line1} "
-            f"ЖК «{PROJECT_NAME}» — комфорт-класс на Полюстровском проспекте, "
-            f"рядом с метро {METRO}. Монолитный дом, сдача "
+            f"ЖК «{name}» — {building_class}-класс, "
+            f"рядом с метро {metro_name}. {building_type.capitalize()} дом, сдача "
             f"{completion_quarter} кв. {completion_year} г."
         )
         if original_price and original_price > price:
@@ -252,7 +298,7 @@ def build_feed(flats):
         agent = ET.SubElement(offer, "sales-agent")
         add_text(agent, "organization", AGENT_ORG)
         add_text(agent, "category", "застройщик")
-        add_text(agent, "url", AGENT_URL)
+        add_text(agent, "url", agent_url)
 
     return root
 
@@ -276,44 +322,63 @@ def prettify_xml(root):
     return declaration + "\n".join(lines)
 
 
-def main():
-    output_file = os.environ.get("OUTPUT_FILE", "respekt_yandex_direct_feed.xml")
+def generate_project_feed(all_flats, project_id, project_config):
+    """Сгенерировать фид для одного проекта."""
+    name = project_config["name"]
+    output_file = project_config["output_file"]
 
-    print("=== Генерация фида ЖК РЕСПЕКТ для Яндекс Директ ===", file=sys.stderr)
+    print(f"\n--- ЖК {name} (ID={project_id}) ---", file=sys.stderr)
 
-    print("1. Загрузка квартир из API...", file=sys.stderr)
-    all_flats = fetch_all_flats()
-    print(f"   Загружено: {len(all_flats)} квартир", file=sys.stderr)
+    flats = filter_project_flats(all_flats, project_id)
+    print(f"  Свободных квартир с ценой: {len(flats)}", file=sys.stderr)
 
-    print("2. Фильтрация ЖК РЕСПЕКТ...", file=sys.stderr)
-    respekt_flats = filter_respekt_flats(all_flats)
-    print(f"   Свободных квартир с ценой: {len(respekt_flats)}", file=sys.stderr)
+    if not flats:
+        print(f"  ВНИМАНИЕ: Нет квартир для ЖК {name}, пропускаем", file=sys.stderr)
+        return 0
 
-    if not respekt_flats:
-        print("ОШИБКА: Нет квартир для фида!", file=sys.stderr)
-        sys.exit(1)
-
-    print("3. Генерация XML...", file=sys.stderr)
-    feed = build_feed(respekt_flats)
-
-    print(f"4. Сохранение в {output_file}...", file=sys.stderr)
+    feed = build_feed(flats, project_config)
     xml_str = prettify_xml(feed)
+
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(xml_str)
 
     file_size = os.path.getsize(output_file)
-    print(f"   Готово! {len(respekt_flats)} квартир, {file_size:,} байт", file=sys.stderr)
+    print(f"  Сохранено: {output_file} ({len(flats)} квартир, {file_size:,} байт)", file=sys.stderr)
 
-    # Статистика
-    from collections import Counter
+    # Статистика по комнатам
     rooms_count = Counter()
-    for flat in respekt_flats:
+    for flat in flats:
         rooms, is_studio = get_rooms_info(flat)
         label = "Студии" if is_studio else f"{rooms}-комн."
         rooms_count[label] += 1
-    print("\n   Статистика:", file=sys.stderr)
     for label, count in sorted(rooms_count.items()):
-        print(f"     {label}: {count}", file=sys.stderr)
+        print(f"    {label}: {count}", file=sys.stderr)
+
+    return len(flats)
+
+
+def main():
+    print("=== Генерация фидов ГК ПСК для Яндекс Директ ===", file=sys.stderr)
+
+    print("\n1. Загрузка квартир из API...", file=sys.stderr)
+    all_flats = fetch_all_flats()
+    print(f"   Загружено: {len(all_flats)} квартир всего", file=sys.stderr)
+
+    print("\n2. Генерация фидов по проектам...", file=sys.stderr)
+    total_flats = 0
+    total_feeds = 0
+
+    for project_id, config in PROJECTS.items():
+        count = generate_project_feed(all_flats, project_id, config)
+        if count > 0:
+            total_flats += count
+            total_feeds += 1
+
+    print(f"\n=== Итого: {total_feeds} фидов, {total_flats} квартир ===", file=sys.stderr)
+
+    if total_feeds == 0:
+        print("ОШИБКА: Ни один фид не сгенерирован!", file=sys.stderr)
+        sys.exit(1)
 
 
 if __name__ == "__main__":

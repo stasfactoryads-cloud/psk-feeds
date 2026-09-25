@@ -1,14 +1,19 @@
-# PSK Feeds
+# PSK Yandex Direct Feeds
 
-XML-фиды для товарных кампаний Яндекс Директ — ГК ПСК.
+XML-фиды квартир ГК ПСК для товарных кампаний Яндекс Директ.
 
-## Файлы
+## Проекты
 
-- `respekt_yandex_direct_feed.xml` — фид ЖК РЕСПЕКТ (473 квартиры, формат YRL)
+| Проект | Файл фида | Ссылка |
+|--------|-----------|--------|
+| ЖК РЕСПЕКТ | `respekt_yandex_direct_feed.xml` | [Raw XML](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-feeds/main/respekt_yandex_direct_feed.xml) |
+| ЖК ОПТИМИСТ | `optimist_yandex_direct_feed.xml` | [Raw XML](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-feeds/main/optimist_yandex_direct_feed.xml) |
+| ЖК СЕЗОНЫ | `sezony_yandex_direct_feed.xml` | [Raw XML](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-feeds/main/sezony_yandex_direct_feed.xml) |
 
-## Использование
+## Автообновление
 
-Прямая ссылка на фид для Яндекс Директ:
-```
-https://raw.githubusercontent.com/stasfactoryads-cloud/psk-feeds/main/respekt_yandex_direct_feed.xml
-```
+Фиды обновляются ежедневно в 09:00 МСК через GitHub Actions.
+
+Источник данных: [psk-info.ru API](https://psk-info.ru/api/flats/?format=json)
+
+Формат: YRL (Yandex Realty Language)
