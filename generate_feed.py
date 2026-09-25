@@ -27,11 +27,11 @@ PROJECTS = {
         "building_type": "монолитный",
         "output_file": "respekt_yandex_direct_feed.xml",
         "images": [
-            "https://psk.house/images/projects/zhk-respect/slider/1.jpg",
-            "https://psk.house/images/projects/zhk-respect/slider/2.jpg",
-            "https://psk.house/images/projects/zhk-respect/slider/3.jpg",
-            "https://psk.house/images/projects/zhk-respect/slider/4.jpg",
-            "https://psk.house/images/projects/zhk-respect/slider/5.jpg",
+            "https://psk-info.ru/images/projects/zhk-respect/slider/1.jpg",
+            "https://psk-info.ru/images/projects/zhk-respect/slider/2.jpg",
+            "https://psk-info.ru/images/projects/zhk-respect/slider/3.jpg",
+            "https://psk-info.ru/images/projects/zhk-respect/slider/4.jpg",
+            "https://psk-info.ru/images/projects/zhk-respect/slider/5.jpg",
         ],
     },
     45: {
@@ -43,11 +43,11 @@ PROJECTS = {
         "building_type": "монолитный",
         "output_file": "optimist_yandex_direct_feed.xml",
         "images": [
-            "https://psk.house/images/projects/optimist-zhiloj-kompleks/slider/1.jpg",
-            "https://psk.house/images/projects/optimist-zhiloj-kompleks/slider/2.jpg",
-            "https://psk.house/images/projects/optimist-zhiloj-kompleks/slider/3.jpg",
-            "https://psk.house/images/projects/optimist-zhiloj-kompleks/slider/4.jpg",
-            "https://psk.house/images/projects/optimist-zhiloj-kompleks/slider/5.jpg",
+            "https://psk-info.ru/images/projects/optimist-zhiloj-kompleks/slider/1.jpg",
+            "https://psk-info.ru/images/projects/optimist-zhiloj-kompleks/slider/2.jpg",
+            "https://psk-info.ru/images/projects/optimist-zhiloj-kompleks/slider/3.jpg",
+            "https://psk-info.ru/images/projects/optimist-zhiloj-kompleks/slider/4.jpg",
+            "https://psk-info.ru/images/projects/optimist-zhiloj-kompleks/slider/5.jpg",
         ],
     },
     43: {
@@ -59,11 +59,11 @@ PROJECTS = {
         "building_type": "монолитный",
         "output_file": "sezony_yandex_direct_feed.xml",
         "images": [
-            "https://psk.house/images/projects/sezony-vidovoj-kompleks/slider/1.jpg",
-            "https://psk.house/images/projects/sezony-vidovoj-kompleks/slider/2.jpg",
-            "https://psk.house/images/projects/sezony-vidovoj-kompleks/slider/3.jpg",
-            "https://psk.house/images/projects/sezony-vidovoj-kompleks/slider/4.jpg",
-            "https://psk.house/images/projects/sezony-vidovoj-kompleks/slider/5.jpg",
+            "https://psk-info.ru/images/projects/sezony-vidovoj-kompleks/slider/1.jpg",
+            "https://psk-info.ru/images/projects/sezony-vidovoj-kompleks/slider/2.jpg",
+            "https://psk-info.ru/images/projects/sezony-vidovoj-kompleks/slider/3.jpg",
+            "https://psk-info.ru/images/projects/sezony-vidovoj-kompleks/slider/4.jpg",
+            "https://psk-info.ru/images/projects/sezony-vidovoj-kompleks/slider/5.jpg",
         ],
     },
 }
@@ -181,7 +181,7 @@ def build_feed(flats, project_config):
     building_class = project_config["building_class"]
     building_type = project_config["building_type"]
     images = project_config["images"]
-    agent_url = f"https://psk.house/{slug}/"
+    agent_url = f"https://psk-info.ru/{slug}/"
 
     for flat in flats:
         flat_id = flat.get("id")
@@ -214,7 +214,7 @@ def build_feed(flats, project_config):
         add_text(offer, "property-type", "жилая")
         add_text(offer, "category", "квартира")
         add_text(offer, "creation-date", creation_date)
-        add_text(offer, "url", f"https://psk.house/{slug}/flat/{flat_id}/")
+        add_text(offer, "url", f"https://psk-info.ru/{slug}/flat/{flat_id}/")
 
         # Локация
         loc = ET.SubElement(offer, "location")
