@@ -1,0 +1,879 @@
+<title>ПСК Фид-Ревьюер</title>
+<meta name="color-scheme" content="light dark">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+<style>
+:root {
+  --bg: #f5f5f0;
+  --bg-card: #ffffff;
+  --bg-header: #1c2536;
+  --bg-filter: #ffffff;
+  --bg-badge: #eef2ff;
+  --bg-input: #ffffff;
+  --text: #1f2937;
+  --text-secondary: #6b7280;
+  --text-header: #f0f0ec;
+  --text-header-sub: #94a3b8;
+  --text-badge: #4338ca;
+  --border: #e2e2dc;
+  --border-input: #d1d5db;
+  --accent: #4338ca;
+  --accent-hover: #3730a3;
+  --price: #047857;
+  --price-old: #dc2626;
+  --shadow-card: 0 1px 3px rgba(0,0,0,.06);
+  --shadow-card-hover: 0 4px 12px rgba(0,0,0,.1);
+  --radius: 8px;
+  --radius-sm: 5px;
+  --img-placeholder: #e5e7eb;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #111318;
+    --bg-card: #1a1d26;
+    --bg-header: #0d0f14;
+    --bg-filter: #1a1d26;
+    --bg-badge: #1e1b4b;
+    --bg-input: #22252f;
+    --text: #e5e7eb;
+    --text-secondary: #9ca3af;
+    --text-header: #e5e7eb;
+    --text-header-sub: #64748b;
+    --text-badge: #a5b4fc;
+    --border: #2a2d38;
+    --border-input: #3a3d48;
+    --accent: #818cf8;
+    --accent-hover: #6366f1;
+    --price: #34d399;
+    --price-old: #f87171;
+    --shadow-card: 0 1px 3px rgba(0,0,0,.3);
+    --shadow-card-hover: 0 4px 12px rgba(0,0,0,.4);
+    --img-placeholder: #2a2d38;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #111318;
+  --bg-card: #1a1d26;
+  --bg-header: #0d0f14;
+  --bg-filter: #1a1d26;
+  --bg-badge: #1e1b4b;
+  --bg-input: #22252f;
+  --text: #e5e7eb;
+  --text-secondary: #9ca3af;
+  --text-header: #e5e7eb;
+  --text-header-sub: #64748b;
+  --text-badge: #a5b4fc;
+  --border: #2a2d38;
+  --border-input: #3a3d48;
+  --accent: #818cf8;
+  --accent-hover: #6366f1;
+  --price: #34d399;
+  --price-old: #f87171;
+  --shadow-card: 0 1px 3px rgba(0,0,0,.3);
+  --shadow-card-hover: 0 4px 12px rgba(0,0,0,.4);
+  --img-placeholder: #2a2d38;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+.app-header {
+  background: var(--bg-header);
+  color: var(--text-header);
+  padding: 20px 24px;
+  position: sticky;
+  top: env(safe-area-inset-top, 0px);
+  z-index: 100;
+}
+.app-header h1 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+.header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.header-meta {
+  font-size: 13px;
+  color: var(--text-header-sub);
+  font-variant-numeric: tabular-nums;
+}
+
+.filters-bar {
+  background: var(--bg-filter);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 24px;
+  position: sticky;
+  top: calc(env(safe-area-inset-top, 0px) + 62px);
+  z-index: 90;
+}
+.filters-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.filter-label {
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-secondary);
+}
+.filter-select, .filter-input {
+  font-family: inherit;
+  font-size: 13px;
+  padding: 6px 10px;
+  border: 1px solid var(--border-input);
+  border-radius: var(--radius-sm);
+  background: var(--bg-input);
+  color: var(--text);
+  outline: none;
+  min-width: 0;
+}
+.filter-select:focus, .filter-input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent) 20%, transparent);
+}
+.filter-input { width: 110px; }
+.filter-select { max-width: 240px; }
+.btn-reset {
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 6px 14px;
+  border: 1px solid var(--border-input);
+  border-radius: var(--radius-sm);
+  background: var(--bg-input);
+  color: var(--text-secondary);
+  cursor: pointer;
+  align-self: flex-end;
+}
+.btn-reset:hover { border-color: var(--accent); color: var(--accent); }
+
+.status-bar {
+  padding: 10px 24px;
+  font-size: 13px;
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.main-content {
+  padding: 0 24px 40px;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 16px;
+}
+
+.offer-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+  overflow: hidden;
+  transition: box-shadow .15s ease;
+  display: flex;
+  flex-direction: column;
+}
+.offer-card:hover { box-shadow: var(--shadow-card-hover); }
+
+.card-img-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16/10;
+  background: var(--img-placeholder);
+  overflow: hidden;
+}
+.card-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.card-img-nav {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  pointer-events: none;
+}
+.card-img-nav button {
+  pointer-events: auto;
+  background: rgba(0,0,0,.45);
+  color: #fff;
+  border: none;
+  width: 32px; height: 32px;
+  border-radius: 50%;
+  font-size: 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 6px;
+  opacity: 0;
+  transition: opacity .15s;
+}
+.offer-card:hover .card-img-nav button { opacity: 1; }
+.card-img-counter {
+  position: absolute;
+  bottom: 6px; right: 8px;
+  background: rgba(0,0,0,.55);
+  color: #fff;
+  font-size: 11px;
+  padding: 2px 7px;
+  border-radius: 10px;
+  font-variant-numeric: tabular-nums;
+}
+
+.card-body {
+  padding: 14px 16px 16px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.card-building {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+}
+.card-address {
+  font-size: 12px;
+  color: var(--text-secondary);
+  margin-top: -4px;
+}
+.card-params {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.param-badge {
+  font-size: 12px;
+  font-weight: 500;
+  background: var(--bg-badge);
+  color: var(--text-badge);
+  padding: 3px 8px;
+  border-radius: var(--radius-sm);
+  white-space: nowrap;
+}
+.card-price-row {
+  margin-top: auto;
+  padding-top: 8px;
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.card-price {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--price);
+  font-variant-numeric: tabular-nums;
+}
+.card-price-old {
+  font-size: 13px;
+  color: var(--price-old);
+  text-decoration: line-through;
+  font-variant-numeric: tabular-nums;
+}
+.card-price-per-m {
+  font-size: 12px;
+  color: var(--text-secondary);
+  font-variant-numeric: tabular-nums;
+}
+.card-meta-row {
+  font-size: 12px;
+  color: var(--text-secondary);
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  font-variant-numeric: tabular-nums;
+}
+.card-desc {
+  font-size: 12px;
+  color: var(--text-secondary);
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-footer {
+  padding: 10px 16px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+.card-id {
+  font-size: 11px;
+  color: var(--text-secondary);
+  font-variant-numeric: tabular-nums;
+}
+.card-link {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+}
+.card-link:hover { color: var(--accent-hover); text-decoration: underline; }
+
+.loading-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 24px;
+  gap: 16px;
+  color: var(--text-secondary);
+}
+.spinner {
+  width: 36px; height: 36px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin .8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.error-state {
+  padding: 60px 24px;
+  text-align: center;
+  color: var(--price-old);
+  font-size: 14px;
+}
+
+.empty-state {
+  padding: 60px 24px;
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: 14px;
+}
+
+.sort-btn {
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px 10px;
+  border: 1px solid var(--border-input);
+  border-radius: var(--radius-sm);
+  background: var(--bg-input);
+  color: var(--text-secondary);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.sort-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+.detail-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  background: rgba(0,0,0,.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.detail-panel {
+  background: var(--bg-card);
+  border-radius: var(--radius);
+  max-width: 680px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: 0 8px 30px rgba(0,0,0,.2);
+}
+.detail-close {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  text-align: right;
+  padding: 10px 14px 0;
+}
+.detail-close button {
+  background: rgba(0,0,0,.4);
+  color: #fff;
+  border: none;
+  width: 32px; height: 32px;
+  border-radius: 50%;
+  font-size: 18px;
+  cursor: pointer;
+}
+.detail-images {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  padding: 0 16px 8px;
+  scroll-snap-type: x mandatory;
+}
+.detail-images img {
+  height: 200px;
+  border-radius: var(--radius-sm);
+  object-fit: cover;
+  flex-shrink: 0;
+  scroll-snap-align: start;
+}
+.detail-body {
+  padding: 0 20px 20px;
+}
+.detail-body h2 { margin: 0 0 4px; font-size: 20px; font-weight: 700; letter-spacing: -0.01em; }
+.detail-body .d-address { color: var(--text-secondary); font-size: 13px; margin-bottom: 12px; }
+.detail-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 20px;
+  font-size: 13px;
+  margin-bottom: 14px;
+}
+.detail-grid dt { color: var(--text-secondary); }
+.detail-grid dd { margin: 0; font-weight: 500; }
+.detail-desc {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text);
+  margin-bottom: 14px;
+}
+.detail-link {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+}
+.detail-link:hover { text-decoration: underline; }
+
+@media (max-width: 600px) {
+  .app-header { padding: 14px 16px; }
+  .filters-bar { padding: 10px 16px; }
+  .main-content { padding: 0 16px 32px; }
+  .status-bar { padding: 10px 16px; }
+  .cards-grid { grid-template-columns: 1fr; }
+  .filter-select { max-width: 100%; }
+  .filters-row { gap: 8px; }
+  .filter-input { width: 80px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .spinner { animation: none; }
+  .offer-card { transition: none; }
+}
+</style>
+
+<div class="app-header">
+  <div class="header-row">
+    <h1>ПСК Фид-Ревьюер</h1>
+    <div class="header-meta" id="headerMeta">Загрузка…</div>
+  </div>
+</div>
+
+<div class="filters-bar">
+  <div class="filters-row">
+    <div class="filter-group">
+      <span class="filter-label">Проект</span>
+      <select class="filter-select" id="fProject"><option value="">Все проекты</option></select>
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">Комнат</span>
+      <select class="filter-select" id="fRooms"><option value="">Все</option></select>
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">Цена от, млн</span>
+      <input type="number" class="filter-input" id="fPriceMin" placeholder="0" step="0.5" min="0">
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">Цена до, млн</span>
+      <input type="number" class="filter-input" id="fPriceMax" placeholder="∞" step="0.5" min="0">
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">Площадь от</span>
+      <input type="number" class="filter-input" id="fAreaMin" placeholder="0" step="5" min="0">
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">Площадь до</span>
+      <input type="number" class="filter-input" id="fAreaMax" placeholder="∞" step="5" min="0">
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">Поиск</span>
+      <input type="text" class="filter-input" id="fSearch" placeholder="ID, адрес…" style="width:140px">
+    </div>
+    <button class="btn-reset" id="btnReset">Сбросить</button>
+  </div>
+</div>
+
+<div class="status-bar">
+  <span id="statusText">—</span>
+  <div style="display:flex;gap:6px;flex-wrap:wrap">
+    <button class="sort-btn active" data-sort="price-asc">Цена ↑</button>
+    <button class="sort-btn" data-sort="price-desc">Цена ↓</button>
+    <button class="sort-btn" data-sort="area-asc">Площадь ↑</button>
+    <button class="sort-btn" data-sort="area-desc">Площадь ↓</button>
+  </div>
+</div>
+
+<div class="main-content">
+  <div id="loadingState" class="loading-state">
+    <div class="spinner"></div>
+    <span>Загрузка фида…</span>
+  </div>
+  <div id="errorState" class="error-state" hidden></div>
+  <div id="emptyState" class="empty-state" hidden>Нет объектов по выбранным фильтрам</div>
+  <div class="cards-grid" id="cardsGrid"></div>
+</div>
+
+<div id="detailOverlay" class="detail-overlay" hidden></div>
+
+<script>
+const FEED_URL = 'https://raw.githubusercontent.com/stasfactoryads-cloud/psk-feeds/adapted-feed-render/pskall_adapted_feed.xml';
+let allOffers = [];
+let currentSort = 'price-asc';
+
+function getText(el, tag) {
+  const n = el.getElementsByTagName(tag)[0];
+  return n ? n.textContent.trim() : '';
+}
+
+function getNestedText(el, parent, child) {
+  const p = el.getElementsByTagName(parent)[0];
+  if (!p) return '';
+  const c = p.getElementsByTagName(child)[0];
+  return c ? c.textContent.trim() : '';
+}
+
+function parseOffer(offerEl) {
+  const images = [];
+  const imgEls = offerEl.getElementsByTagName('image');
+  for (let i = 0; i < imgEls.length; i++) images.push(imgEls[i].textContent.trim());
+
+  const priceVal = parseFloat(getNestedText(offerEl, 'price', 'value')) || 0;
+  const areaVal = parseFloat(getNestedText(offerEl, 'area', 'value')) || 0;
+
+  return {
+    id: offerEl.getAttribute('internal-id') || '',
+    type: getText(offerEl, 'type'),
+    propertyType: getText(offerEl, 'property-type'),
+    category: getText(offerEl, 'category'),
+    url: getText(offerEl, 'url'),
+    address: getNestedText(offerEl, 'location', 'address'),
+    metro: (() => {
+      const loc = offerEl.getElementsByTagName('location')[0];
+      if (!loc) return '';
+      const m = loc.getElementsByTagName('metro')[0];
+      if (!m) return '';
+      return getText(m, 'name');
+    })(),
+    price: priceVal,
+    currency: getNestedText(offerEl, 'price', 'currency'),
+    oldPrice: parseFloat(getText(offerEl, 'old-price')) || 0,
+    area: areaVal,
+    areaUnit: getNestedText(offerEl, 'area', 'unit'),
+    rooms: getText(offerEl, 'rooms'),
+    roomsOffered: getText(offerEl, 'rooms-offered'),
+    floor: getText(offerEl, 'floor'),
+    floorsTotal: getText(offerEl, 'floors-total'),
+    buildingName: getText(offerEl, 'building-name'),
+    buildingType: getText(offerEl, 'building-type'),
+    builtYear: getText(offerEl, 'built-year'),
+    readyQuarter: getText(offerEl, 'ready-quarter'),
+    newFlat: getText(offerEl, 'new-flat'),
+    renovation: getText(offerEl, 'renovation'),
+    description: getText(offerEl, 'description'),
+    images: images,
+    pricePerM: areaVal > 0 ? Math.round(priceVal / areaVal) : 0,
+    projectName: getText(offerEl, 'building-name').replace(/,\s*корпус\s*\d+/i, '').trim()
+  };
+}
+
+function formatPrice(v) {
+  if (v >= 1e6) return (v / 1e6).toFixed(2).replace('.', ',') + ' млн';
+  return v.toLocaleString('ru-RU');
+}
+
+function formatPriceShort(v) {
+  return v.toLocaleString('ru-RU') + ' ₽';
+}
+
+function getProjectColor(name) {
+  let h = 0;
+  for (let i = 0; i < name.length; i++) h = ((h << 5) - h + name.charCodeAt(i)) | 0;
+  return `hsl(${Math.abs(h) % 360}, 55%, 50%)`;
+}
+
+function renderCard(o) {
+  const card = document.createElement('div');
+  card.className = 'offer-card';
+  card.setAttribute('role', 'article');
+
+  const hasImages = o.images.length > 0;
+  const firstImg = hasImages ? o.images.find(u => !u.endsWith('.svg')) || o.images[0] : '';
+
+  card.innerHTML = `
+    ${hasImages ? `
+    <div class="card-img-wrap" data-idx="0" data-imgs='${JSON.stringify(o.images.map(u=>u.replace(/'/g,"\\'")))}'>
+      <img src="${firstImg}" alt="${o.buildingName}" loading="lazy" onerror="this.style.display='none'">
+      ${o.images.length > 1 ? `
+        <div class="card-img-nav">
+          <button aria-label="Предыдущее фото">‹</button>
+          <button aria-label="Следующее фото">›</button>
+        </div>
+        <span class="card-img-counter">1 / ${o.images.length}</span>
+      ` : ''}
+    </div>` : ''}
+    <div class="card-body">
+      <div class="card-building">${o.buildingName || 'Без названия'}</div>
+      <div class="card-address">${o.address}${o.metro ? ' · м. ' + o.metro : ''}</div>
+      <div class="card-params">
+        <span class="param-badge">${o.rooms || '—'}-комн.</span>
+        <span class="param-badge">${o.area} ${o.areaUnit}</span>
+        <span class="param-badge">${o.floor}/${o.floorsTotal} эт.</span>
+        ${o.renovation ? `<span class="param-badge">${o.renovation}</span>` : ''}
+      </div>
+      <div class="card-price-row">
+        <span class="card-price">${formatPrice(o.price)} ₽</span>
+        ${o.oldPrice ? `<span class="card-price-old">${formatPrice(o.oldPrice)} ₽</span>` : ''}
+      </div>
+      ${o.pricePerM ? `<div class="card-price-per-m">${formatPriceShort(o.pricePerM)} / м²</div>` : ''}
+      <div class="card-meta-row">
+        ${o.builtYear ? `<span>Сдача: ${o.readyQuarter ? 'Q' + o.readyQuarter + ' ' : ''}${o.builtYear}</span>` : ''}
+        ${o.buildingType ? `<span>${o.buildingType}</span>` : ''}
+        ${o.newFlat === 'да' ? `<span>новостройка</span>` : ''}
+      </div>
+      ${o.description ? `<div class="card-desc">${o.description}</div>` : ''}
+    </div>
+    <div class="card-footer">
+      <span class="card-id">ID ${o.id}</span>
+      <a class="card-link" href="${o.url}" target="_blank" rel="noopener">На сайте ›</a>
+    </div>
+  `;
+
+  // Image gallery navigation
+  if (o.images.length > 1) {
+    const wrap = card.querySelector('.card-img-wrap');
+    const img = wrap.querySelector('img');
+    const counter = wrap.querySelector('.card-img-counter');
+    const btns = wrap.querySelectorAll('.card-img-nav button');
+    let idx = 0;
+    const imgs = o.images;
+
+    btns[0].addEventListener('click', e => { e.stopPropagation(); idx = (idx - 1 + imgs.length) % imgs.length; img.src = imgs[idx]; counter.textContent = `${idx+1} / ${imgs.length}`; });
+    btns[1].addEventListener('click', e => { e.stopPropagation(); idx = (idx + 1) % imgs.length; img.src = imgs[idx]; counter.textContent = `${idx+1} / ${imgs.length}`; });
+  }
+
+  // Click to open detail
+  card.style.cursor = 'pointer';
+  card.addEventListener('click', () => openDetail(o));
+
+  return card;
+}
+
+function openDetail(o) {
+  const ov = document.getElementById('detailOverlay');
+  ov.hidden = false;
+  ov.innerHTML = `
+    <div class="detail-panel">
+      <div class="detail-close"><button aria-label="Закрыть">✕</button></div>
+      ${o.images.length ? `<div class="detail-images">${o.images.map(u => `<img src="${u}" alt="" loading="lazy" onerror="this.style.display='none'">`).join('')}</div>` : ''}
+      <div class="detail-body">
+        <h2>${o.buildingName}</h2>
+        <div class="d-address">${o.address}${o.metro ? ' · м. ' + o.metro : ''}</div>
+        <dl class="detail-grid">
+          <dt>Цена</dt><dd style="color:var(--price);font-weight:700">${formatPrice(o.price)} ₽</dd>
+          ${o.oldPrice ? `<dt>Старая цена</dt><dd style="color:var(--price-old);text-decoration:line-through">${formatPrice(o.oldPrice)} ₽</dd>` : ''}
+          ${o.pricePerM ? `<dt>Цена за м²</dt><dd>${formatPriceShort(o.pricePerM)}</dd>` : ''}
+          ${o.oldPrice && o.price ? `<dt>Скидка</dt><dd>${Math.round((1 - o.price / o.oldPrice) * 100)}%</dd>` : ''}
+          <dt>Комнат</dt><dd>${o.rooms || '—'}</dd>
+          <dt>Площадь</dt><dd>${o.area} ${o.areaUnit}</dd>
+          <dt>Этаж</dt><dd>${o.floor} из ${o.floorsTotal}</dd>
+          <dt>Тип здания</dt><dd>${o.buildingType || '—'}</dd>
+          <dt>Год сдачи</dt><dd>${o.readyQuarter ? 'Q' + o.readyQuarter + ' ' : ''}${o.builtYear || '—'}</dd>
+          <dt>Отделка</dt><dd>${o.renovation || '—'}</dd>
+          <dt>Новостройка</dt><dd>${o.newFlat || '—'}</dd>
+          <dt>Категория</dt><dd>${o.category || '—'}</dd>
+        </dl>
+        ${o.description ? `<div class="detail-desc">${o.description}</div>` : ''}
+        <a class="detail-link" href="${o.url}" target="_blank" rel="noopener">Открыть на psk-info.ru ›</a>
+        <span style="margin-left:16px;font-size:12px;color:var(--text-secondary)">ID ${o.id}</span>
+      </div>
+    </div>
+  `;
+  ov.querySelector('.detail-close button').addEventListener('click', () => { ov.hidden = true; });
+  ov.addEventListener('click', e => { if (e.target === ov) ov.hidden = true; });
+}
+
+function getFiltered() {
+  const project = document.getElementById('fProject').value;
+  const rooms = document.getElementById('fRooms').value;
+  const priceMin = parseFloat(document.getElementById('fPriceMin').value) * 1e6 || 0;
+  const priceMax = parseFloat(document.getElementById('fPriceMax').value) * 1e6 || Infinity;
+  const areaMin = parseFloat(document.getElementById('fAreaMin').value) || 0;
+  const areaMax = parseFloat(document.getElementById('fAreaMax').value) || Infinity;
+  const search = document.getElementById('fSearch').value.toLowerCase().trim();
+
+  return allOffers.filter(o => {
+    if (project && o.projectName !== project) return false;
+    if (rooms && o.rooms !== rooms) return false;
+    if (o.price < priceMin || o.price > priceMax) return false;
+    if (o.area < areaMin || o.area > areaMax) return false;
+    if (search) {
+      const hay = `${o.id} ${o.address} ${o.buildingName} ${o.metro} ${o.description}`.toLowerCase();
+      if (!hay.includes(search)) return false;
+    }
+    return true;
+  });
+}
+
+function sortOffers(arr) {
+  const [field, dir] = currentSort.split('-');
+  const m = dir === 'asc' ? 1 : -1;
+  return arr.slice().sort((a, b) => {
+    const va = field === 'price' ? a.price : a.area;
+    const vb = field === 'price' ? b.price : b.area;
+    return (va - vb) * m;
+  });
+}
+
+function renderAll() {
+  const filtered = sortOffers(getFiltered());
+  const grid = document.getElementById('cardsGrid');
+  const empty = document.getElementById('emptyState');
+
+  grid.innerHTML = '';
+  if (filtered.length === 0) {
+    empty.hidden = false;
+  } else {
+    empty.hidden = true;
+    // Virtual scroll: show first 60, add more on scroll
+    const batch = 60;
+    let shown = 0;
+    function showBatch() {
+      const frag = document.createDocumentFragment();
+      const end = Math.min(shown + batch, filtered.length);
+      for (let i = shown; i < end; i++) frag.appendChild(renderCard(filtered[i]));
+      grid.appendChild(frag);
+      shown = end;
+    }
+    showBatch();
+    // Lazy load more
+    if (filtered.length > batch) {
+      const obs = new IntersectionObserver(entries => {
+        if (entries[0].isIntersecting && shown < filtered.length) {
+          showBatch();
+          if (shown >= filtered.length) obs.disconnect();
+        }
+      }, { rootMargin: '400px' });
+      const sentinel = document.createElement('div');
+      sentinel.style.height = '1px';
+      grid.after(sentinel);
+      obs.observe(sentinel);
+    }
+  }
+
+  document.getElementById('statusText').textContent =
+    `Показано ${filtered.length} из ${allOffers.length} объектов`;
+}
+
+function populateFilters() {
+  const projects = [...new Set(allOffers.map(o => o.projectName))].sort();
+  const rooms = [...new Set(allOffers.map(o => o.rooms))].filter(Boolean).sort((a,b) => +a - +b);
+
+  const pSel = document.getElementById('fProject');
+  projects.forEach(p => { const opt = document.createElement('option'); opt.value = p; opt.textContent = p; pSel.appendChild(opt); });
+
+  const rSel = document.getElementById('fRooms');
+  rooms.forEach(r => { const opt = document.createElement('option'); opt.value = r; opt.textContent = r; rSel.appendChild(opt); });
+}
+
+// Sort buttons
+document.querySelectorAll('.sort-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentSort = btn.dataset.sort;
+    renderAll();
+  });
+});
+
+// Filter listeners
+['fProject','fRooms','fPriceMin','fPriceMax','fAreaMin','fAreaMax','fSearch'].forEach(id => {
+  document.getElementById(id).addEventListener('input', renderAll);
+  document.getElementById(id).addEventListener('change', renderAll);
+});
+
+document.getElementById('btnReset').addEventListener('click', () => {
+  document.getElementById('fProject').value = '';
+  document.getElementById('fRooms').value = '';
+  document.getElementById('fPriceMin').value = '';
+  document.getElementById('fPriceMax').value = '';
+  document.getElementById('fAreaMin').value = '';
+  document.getElementById('fAreaMax').value = '';
+  document.getElementById('fSearch').value = '';
+  renderAll();
+});
+
+// Close detail on Escape
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') document.getElementById('detailOverlay').hidden = true;
+});
+
+// Load feed
+async function loadFeed() {
+  try {
+    const res = await fetch(FEED_URL);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const xml = await res.text();
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(xml, 'text/xml');
+    const parseErr = doc.querySelector('parsererror');
+    if (parseErr) throw new Error('Ошибка парсинга XML');
+
+    const offers = doc.getElementsByTagName('offer');
+    const genDate = doc.getElementsByTagName('generation-date')[0]?.textContent || '';
+
+    for (let i = 0; i < offers.length; i++) {
+      allOffers.push(parseOffer(offers[i]));
+    }
+
+    document.getElementById('headerMeta').textContent =
+      `${allOffers.length} объектов · обновлено ${genDate ? new Date(genDate).toLocaleString('ru-RU') : '—'}`;
+
+    document.getElementById('loadingState').hidden = true;
+    populateFilters();
+    renderAll();
+  } catch (err) {
+    document.getElementById('loadingState').hidden = true;
+    document.getElementById('errorState').hidden = false;
+    document.getElementById('errorState').textContent = `Ошибка загрузки фида: ${err.message}`;
+  }
+}
+
+loadFeed();
+</script>
