@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-09-26T09:16:45+03:00</generation-date>
+  <generation-date>2026-09-27T09:17:34+03:00</generation-date>
   <offer internal-id="85929">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/85929</url>
     <location>
       <country>Россия</country>
@@ -43,11 +43,53 @@
       <url>https://psk-info.ru/projects/bakunina33</url>
     </sales-agent>
   </offer>
+  <offer internal-id="86038">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
+    <url>https://psk-info.ru/flats/86038</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, проспект Бакунина, 33</address>
+      <metro>
+        <name>Площадь Александра Невского</name>
+      </metro>
+    </location>
+    <price>
+      <value>32026000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>47.8</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
+    <building-name>ЖК «BAKUNINA 33», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>без отделки</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/e16b139d2f64756965bf734e493d27de00956148.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/b7231c1c8b8c61aef097405c080c943c643b4295.svg</image>
+    <description>1-комн. квартира, 47.8 кв.м, Этаж 9/9, корпус 1. ЖК «BAKUNINA 33» — бизнес-класс, рядом с метро Площадь Александра Невского. Монолитный дом, сдача 2 кв. 2025 г.</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/bakunina33</url>
+    </sales-agent>
+  </offer>
   <offer internal-id="85975">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/85975</url>
     <location>
       <country>Россия</country>
@@ -89,7 +131,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/85990</url>
     <location>
       <country>Россия</country>
@@ -131,7 +173,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/85989</url>
     <location>
       <country>Россия</country>
@@ -173,7 +215,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/85968</url>
     <location>
       <country>Россия</country>
@@ -211,95 +253,11 @@
       <url>https://psk-info.ru/projects/bakunina33</url>
     </sales-agent>
   </offer>
-  <offer internal-id="86014">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
-    <url>https://psk-info.ru/flats/86014</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, проспект Бакунина, 33</address>
-      <metro>
-        <name>Площадь Александра Невского</name>
-      </metro>
-    </location>
-    <price>
-      <value>41500015</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>75.6</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>2</rooms>
-    <rooms-offered>2</rooms-offered>
-    <floor>7</floor>
-    <floors-total>9</floors-total>
-    <building-name>ЖК «BAKUNINA 33», корпус 1</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2025</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/bec2a80163655acc769bd27b4bb0797797fc1985.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/ff1d73586c28f9228114afaaa9948041f08c730b.svg</image>
-    <description>2-комн. квартира, 75.6 кв.м, Этаж 7/9, корпус 1. ЖК «BAKUNINA 33» — бизнес-класс, рядом с метро Площадь Александра Невского. Монолитный дом, сдача 2 кв. 2025 г.</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/bakunina33</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="86003">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
-    <url>https://psk-info.ru/flats/86003</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, проспект Бакунина, 33</address>
-      <metro>
-        <name>Площадь Александра Невского</name>
-      </metro>
-    </location>
-    <price>
-      <value>44082000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>71.1</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>2</rooms>
-    <rooms-offered>2</rooms-offered>
-    <floor>6</floor>
-    <floors-total>9</floors-total>
-    <building-name>ЖК «BAKUNINA 33», корпус 1</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2025</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/827f32c933019dcdfadc490d1efe3c010e6f98f7.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/8589f56110f1b70c8d8b6a27025383fd732a10b1.svg</image>
-    <description>2-комн. квартира, 71.1 кв.м, Этаж 6/9, корпус 1. ЖК «BAKUNINA 33» — бизнес-класс, рядом с метро Площадь Александра Невского. Монолитный дом, сдача 2 кв. 2025 г.</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/bakunina33</url>
-    </sales-agent>
-  </offer>
   <offer internal-id="85940">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/85940</url>
     <location>
       <country>Россия</country>
@@ -337,53 +295,11 @@
       <url>https://psk-info.ru/projects/bakunina33</url>
     </sales-agent>
   </offer>
-  <offer internal-id="86015">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
-    <url>https://psk-info.ru/flats/86015</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, проспект Бакунина, 33</address>
-      <metro>
-        <name>Площадь Александра Невского</name>
-      </metro>
-    </location>
-    <price>
-      <value>45543000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>79.9</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>2</rooms>
-    <rooms-offered>2</rooms-offered>
-    <floor>7</floor>
-    <floors-total>9</floors-total>
-    <building-name>ЖК «BAKUNINA 33», корпус 1</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2025</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/31ad4ff7bfcd90df839413aca8ac5c9e3062c19c.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/ff1d73586c28f9228114afaaa9948041f08c730b.svg</image>
-    <description>2-комн. квартира, 79.9 кв.м, Этаж 7/9, корпус 1. ЖК «BAKUNINA 33» — бизнес-класс, рядом с метро Площадь Александра Невского. Монолитный дом, сдача 2 кв. 2025 г.</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/bakunina33</url>
-    </sales-agent>
-  </offer>
   <offer internal-id="85950">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/85950</url>
     <location>
       <country>Россия</country>
@@ -425,7 +341,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/85982</url>
     <location>
       <country>Россия</country>
@@ -467,7 +383,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/85931</url>
     <location>
       <country>Россия</country>
@@ -505,53 +421,11 @@
       <url>https://psk-info.ru/projects/bakunina33</url>
     </sales-agent>
   </offer>
-  <offer internal-id="85979">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
-    <url>https://psk-info.ru/flats/85979</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, проспект Бакунина, 33</address>
-      <metro>
-        <name>Площадь Александра Невского</name>
-      </metro>
-    </location>
-    <price>
-      <value>61160000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>111.2</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>3</rooms>
-    <rooms-offered>3</rooms-offered>
-    <floor>5</floor>
-    <floors-total>9</floors-total>
-    <building-name>ЖК «BAKUNINA 33», корпус 1</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2025</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/9649f68323f901d22efd57d816bcf8ae0393a87a.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/d82f8a2da66e116a744158da52a2060d359b2f57.svg</image>
-    <description>3-комн. квартира, 111.2 кв.м, Этаж 5/9, корпус 1. ЖК «BAKUNINA 33» — бизнес-класс, рядом с метро Площадь Александра Невского. Монолитный дом, сдача 2 кв. 2025 г.</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/bakunina33</url>
-    </sales-agent>
-  </offer>
   <offer internal-id="85935">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/85935</url>
     <location>
       <country>Россия</country>
@@ -593,7 +467,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/86009</url>
     <location>
       <country>Россия</country>
@@ -635,7 +509,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/85967</url>
     <location>
       <country>Россия</country>
@@ -677,7 +551,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/85983</url>
     <location>
       <country>Россия</country>
@@ -719,7 +593,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/86024</url>
     <location>
       <country>Россия</country>
@@ -761,7 +635,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/86019</url>
     <location>
       <country>Россия</country>
@@ -803,7 +677,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/86023</url>
     <location>
       <country>Россия</country>
@@ -845,7 +719,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/86034</url>
     <location>
       <country>Россия</country>
@@ -887,7 +761,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-26T09:16:45+03:00</creation-date>
+    <creation-date>2026-09-27T09:17:34+03:00</creation-date>
     <url>https://psk-info.ru/flats/86022</url>
     <location>
       <country>Россия</country>
