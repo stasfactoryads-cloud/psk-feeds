@@ -79,6 +79,12 @@ PROJECTS = {
             'Потолки 3 метра, панорамные окна',
             'Закрытый двор, авторская архитектура',
         ],
+        'headlines': [
+            'Квартира бизнес-класса на Васильевском',
+            'Клубный квартал у метро — потолки 3 метра',
+            'Жизнь на В.О. — панорамные окна и закрытый двор',
+            'Авторская архитектура на Васильевском острове',
+        ],
         'descriptions': {
             1: [
                 'Уютная квартира в клубном квартале на Васильевском. {area} кв.м, этаж {floor}/{floors}, корпус {corpus}. Метро Горный институт — пешком. Потолки 3 м, панорамные окна, закрытый двор без машин. Бизнес-класс по привлекательной цене. Скидка {discount}!',
@@ -108,6 +114,12 @@ PROJECTS = {
             'Виды на воду с трёх сторон',
             'Исторический Васильевский остров',
             'Пешеходная набережная вдоль Галерной гавани',
+        ],
+        'headlines': [
+            'Квартира с видом на воду — живи у залива',
+            'Дом на набережной — виды на Неву и залив',
+            'Жизнь у воды на Васильевском острове',
+            'Квартира мечты с панорамой на Финский залив',
         ],
         'descriptions': {
             1: [
@@ -146,6 +158,12 @@ PROJECTS = {
             'Мультиформатное лобби 160 кв.м',
             'Спортзал, коворкинг, кофе-поинт для жителей',
         ],
+        'headlines': [
+            'Бизнес-класс по доступной цене — старт продаж!',
+            'Квартира с коворкингом и спортзалом в доме',
+            'Бизнес-лайт у метро — всё для активных людей',
+            'Квартира мечты — лобби, спортзал, коворкинг',
+        ],
         'descriptions': {
             1: [
                 'Старт продаж! Квартира {area} кв.м в ЖК «Оптимист». Бизнес-лайт: потолки 3 м, лобби 160 кв.м, коворкинг и спортзал для жителей. 10 мин пешком до метро Бухарестская. Семейная ипотека. Скидка {discount}!',
@@ -175,6 +193,12 @@ PROJECTS = {
             'Квартиры с отделкой',
             'Рядом парки и набережная',
         ],
+        'headlines': [
+            'Квартира с отделкой — заезжай и живи!',
+            'Готовая квартира у метро Лесная',
+            'Комфорт у парков — квартира с отделкой',
+            'Квартира мечты на Выборгской стороне',
+        ],
         'descriptions': {
             1: [
                 'Квартира с отделкой {area} кв.м рядом с метро Лесная. ЖК «РЕСПЕКТ» — комфорт-класс на Выборгской стороне. Заезжай и живи! Этаж {floor}/{floors}. Парки и набережная рядом. Скидка {discount}!',
@@ -201,6 +225,12 @@ PROJECTS = {
             'Зелёный район у парков',
             'Квартиры с отделкой',
         ],
+        'headlines': [
+            'Квартира в зелёном квартале у метро',
+            'Малоэтажный дом — тишина и природа рядом',
+            'Видовая квартира с отделкой у парков',
+            'Квартира мечты в зелёном районе',
+        ],
         'descriptions': {
             1: [
                 'Квартира {area} кв.м в видовом комплексе «СЕЗОНЫ». Этаж {floor}/{floors}. Малоэтажный квартал у метро Просвещения. Квартиры с отделкой, зелёный район. Семейная ипотека. Скидка {discount}!',
@@ -225,6 +255,12 @@ PROJECTS = {
             'Город в городе — вся инфраструктура в квартале',
             'Школа с бассейном, 2 детсада, медцентры',
             'Малоэтажный квартал в Московском районе',
+        ],
+        'headlines': [
+            'Город в городе — школа, сады, медцентр рядом',
+            'Квартира для семьи — школа с бассейном в квартале',
+            'Всё для жизни в одном квартале',
+            'Семейная квартира — инфраструктура у порога',
         ],
         'descriptions': {
             1: [
@@ -251,6 +287,12 @@ PROJECTS = {
             'Премиальный дом на Петроградской стороне',
             'Выборгская набережная — виды на воду',
             'Эксклюзивные планировки от 50 кв.м',
+        ],
+        'headlines': [
+            'Премиум на Петроградской — виды на воду',
+            'Резиденция на набережной — эксклюзивный дом',
+            'Квартира премиум-класса с видом на Неву',
+            'Дом на воде в центре Петербурга',
         ],
         'descriptions': {
             1: [
@@ -281,6 +323,12 @@ PROJECTS = {
             'Рядом метро Кировский Завод',
             'Апарт-формат от надёжного застройщика',
         ],
+        'headlines': [
+            'Готовые апартаменты — дом сдан, заезжай!',
+            'Апартаменты с отделкой у метро — дом сдан',
+            'Апартаменты с ключами — без ожидания!',
+            'Дом сдан — апартаменты готовы к жизни',
+        ],
         'descriptions': {
             1: [
                 'Апартаменты с отделкой {area} кв.м рядом с метро. «Industrial AVENIR» — дом сдан, полностью готов! Заезжай и живи! Этаж {floor}/{floors}. Рядом метро Кировский Завод. Скидка {discount}!',
@@ -303,6 +351,12 @@ PROJECTS = {
             'Чистовая отделка',
             'Рядом метро Ладожская',
         ],
+        'headlines': [
+            'Апартаменты бизнес-класса — дом сдан!',
+            'Готовые апартаменты у метро Ладожская',
+            'Апартаменты с отделкой — заезжай сегодня',
+            'Бизнес-класс с ключами — без ожидания',
+        ],
         'descriptions': {
             1: [
                 'Готовые апартаменты {area} кв.м — дом сдан! «Ladozhsky AVENIR» у метро Ладожская. Чистовая отделка, заезжай сегодня. Бизнес-класс по цене комфорта. Скидка {discount}!',
@@ -321,6 +375,12 @@ PROJECTS = {
             'Центр Петербурга — метро Площадь Александра Невского',
             'Камерный дом бизнес-класса',
             'Просторные квартиры от 54 кв.м',
+        ],
+        'headlines': [
+            'Квартира в центре Петербурга — дом сдан!',
+            'Бизнес-класс у Невского проспекта',
+            'Камерный дом в сердце Петербурга',
+            'Квартира у метро — центр города, дом сдан',
         ],
         'descriptions': {
             1: [
@@ -358,6 +418,12 @@ PROJECTS = {
             'Набережная реки Карповки',
             'Дом сдан',
         ],
+        'headlines': [
+            'Премиум на набережной — дом сдан!',
+            'Квартира на Петроградской у воды',
+            'Премиальный дом на набережной Карповки',
+            'Квартира мечты — премиум, Петроградская',
+        ],
         'descriptions': {
             1: [
                 'Премиальная квартира {area} кв.м на Петроградской. ЖК «Северная корона» — дом сдан, набережная Карповки. Эксклюзивный формат, высокие потолки. Для ценителей.',
@@ -377,6 +443,11 @@ PROJECTS = {
         'class': 'премиум-класс',
         'metro': 'Петроградская',
         'usp': ['Апартаменты премиум-класса на Петроградской'],
+        'headlines': [
+            'Премиальные апартаменты на Петроградской',
+            'Апартаменты на набережной — дом сдан',
+            'Премиум-апартаменты у реки Карповки',
+        ],
         'descriptions': {
             3: [
                 'Премиальные апартаменты {area} кв.м на Петроградской. «Северная корона Apartments» — набережная Карповки, камерный формат. Дом сдан.',
@@ -438,6 +509,21 @@ def pick_description(project_key, rooms, offer_id, area, floor, floors, corpus, 
     )
 
 
+def pick_headline(project_key, offer_id):
+    """Pick an emotional selling headline for building-name field."""
+    proj = PROJECTS.get(project_key)
+    if not proj:
+        return None
+
+    headlines = proj.get('headlines', [])
+    if not headlines:
+        return None
+
+    # Rotate headlines based on offer_id hash (same approach as descriptions)
+    idx = int(hashlib.md5(str(offer_id).encode()).hexdigest(), 16) % len(headlines)
+    return headlines[idx]
+
+
 def make_image_url(base, folder, filename):
     """Build a properly URL-encoded image URL."""
     # Кодируем имя файла (пробелы, кириллица и т.д.)
@@ -446,7 +532,7 @@ def make_image_url(base, folder, filename):
 
 
 def convert_svg_to_cdn_jpg(svg_url):
-    """Wrap an SVG URL in CDN proxy to get a 1200x1200 JPG version."""
+    """Wrap an SVG URL in CDN proxy to get a 1200×1200 JPG version."""
     if not svg_url:
         return svg_url
     # Конвертируем только SVG-файлы с Yandex Cloud Storage
@@ -457,12 +543,11 @@ def convert_svg_to_cdn_jpg(svg_url):
 
 def pick_images(project_key, offer_id, original_images):
     """
-    Build image list (5 изображений):
-    1. Эмоциональное lifestyle-фото из /render/all/ (feedhub.realty)
-    2. Планировка квартиры (SVG→JPG через CDN-прокси)
-    3. Рендер проекта из /render/{slug}/ (feedhub.realty)
-    4. Рендер проекта из /render/{slug}/ (второй, другой)
-    5. Эмоциональное lifestyle-фото из /render/all/ (feedhub.realty)
+    Build image list:
+    1. Адаптированная планировка (SVG→JPG через CDN-прокси)
+    2. 2 универсальных lifestyle-фото из /render/all/
+    3. 1 рендер проекта из /render/{slug}/ (если есть)
+    4. Адаптированный план здания (SVG→JPG через CDN-прокси)
     """
     proj = PROJECTS.get(project_key)
     if not proj:
@@ -475,46 +560,31 @@ def pick_images(project_key, offer_id, original_images):
 
     result = []
 
-    # 1. Эмоциональное lifestyle-фото (первое)
-    idx1 = h % len(ALL_LIFESTYLE_PHOTOS)
-    result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[idx1]))
-
-    # 2. Планировка квартиры — конвертируем SVG в JPG через CDN
+    # 1. Планировка квартиры — конвертируем SVG в JPG через CDN
     if original_images:
         result.append(convert_svg_to_cdn_jpg(original_images[0]))
 
-    # 3-4. Два рендера проекта (если папка и файлы есть)
-    if slug and render_files:
-        render_idx1 = h % len(render_files)
-        result.append(make_image_url(IMAGE_BASE, slug, render_files[render_idx1]))
-        if len(render_files) > 1:
-            render_idx2 = (h + 7) % len(render_files)
-            # Гарантируем что второй рендер отличается от первого
-            if render_idx2 == render_idx1:
-                render_idx2 = (render_idx1 + 1) % len(render_files)
-            result.append(make_image_url(IMAGE_BASE, slug, render_files[render_idx2]))
-        else:
-            # Только один рендер — добавляем lifestyle вместо второго
-            extra_idx = (h + 37) % len(ALL_LIFESTYLE_PHOTOS)
-            if extra_idx == idx1:
-                extra_idx = (idx1 + 1) % len(ALL_LIFESTYLE_PHOTOS)
-            result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[extra_idx]))
-    else:
-        # Рендеров нет — два дополнительных lifestyle-фото
-        extra_idx1 = (h + 17) % len(ALL_LIFESTYLE_PHOTOS)
-        if extra_idx1 == idx1:
-            extra_idx1 = (idx1 + 1) % len(ALL_LIFESTYLE_PHOTOS)
-        result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[extra_idx1]))
-        extra_idx2 = (h + 37) % len(ALL_LIFESTYLE_PHOTOS)
-        if extra_idx2 in (idx1, extra_idx1):
-            extra_idx2 = (extra_idx1 + 1) % len(ALL_LIFESTYLE_PHOTOS)
-        result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[extra_idx2]))
+    # 2. Два универсальных lifestyle-фото из all/ (ротация по offer_id)
+    n_lifestyle = min(2, len(ALL_LIFESTYLE_PHOTOS))
+    for i in range(n_lifestyle):
+        idx = (h + i * 13) % len(ALL_LIFESTYLE_PHOTOS)
+        photo = ALL_LIFESTYLE_PHOTOS[idx]
+        result.append(make_image_url(IMAGE_BASE, 'all', photo))
 
-    # 5. Эмоциональное lifestyle-фото (последнее, отличается от первого)
-    idx5 = (h + 13) % len(ALL_LIFESTYLE_PHOTOS)
-    if idx5 == idx1:
-        idx5 = (idx1 + 1) % len(ALL_LIFESTYLE_PHOTOS)
-    result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[idx5]))
+    # 3. Один рендер проекта (если папка и файлы есть)
+    if slug and render_files:
+        render_idx = h % len(render_files)
+        render_file = render_files[render_idx]
+        result.append(make_image_url(IMAGE_BASE, slug, render_file))
+    elif len(ALL_LIFESTYLE_PHOTOS) > n_lifestyle:
+        # Если рендеров нет — ещё одно lifestyle-фото
+        extra_idx = (h + 37) % len(ALL_LIFESTYLE_PHOTOS)
+        photo = ALL_LIFESTYLE_PHOTOS[extra_idx]
+        result.append(make_image_url(IMAGE_BASE, 'all', photo))
+
+    # 4. План здания/этажа — конвертируем SVG в JPG через CDN
+    if len(original_images) > 1:
+        result.append(convert_svg_to_cdn_jpg(original_images[1]))
 
     return result
 
@@ -542,6 +612,11 @@ def transform_feed(input_path, output_path):
         if project_key not in PROJECTS:
             stats['skipped'] += 1
             continue
+
+        # Replace building-name with emotional selling headline
+        headline = pick_headline(project_key, offer_id)
+        if headline:
+            bn_elem.text = headline
 
         # Get offer data
         rooms = offer.find(f'{{{NS}}}rooms')
