@@ -117,8 +117,6 @@ body {
   background: var(--bg-filter);
   border-bottom: 1px solid var(--border);
   padding: 12px 24px;
-  position: sticky;
-  top: calc(env(safe-area-inset-top, 0px) + 62px);
   z-index: 90;
 }
 .filters-row {
@@ -399,10 +397,13 @@ body {
   inset: 0;
   z-index: 200;
   background: rgba(0,0,0,.5);
-  display: flex;
+  display: none;
   align-items: center;
   justify-content: center;
   padding: 20px;
+}
+.detail-overlay.open {
+  display: flex;
 }
 .detail-panel {
   background: var(--bg-card);
@@ -496,6 +497,14 @@ body {
   </div>
 </div>
 
+<div class="feed-url-bar" style="background:var(--bg-filter);border-bottom:1px solid var(--border);padding:10px 24px;">
+  <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+    <span class="filter-label" style="white-space:nowrap;align-self:center">URL фида</span>
+    <input type="text" class="filter-input" id="feedUrlInput" style="flex:1;min-width:200px;width:auto;font-size:12px" value="https://raw.githubusercontent.com/stasfactoryads-cloud/psk-feeds/adapted-feed-render/pskall_adapted_feed.xml">
+    <button class="btn-reset" id="btnLoadFeed" style="align-self:auto;font-weight:600;border-color:var(--accent);color:var(--accent)">Загрузить</button>
+  </div>
+</div>
+
 <div class="filters-bar">
   <div class="filters-row">
     <div class="filter-group">
@@ -550,10 +559,10 @@ body {
   <div class="cards-grid" id="cardsGrid"></div>
 </div>
 
-<div id="detailOverlay" class="detail-overlay" hidden></div>
+<div id="detailOverlay" class="detail-overlay"></div>
 
 <script>
-const FEED_URL = 'https://raw.githubusercontent.com/stasfactoryads-cloud/psk-feeds/adapted-feed-render/pskall_adapted_feed.xml';
+let currentFeedUrl = 'https://raw.githubusercontent.com/stasfactoryads-cloud/psk-feeds/adapted-feed-render/pskall_adapted_feed.xml';
 let allOffers = [];
 let currentSort = 'price-asc';
 
@@ -697,7 +706,7 @@ function renderCard(o) {
 
 function openDetail(o) {
   const ov = document.getElementById('detailOverlay');
-  ov.hidden = false;
+  ov.classList.add('open');
   ov.innerHTML = `
     <div class="detail-panel">
       <div class="detail-close"><button aria-label="Закрыть">✕</button></div>
@@ -725,8 +734,8 @@ function openDetail(o) {
       </div>
     </div>
   `;
-  ov.querySelector('.detail-close button').addEventListener('click', () => { ov.hidden = true; });
-  ov.addEventListener('click', e => { if (e.target === ov) ov.hidden = true; });
+  ov.querySelector('.detail-close button').addEventListener('click', () => { ov.classList.remove('open'); });
+  ov.addEventListener('click', e => { if (e.target === ov) ov.classList.remove('open'); });
 }
 
 function getFiltered() {
@@ -841,13 +850,26 @@ document.getElementById('btnReset').addEventListener('click', () => {
 
 // Close detail on Escape
 document.addEventListener('keydown', e => {
-  if (e.key === 'Escape') document.getElementById('detailOverlay').hidden = true;
+  if (e.key === 'Escape') document.getElementById('detailOverlay').classList.remove('open');
 });
 
 // Load feed
-async function loadFeed() {
+async function loadFeed(url) {
+  // Reset state
+  allOffers = [];
+  document.getElementById('cardsGrid').innerHTML = '';
+  document.getElementById('loadingState').hidden = false;
+  document.getElementById('errorState').hidden = true;
+  document.getElementById('emptyState').hidden = true;
+
+  // Reset filter dropdowns
+  const pSel = document.getElementById('fProject');
+  pSel.innerHTML = '<option value="">Все проекты</option>';
+  const rSel = document.getElementById('fRooms');
+  rSel.innerHTML = '<option value="">Все</option>';
+
   try {
-    const res = await fetch(FEED_URL);
+    const res = await fetch(url);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const xml = await res.text();
     const parser = new DOMParser();
@@ -875,5 +897,17 @@ async function loadFeed() {
   }
 }
 
-loadFeed();
+// Load feed button
+document.getElementById('btnLoadFeed').addEventListener('click', () => {
+  const url = document.getElementById('feedUrlInput').value.trim();
+  if (url) {
+    currentFeedUrl = url;
+    loadFeed(url);
+  }
+});
+document.getElementById('feedUrlInput').addEventListener('keydown', e => {
+  if (e.key === 'Enter') document.getElementById('btnLoadFeed').click();
+});
+
+loadFeed(currentFeedUrl);
 </script>
