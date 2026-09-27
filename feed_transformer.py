@@ -457,11 +457,12 @@ def convert_svg_to_cdn_jpg(svg_url):
 
 def pick_images(project_key, offer_id, original_images):
     """
-    Build image list:
-    1. Адаптированная планировка (SVG→JPG через CDN-прокси)
-    2. 2 универсальных lifestyle-фото из /render/all/
-    3. 1 рендер проекта из /render/{slug}/ (если есть)
-    4. Адаптированный план здания (SVG→JPG через CDN-прокси)
+    Build image list (5 изображений):
+    1. Эмоциональное lifestyle-фото из /render/all/ (feedhub.realty)
+    2. Планировка квартиры (SVG→JPG через CDN-прокси)
+    3. Рендер проекта из /render/{slug}/ (feedhub.realty)
+    4. Рендер проекта из /render/{slug}/ (второй, другой)
+    5. Эмоциональное lifestyle-фото из /render/all/ (feedhub.realty)
     """
     proj = PROJECTS.get(project_key)
     if not proj:
@@ -474,31 +475,46 @@ def pick_images(project_key, offer_id, original_images):
 
     result = []
 
-    # 1. Планировка квартиры — конвертируем SVG в JPG через CDN
+    # 1. Эмоциональное lifestyle-фото (первое)
+    idx1 = h % len(ALL_LIFESTYLE_PHOTOS)
+    result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[idx1]))
+
+    # 2. Планировка квартиры — конвертируем SVG в JPG через CDN
     if original_images:
         result.append(convert_svg_to_cdn_jpg(original_images[0]))
 
-    # 2. Два универсальных lifestyle-фото из all/ (ротация по offer_id)
-    n_lifestyle = min(2, len(ALL_LIFESTYLE_PHOTOS))
-    for i in range(n_lifestyle):
-        idx = (h + i * 13) % len(ALL_LIFESTYLE_PHOTOS)
-        photo = ALL_LIFESTYLE_PHOTOS[idx]
-        result.append(make_image_url(IMAGE_BASE, 'all', photo))
-
-    # 3. Один рендер проекта (если папка и файлы есть)
+    # 3-4. Два рендера проекта (если папка и файлы есть)
     if slug and render_files:
-        render_idx = h % len(render_files)
-        render_file = render_files[render_idx]
-        result.append(make_image_url(IMAGE_BASE, slug, render_file))
-    elif len(ALL_LIFESTYLE_PHOTOS) > n_lifestyle:
-        # Если рендеров нет — ещё одно lifestyle-фото
-        extra_idx = (h + 37) % len(ALL_LIFESTYLE_PHOTOS)
-        photo = ALL_LIFESTYLE_PHOTOS[extra_idx]
-        result.append(make_image_url(IMAGE_BASE, 'all', photo))
+        render_idx1 = h % len(render_files)
+        result.append(make_image_url(IMAGE_BASE, slug, render_files[render_idx1]))
+        if len(render_files) > 1:
+            render_idx2 = (h + 7) % len(render_files)
+            # Гарантируем что второй рендер отличается от первого
+            if render_idx2 == render_idx1:
+                render_idx2 = (render_idx1 + 1) % len(render_files)
+            result.append(make_image_url(IMAGE_BASE, slug, render_files[render_idx2]))
+        else:
+            # Только один рендер — добавляем lifestyle вместо второго
+            extra_idx = (h + 37) % len(ALL_LIFESTYLE_PHOTOS)
+            if extra_idx == idx1:
+                extra_idx = (idx1 + 1) % len(ALL_LIFESTYLE_PHOTOS)
+            result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[extra_idx]))
+    else:
+        # Рендеров нет — два дополнительных lifestyle-фото
+        extra_idx1 = (h + 17) % len(ALL_LIFESTYLE_PHOTOS)
+        if extra_idx1 == idx1:
+            extra_idx1 = (idx1 + 1) % len(ALL_LIFESTYLE_PHOTOS)
+        result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[extra_idx1]))
+        extra_idx2 = (h + 37) % len(ALL_LIFESTYLE_PHOTOS)
+        if extra_idx2 in (idx1, extra_idx1):
+            extra_idx2 = (extra_idx1 + 1) % len(ALL_LIFESTYLE_PHOTOS)
+        result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[extra_idx2]))
 
-    # 4. План здания/этажа — конвертируем SVG в JPG через CDN
-    if len(original_images) > 1:
-        result.append(convert_svg_to_cdn_jpg(original_images[1]))
+    # 5. Эмоциональное lifestyle-фото (последнее, отличается от первого)
+    idx5 = (h + 13) % len(ALL_LIFESTYLE_PHOTOS)
+    if idx5 == idx1:
+        idx5 = (idx1 + 1) % len(ALL_LIFESTYLE_PHOTOS)
+    result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[idx5]))
 
     return result
 
