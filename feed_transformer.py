@@ -26,41 +26,16 @@ IMAGE_BASE = 'https://feedhub.realty/ads/render'
 # ─────────────────────────────────────────────────────────────
 
 ALL_LIFESTYLE_PHOTOS = [
-    'photo_2026-09-25 15.30.22.jpeg',
-    'photo_2026-09-25 15.30.27.jpeg',
-    'photo_2026-09-25 15.30.33.jpeg',
-    'photo_2026-09-25 15.30.36.jpeg',
-    'photo_2026-09-25 15.30.39.jpeg',
-    'photo_2026-09-25 15.30.52.jpeg',
-    'photo_2026-09-25 15.31.13.jpeg',
-    'photo_2026-09-25 15.31.16.jpeg',
-    'photo_2026-09-25 15.31.20.jpeg',
-    'photo_2026-09-25 15.31.23.jpeg',
-    'photo_2026-09-25 15.31.32.jpeg',
-    'photo_2026-09-25 15.31.36.jpeg',
-    'photo_2026-09-25 15.31.38.jpeg',
-    'photo_2026-09-25 15.31.43.jpeg',
-    'photo_2026-09-25 15.31.47.jpeg',
-    'photo_2026-09-25 15.31.52.jpeg',
-    'photo_2026-09-25 15.32.06.jpeg',
-    'photo_2026-09-25 15.32.09.jpeg',
-    'photo_2026-09-25 15.32.14.jpeg',
-    'photo_2026-09-25 15.32.17.jpeg',
-    'photo_2026-09-25 15.32.20.jpeg',
-    'photo_2026-09-25 15.32.34.jpeg',
-    'photo_2026-09-25 15.32.39.jpeg',
-    'photo_2026-09-25 15.32.42.jpeg',
-    'photo_2026-09-25 15.32.45.jpeg',
-    'photo_2026-09-25 15.32.49.jpeg',
-    'photo_2026-09-25 15.32.59.jpeg',
-    'photo_2026-09-25 15.33.09.jpeg',
-    'photo_2026-09-25 15.33.19.jpeg',
-    'photo_2026-09-25 15.33.26.jpeg',
-    'photo_2026-09-25 15.33.30.jpeg',
-    'photo_2026-09-25 15.33.32.jpeg',
-    'photo_2026-09-25 15.33.34.jpeg',
-    'photo_2026-09-25 15.33.36.jpeg',
-    'photo_2026-09-25 15.33.39.jpeg',
+    '1.jpeg',
+    '2.jpeg',
+    '3.jpeg',
+    '4.jpeg',
+    '5.jpeg',
+    '6.jpeg',
+    '7.jpeg',
+    '8.jpeg',
+    '9.jpeg',
+    '10.jpeg',
 ]
 
 # ─────────────────────────────────────────────────────────────
@@ -705,11 +680,11 @@ def make_image_url(base, folder, filename):
 def pick_images(project_key, offer_id, original_images):
     """
     Build image list (5 графических изображений, БЕЗ планировок):
-    1. Эмоциональное lifestyle-фото из /render/all/ (feedhub.realty)
-    2. Рендер проекта из API psk-info.ru (slider image #1)
-    3. Рендер проекта из API psk-info.ru (slider image #2)
-    4. Рендер проекта из API psk-info.ru (slider image #3)
-    5. Эмоциональное lifestyle-фото из /render/all/ (feedhub.realty)
+    1. Lifestyle-фото из /render/all/ (1–10.jpeg)
+    2. Lifestyle-фото из /render/all/ (другое, 1–10.jpeg)
+    3. Рендер проекта из API psk-info.ru (slider image #1)
+    4. Рендер проекта из API psk-info.ru (slider image #2)
+    5. Lifestyle-фото из /render/all/ (третье, отличается от 1 и 2)
     """
     proj = PROJECTS.get(project_key)
     if not proj:
@@ -722,49 +697,40 @@ def pick_images(project_key, offer_id, original_images):
     result = []
     used_lifestyle = set()
 
-    # 1. Эмоциональное lifestyle-фото (первое)
+    # 1. Lifestyle-фото (первое)
     idx1 = h % len(ALL_LIFESTYLE_PHOTOS)
     result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[idx1]))
     used_lifestyle.add(idx1)
 
-    # 2-4. Три рендера проекта (или lifestyle-замены если рендеров мало)
+    # 2. Lifestyle-фото (второе, отличается от первого)
+    idx2 = (h + 7) % len(ALL_LIFESTYLE_PHOTOS)
+    while idx2 in used_lifestyle:
+        idx2 = (idx2 + 1) % len(ALL_LIFESTYLE_PHOTOS)
+    result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[idx2]))
+    used_lifestyle.add(idx2)
+
+    # 3-4. Два рендера проекта из API
     if render_urls:
         render_idx1 = h % len(render_urls)
         result.append(render_urls[render_idx1])
-
         if len(render_urls) > 1:
             render_idx2 = (h + 7) % len(render_urls)
             if render_idx2 == render_idx1:
                 render_idx2 = (render_idx1 + 1) % len(render_urls)
             result.append(render_urls[render_idx2])
         else:
-            extra_idx = (h + 37) % len(ALL_LIFESTYLE_PHOTOS)
-            while extra_idx in used_lifestyle:
-                extra_idx = (extra_idx + 1) % len(ALL_LIFESTYLE_PHOTOS)
-            result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[extra_idx]))
-            used_lifestyle.add(extra_idx)
-
-        if len(render_urls) > 2:
-            render_idx3 = (h + 17) % len(render_urls)
-            while render_idx3 in (render_idx1, render_idx2 if len(render_urls) > 1 else -1):
-                render_idx3 = (render_idx3 + 1) % len(render_urls)
-            result.append(render_urls[render_idx3])
-        else:
-            extra_idx = (h + 47) % len(ALL_LIFESTYLE_PHOTOS)
-            while extra_idx in used_lifestyle:
-                extra_idx = (extra_idx + 1) % len(ALL_LIFESTYLE_PHOTOS)
-            result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[extra_idx]))
-            used_lifestyle.add(extra_idx)
+            # Только один рендер — дублируем его
+            result.append(render_urls[render_idx1])
     else:
-        # Рендеров нет — три дополнительных lifestyle-фото
-        for offset in (17, 37, 47):
+        # Рендеров нет — два дополнительных lifestyle
+        for offset in (17, 37):
             extra_idx = (h + offset) % len(ALL_LIFESTYLE_PHOTOS)
             while extra_idx in used_lifestyle:
                 extra_idx = (extra_idx + 1) % len(ALL_LIFESTYLE_PHOTOS)
             result.append(make_image_url(IMAGE_BASE, 'all', ALL_LIFESTYLE_PHOTOS[extra_idx]))
             used_lifestyle.add(extra_idx)
 
-    # 5. Эмоциональное lifestyle-фото (последнее, отличается от всех предыдущих)
+    # 5. Lifestyle-фото (третье, отличается от первых двух)
     idx5 = (h + 13) % len(ALL_LIFESTYLE_PHOTOS)
     while idx5 in used_lifestyle:
         idx5 = (idx5 + 1) % len(ALL_LIFESTYLE_PHOTOS)
