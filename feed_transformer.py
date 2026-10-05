@@ -744,6 +744,14 @@ def transform_feed(input_path, output_path):
     tree = ET.parse(input_path)
     root = tree.getroot()
 
+    # Обновляем generation-date на текущее время (МСК, UTC+3)
+    from datetime import datetime, timezone, timedelta
+    msk = timezone(timedelta(hours=3))
+    now_msk = datetime.now(msk).strftime('%Y-%m-%dT%H:%M:%S+03:00')
+    gen_date = root.find(f'{{{NS}}}generation-date')
+    if gen_date is not None:
+        gen_date.text = now_msk
+
     offers = root.findall(f'{{{NS}}}offer')
     stats = {'total': 0, 'transformed': 0, 'skipped': 0}
 
