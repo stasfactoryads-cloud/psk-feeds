@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-10-08T09:19:38+03:00</generation-date>
+  <generation-date>2026-10-09T09:19:41+03:00</generation-date>
+  <offer internal-id="100814">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100814</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>6000000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>27.61</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>10</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/a214e3eac3ebf34a5d43fdd681b87e71e128c778.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/2e2ae326d43c9d8dff7d91581534557c7928411b.svg</image>
+    <description>1-комн. квартира, 27.61 кв.м, Этаж 10/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г.</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
   <offer internal-id="100226">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100226</url>
     <location>
       <country>Россия</country>
@@ -44,11 +86,97 @@
       <url>https://psk-info.ru/projects/ladozhsky</url>
     </sales-agent>
   </offer>
+  <offer internal-id="100967">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
+    <url>https://psk-info.ru/flats/100967</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>6925951</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7695501</old-price>
+    <area>
+      <value>25.78</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>12</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/15f9271c7bf6f2eff4956cd89d3b2692507d4430.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/144d7e7a6f57789161febaf84ee776b1bc2cd71c.svg</image>
+    <description>1-комн. квартира, 25.78 кв.м, Этаж 12/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="101116">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101116</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7096359</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7884844</old-price>
+    <area>
+      <value>25.68</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/7738ce2d4bbf3f496216860e568f1566a3b23195.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg</image>
+    <description>1-комн. квартира, 25.68 кв.м, Этаж 14/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
   <offer internal-id="101107">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/101107</url>
     <location>
       <country>Россия</country>
@@ -91,7 +219,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/101117</url>
     <location>
       <country>Россия</country>
@@ -134,7 +262,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/101118</url>
     <location>
       <country>Россия</country>
@@ -173,11 +301,54 @@
       <url>https://psk-info.ru/projects/ladozhsky</url>
     </sales-agent>
   </offer>
+  <offer internal-id="101174">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
+    <url>https://psk-info.ru/flats/101174</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
+      <metro>
+        <name>Ладожская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7314488</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8127209</old-price>
+    <area>
+      <value>24.22</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/ec0592d73758aefc2e28bc4f46f76dea4d6d7b96.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg</image>
+    <description>1-комн. квартира, 24.22 кв.м, Этаж 14/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/ladozhsky</url>
+    </sales-agent>
+  </offer>
   <offer internal-id="100258">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100258</url>
     <location>
       <country>Россия</country>
@@ -220,7 +391,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100268</url>
     <location>
       <country>Россия</country>
@@ -263,7 +434,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100270</url>
     <location>
       <country>Россия</country>
@@ -306,7 +477,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100272</url>
     <location>
       <country>Россия</country>
@@ -349,7 +520,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100643</url>
     <location>
       <country>Россия</country>
@@ -388,97 +559,11 @@
       <url>https://psk-info.ru/projects/ladozhsky</url>
     </sales-agent>
   </offer>
-  <offer internal-id="100420">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
-    <url>https://psk-info.ru/flats/100420</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
-      <metro>
-        <name>Ладожская</name>
-      </metro>
-    </location>
-    <price>
-      <value>7435104</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>8261227</old-price>
-    <area>
-      <value>27.16</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>5</floor>
-    <floors-total>14</floors-total>
-    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2024</built-year>
-    <ready-quarter>4</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/28ff71b6b6ee2f257afdc863c26305533d7d97dc.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/f545aba1e335f10b175ce83d98046490e99abee3.svg</image>
-    <description>1-комн. квартира, 27.16 кв.м, Этаж 5/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/ladozhsky</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="100883">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
-    <url>https://psk-info.ru/flats/100883</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Магнитогорская улица, 51 литера 3</address>
-      <metro>
-        <name>Ладожская</name>
-      </metro>
-    </location>
-    <price>
-      <value>7471389</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>8301544</old-price>
-    <area>
-      <value>31.15</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>11</floor>
-    <floors-total>14</floors-total>
-    <building-name>ЖК «Ladozhsky AVENIR», корпус 1</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2024</built-year>
-    <ready-quarter>4</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/3b429439c44ea469884353b8227120063a87e8f9.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/adddf21fe3d79b5d3613961f8d71db6ac5ac0de7.svg</image>
-    <description>1-комн. квартира, 31.15 кв.м, Этаж 11/14, корпус 1. ЖК «Ladozhsky AVENIR» — бизнес-класс, рядом с метро Ладожская. Монолитный дом, сдача 4 кв. 2024 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/ladozhsky</url>
-    </sales-agent>
-  </offer>
   <offer internal-id="100257">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100257</url>
     <location>
       <country>Россия</country>
@@ -521,7 +606,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100259</url>
     <location>
       <country>Россия</country>
@@ -564,7 +649,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100271</url>
     <location>
       <country>Россия</country>
@@ -607,7 +692,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100821</url>
     <location>
       <country>Россия</country>
@@ -650,7 +735,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100831</url>
     <location>
       <country>Россия</country>
@@ -693,7 +778,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100289</url>
     <location>
       <country>Россия</country>
@@ -736,7 +821,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100409</url>
     <location>
       <country>Россия</country>
@@ -779,7 +864,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100366</url>
     <location>
       <country>Россия</country>
@@ -822,7 +907,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100569</url>
     <location>
       <country>Россия</country>
@@ -865,7 +950,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100484</url>
     <location>
       <country>Россия</country>
@@ -908,7 +993,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100606</url>
     <location>
       <country>Россия</country>
@@ -951,7 +1036,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100724</url>
     <location>
       <country>Россия</country>
@@ -994,7 +1079,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100804</url>
     <location>
       <country>Россия</country>
@@ -1037,7 +1122,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100846</url>
     <location>
       <country>Россия</country>
@@ -1080,7 +1165,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100439</url>
     <location>
       <country>Россия</country>
@@ -1123,7 +1208,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100926</url>
     <location>
       <country>Россия</country>
@@ -1166,7 +1251,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100519</url>
     <location>
       <country>Россия</country>
@@ -1209,7 +1294,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100964</url>
     <location>
       <country>Россия</country>
@@ -1252,7 +1337,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/101044</url>
     <location>
       <country>Россия</country>
@@ -1295,7 +1380,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/101124</url>
     <location>
       <country>Россия</country>
@@ -1338,7 +1423,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/101166</url>
     <location>
       <country>Россия</country>
@@ -1381,7 +1466,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100759</url>
     <location>
       <country>Россия</country>
@@ -1424,7 +1509,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100839</url>
     <location>
       <country>Россия</country>
@@ -1467,7 +1552,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100919</url>
     <location>
       <country>Россия</country>
@@ -1510,7 +1595,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/101079</url>
     <location>
       <country>Россия</country>
@@ -1553,7 +1638,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/101159</url>
     <location>
       <country>Россия</country>
@@ -1596,7 +1681,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100336</url>
     <location>
       <country>Россия</country>
@@ -1639,7 +1724,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100416</url>
     <location>
       <country>Россия</country>
@@ -1682,7 +1767,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100496</url>
     <location>
       <country>Россия</country>
@@ -1725,7 +1810,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100656</url>
     <location>
       <country>Россия</country>
@@ -1768,7 +1853,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100736</url>
     <location>
       <country>Россия</country>
@@ -1811,7 +1896,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100513</url>
     <location>
       <country>Россия</country>
@@ -1854,7 +1939,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100495</url>
     <location>
       <country>Россия</country>
@@ -1897,7 +1982,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100575</url>
     <location>
       <country>Россия</country>
@@ -1940,7 +2025,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100673</url>
     <location>
       <country>Россия</country>
@@ -1983,7 +2068,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100655</url>
     <location>
       <country>Россия</country>
@@ -2026,7 +2111,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100735</url>
     <location>
       <country>Россия</country>
@@ -2069,7 +2154,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100815</url>
     <location>
       <country>Россия</country>
@@ -2112,7 +2197,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100913</url>
     <location>
       <country>Россия</country>
@@ -2155,7 +2240,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100895</url>
     <location>
       <country>Россия</country>
@@ -2198,7 +2283,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100993</url>
     <location>
       <country>Россия</country>
@@ -2241,7 +2326,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100975</url>
     <location>
       <country>Россия</country>
@@ -2284,7 +2369,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/101073</url>
     <location>
       <country>Россия</country>
@@ -2327,7 +2412,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/101055</url>
     <location>
       <country>Россия</country>
@@ -2370,7 +2455,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/101135</url>
     <location>
       <country>Россия</country>
@@ -2413,7 +2498,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100434</url>
     <location>
       <country>Россия</country>
@@ -2456,7 +2541,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100594</url>
     <location>
       <country>Россия</country>
@@ -2499,7 +2584,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100674</url>
     <location>
       <country>Россия</country>
@@ -2542,7 +2627,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100754</url>
     <location>
       <country>Россия</country>
@@ -2585,7 +2670,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100834</url>
     <location>
       <country>Россия</country>
@@ -2628,7 +2713,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100914</url>
     <location>
       <country>Россия</country>
@@ -2671,7 +2756,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/100994</url>
     <location>
       <country>Россия</country>
@@ -2714,7 +2799,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/101074</url>
     <location>
       <country>Россия</country>
@@ -2757,7 +2842,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-08T09:19:38+03:00</creation-date>
+    <creation-date>2026-10-09T09:19:41+03:00</creation-date>
     <url>https://psk-info.ru/flats/101154</url>
     <location>
       <country>Россия</country>
