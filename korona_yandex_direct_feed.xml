@@ -1,95 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-10-20T09:29:44+03:00</generation-date>
-  <offer internal-id="87543">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-10-20T09:29:44+03:00</creation-date>
-    <url>https://psk-info.ru/flats/87543</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, наб. Реки Карповки, 31Б</address>
-      <metro>
-        <name>Петроградская</name>
-      </metro>
-    </location>
-    <price>
-      <value>47300000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>55.0</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>8</floor>
-    <floors-total>8</floors-total>
-    <building-name>ЖК «Северная корона», корпус 82</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2023</built-year>
-    <ready-quarter>4</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/f0b2ab4d76bb546c2a9e055b4c39c7f4ab4c02b0.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/ab0e11124458076f0d762babca5f0dde7e26543f.svg</image>
-    <description>1-комн. квартира, 55.0 кв.м, Этаж 8/8, корпус 82. ЖК «Северная корона» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 4 кв. 2023 г.</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/korona</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="87632">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-10-20T09:29:44+03:00</creation-date>
-    <url>https://psk-info.ru/flats/87632</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, наб. Реки Карповки, 31Б</address>
-      <metro>
-        <name>Петроградская</name>
-      </metro>
-    </location>
-    <price>
-      <value>69204000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>94.8</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>2</rooms>
-    <rooms-offered>2</rooms-offered>
-    <floor>6</floor>
-    <floors-total>8</floors-total>
-    <building-name>ЖК «Северная корона», корпус 81</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2023</built-year>
-    <ready-quarter>4</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/05588596c8330fdefa02d31834c54c45727ef597.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/b131bdc247bbad53d9388dc9799ff3527a8ddcb7.svg</image>
-    <description>2-комн. квартира, 94.8 кв.м, Этаж 6/8, корпус 81. ЖК «Северная корона» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 4 кв. 2023 г.</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/korona</url>
-    </sales-agent>
-  </offer>
+  <generation-date>2026-10-21T09:31:20+03:00</generation-date>
   <offer internal-id="87462">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-20T09:29:44+03:00</creation-date>
+    <creation-date>2026-10-21T09:31:20+03:00</creation-date>
     <url>https://psk-info.ru/flats/87462</url>
     <location>
       <country>Россия</country>
@@ -131,7 +47,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-20T09:29:44+03:00</creation-date>
+    <creation-date>2026-10-21T09:31:20+03:00</creation-date>
     <url>https://psk-info.ru/flats/87570</url>
     <location>
       <country>Россия</country>
@@ -169,53 +85,11 @@
       <url>https://psk-info.ru/projects/korona</url>
     </sales-agent>
   </offer>
-  <offer internal-id="87414">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-10-20T09:29:44+03:00</creation-date>
-    <url>https://psk-info.ru/flats/87414</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, наб. Реки Карповки, 31Б</address>
-      <metro>
-        <name>Петроградская</name>
-      </metro>
-    </location>
-    <price>
-      <value>130674000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>150.2</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>3</rooms>
-    <rooms-offered>3</rooms-offered>
-    <floor>6</floor>
-    <floors-total>8</floors-total>
-    <building-name>ЖК «Северная корона», корпус 72</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2023</built-year>
-    <ready-quarter>4</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/6527b69ba43648cc55eec2d683a429cdeaa5658a.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/f73b910178843296932f6e0064ab2f03cb41cba3.svg</image>
-    <description>3-комн. квартира, 150.2 кв.м, Этаж 6/8, корпус 72. ЖК «Северная корона» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 4 кв. 2023 г.</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/korona</url>
-    </sales-agent>
-  </offer>
   <offer internal-id="87636">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-20T09:29:44+03:00</creation-date>
+    <creation-date>2026-10-21T09:31:20+03:00</creation-date>
     <url>https://psk-info.ru/flats/87636</url>
     <location>
       <country>Россия</country>
