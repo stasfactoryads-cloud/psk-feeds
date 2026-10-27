@@ -771,6 +771,11 @@ def transform_feed(input_path, output_path):
             stats['skipped'] += 1
             continue
 
+        # <type> → «ГК ПСК» (вместо «продажа»)
+        type_elem = offer.find(f'{{{NS}}}type')
+        if type_elem is not None:
+            type_elem.text = 'ГК ПСК'
+
         # Update AVENIR projects: дом сдан, апартаменты (не квартиры)
         if project_key in ('ЖК «Industrial AVENIR»', 'ЖК «Ladozhsky AVENIR»'):
             # built-year → «Дом сдан»
