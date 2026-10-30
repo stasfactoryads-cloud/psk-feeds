@@ -1,54 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-10-29T15:29:41+03:00</generation-date>
-  <offer internal-id="431910">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
-    <url>https://psk-info.ru/flats/431910</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Выборгская набережная, 61</address>
-      <metro>
-        <name>Петроградская</name>
-      </metro>
-    </location>
-    <price>
-      <value>22869552</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>28586940</old-price>
-    <area>
-      <value>47.4</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>2</floor>
-    <floors-total>9</floors-total>
-    <building-name>ЖК «Акватория», корпус 2</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2029</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/807891d28bbd0684d5da46aa38f6a2febaff5294.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
-    <description>1-комн. квартира, 47.4 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/akvatoriya-premialnyj-dom</url>
-    </sales-agent>
-  </offer>
+  <generation-date>2026-10-30T15:21:23+03:00</generation-date>
   <offer internal-id="431809">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431809</url>
     <location>
       <country>Россия</country>
@@ -91,7 +48,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431873</url>
     <location>
       <country>Россия</country>
@@ -121,8 +78,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/c403e6ec753173bfd49c472a8b9724c745695944.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/65ada78376b501aa2eafe0e68f2de11ffa059162.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>1-комн. квартира, 53.47 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -134,7 +91,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431841</url>
     <location>
       <country>Россия</country>
@@ -177,7 +134,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431914</url>
     <location>
       <country>Россия</country>
@@ -207,8 +164,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/46bba321f62ebba540d6542ea985f98e7cef41f2.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/9a56d05cc5f9ba49bab72468fcb54946a9ef71f7.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>1-комн. квартира, 46.34 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -220,7 +177,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432068</url>
     <location>
       <country>Россия</country>
@@ -250,8 +207,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/7ab66bc98dec2fef46be0b3f208c5e545fedc185.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/c733c9e8e94a038e3eb976efaf2eaa363570b5e8.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>1-комн. квартира, 52.47 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -263,7 +220,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431924</url>
     <location>
       <country>Россия</country>
@@ -293,8 +250,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/6abfdf68ae9a12477bbae60f2e764e00057e410c.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/86a0ea92c94e7397df9d49c3d9acf5af3e06489c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>1-комн. квартира, 46.03 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -306,7 +263,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431970</url>
     <location>
       <country>Россия</country>
@@ -336,8 +293,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/4403ee21e6819dbf8ec94e7c9fceb4b62d7eaa17.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/190ab0c9df4e30e5cec3efadafba6f834e633cfe.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>1-комн. квартира, 55.65 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -349,7 +306,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431813</url>
     <location>
       <country>Россия</country>
@@ -392,7 +349,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431915</url>
     <location>
       <country>Россия</country>
@@ -422,8 +379,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/b760d7d7ed02ee3407214f863f99b3d18a1d400b.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/5536f5159456b94fae96752073933f100cd6b83f.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>1-комн. квартира, 46.98 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -435,7 +392,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432078</url>
     <location>
       <country>Россия</country>
@@ -466,7 +423,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/f60e7189dd61cad969d8a488ed096b728598d577.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>1-комн. квартира, 51.5 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -478,7 +435,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432044</url>
     <location>
       <country>Россия</country>
@@ -508,8 +465,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/fbd209f1a661ba11a3d29e2afd8050ce6c538896.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/0d8946165bafd2f22c4d458bb521c1b253f259c7.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>1-комн. квартира, 56.34 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -521,7 +478,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431934</url>
     <location>
       <country>Россия</country>
@@ -551,8 +508,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/351bad4d1cc0f751ff8929e60e82816f187ad65b.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/a630895961c084bfeed61ff29a0d099168de4e3f.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>1-комн. квартира, 45.87 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -564,7 +521,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431976</url>
     <location>
       <country>Россия</country>
@@ -595,7 +552,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/015fb01f237b67d40109bd44c3367bbe7c221090.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>1-комн. квартира, 54.91 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -607,7 +564,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431925</url>
     <location>
       <country>Россия</country>
@@ -637,8 +594,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/36b13a1491d09277d23fcb263dfb25f1d385322a.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/20cd7b0c4ef491507e91dec48552ebea23af19ee.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>1-комн. квартира, 46.89 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -650,7 +607,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432088</url>
     <location>
       <country>Россия</country>
@@ -681,7 +638,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/a8f159c68c67090b34e3e0038fc232a3b430f45e.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>1-комн. квартира, 51.15 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -693,7 +650,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432050</url>
     <location>
       <country>Россия</country>
@@ -724,7 +681,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/b1187f0ee783868e73d012c3d8e510f97c383bd1.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>1-комн. квартира, 55.61 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -736,7 +693,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431821</url>
     <location>
       <country>Россия</country>
@@ -779,7 +736,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431878</url>
     <location>
       <country>Россия</country>
@@ -809,8 +766,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/425c2df855a226f2ca5e080cf404fbfbea0aa8a4.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/02a341e22952288d88c1fe374c537ff18fef5b55.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>1-комн. квартира, 53.31 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -822,7 +779,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431982</url>
     <location>
       <country>Россия</country>
@@ -853,7 +810,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/c873ebb9a7f9f159f62af09986adab2bb31e3262.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>1-комн. квартира, 54.52 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -865,7 +822,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431829</url>
     <location>
       <country>Россия</country>
@@ -908,7 +865,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432056</url>
     <location>
       <country>Россия</country>
@@ -939,7 +896,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/257c19cedfc0fa035023045860d0d3d5886f73a0.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>1-комн. квартира, 55.43 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -951,7 +908,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431888</url>
     <location>
       <country>Россия</country>
@@ -982,7 +939,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/2adf843a3216d5beff8e78c6328bfc9f132f87fb.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>1-комн. квартира, 53.12 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -994,7 +951,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431898</url>
     <location>
       <country>Россия</country>
@@ -1025,7 +982,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/b4f55a859a2ba0e5cde1fd3f1d61dc63595b7987.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>1-комн. квартира, 52.79 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1037,7 +994,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431845</url>
     <location>
       <country>Россия</country>
@@ -1080,7 +1037,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432010</url>
     <location>
       <country>Россия</country>
@@ -1110,8 +1067,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/a705288674d4497c2b4d2243a831a3ae7cc52850.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/da5f5059e56791f120d1d458af10a60418154f55.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/9eb651232443b207af018e4b1d56a80a8936a086.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/41fc7c53d51ec707b582ca9787eda0df2138c269.svg</image>
     <description>1-комн. квартира, 44.35 кв.м, Этаж 6/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1123,7 +1080,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431853</url>
     <location>
       <country>Россия</country>
@@ -1166,7 +1123,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432015</url>
     <location>
       <country>Россия</country>
@@ -1197,7 +1154,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/71380f9b5afb865f5302989662989549b3230e12.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>1-комн. квартира, 44.8 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1209,7 +1166,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432106</url>
     <location>
       <country>Россия</country>
@@ -1239,8 +1196,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/5aa71da1db7151b6ba6f3d1288cd75962e578084.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/4831e09918802abdc9c0ca09bf1426c3dd949af0.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>1-комн. квартира, 61.3 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1252,7 +1209,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432064</url>
     <location>
       <country>Россия</country>
@@ -1282,8 +1239,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/e5f4e4526b5966c452752f1286dae41ae45abc68.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/309b508c437225e112270576d6d123837b663af3.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>2-комн. квартира, 66.69 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1295,7 +1252,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431861</url>
     <location>
       <country>Россия</country>
@@ -1338,7 +1295,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432116</url>
     <location>
       <country>Россия</country>
@@ -1369,7 +1326,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/35025a00621dd4b3387aff8b0831c9f00f5e8a46.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>1-комн. квартира, 60.31 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1381,7 +1338,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431871</url>
     <location>
       <country>Россия</country>
@@ -1411,8 +1368,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/e8f85e701a97de0e7f236098149fddc1f5c3c8c5.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/3443ef05ab3e72bd91a7ecd80bf247f56b1feb49.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>2-комн. квартира, 69.93 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1424,7 +1381,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431945</url>
     <location>
       <country>Россия</country>
@@ -1454,8 +1411,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/00fe6e9716d66964f9bb7979c68828497fdd6a68.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/18829e060f5f8fbcdf11c043098ad49467161dec.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>2-комн. квартира, 66.87 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1467,7 +1424,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432146</url>
     <location>
       <country>Россия</country>
@@ -1497,8 +1454,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/2dde5bda3af4665de78a77628f3b455acdffbd3f.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/03625e04c218767178d22649dc7469c1b2edc930.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>2-комн. квартира, 64.83 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1510,7 +1467,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432156</url>
     <location>
       <country>Россия</country>
@@ -1540,8 +1497,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/bd48dad10190d75257d97beb5a01fc4b9221ba38.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/50ca6c6cd91b7fe491ce102230e32afc184812d9.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>2-комн. квартира, 63.61 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1553,7 +1510,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432063</url>
     <location>
       <country>Россия</country>
@@ -1583,8 +1540,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/fe0e23332a99607b6a856adb4e15231084d80374.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/5c92739a00bf3187d474837ff118eec66a059200.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>2-комн. квартира, 77.35 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1596,7 +1553,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432069</url>
     <location>
       <country>Россия</country>
@@ -1626,8 +1583,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/f6abd88de103a19b2a4c3daa7fa7bbc82575d2c7.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/3c878300781a292a7c0c690a9444cd1719414e64.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>2-комн. квартира, 67.97 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1639,7 +1596,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431810</url>
     <location>
       <country>Россия</country>
@@ -1682,7 +1639,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431840</url>
     <location>
       <country>Россия</country>
@@ -1712,7 +1669,7 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d3ada2e44eeb3cdbac66273c26c21a83219915c0.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/0a00e449476fb2c70973f649f02b6314435b1db8.svg</image>
     <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/8a9db6c5584db6fa21e044e165b88a40e869682a.svg</image>
     <description>2-комн. квартира, 80.49 кв.м, Этаж 2/9, корпус 1. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
@@ -1725,7 +1682,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431876</url>
     <location>
       <country>Россия</country>
@@ -1755,8 +1712,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/43611dc0e77246b7cb9109f3b7d732d8cb45e7c0.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d45d5d524d35d38aa5680c4839f5f184e0bc1f7c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>2-комн. квартира, 69.21 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1768,7 +1725,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431872</url>
     <location>
       <country>Россия</country>
@@ -1798,8 +1755,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/e690361141a688b6e51d86ef188a264cfeaeaaa1.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/83d186d6f175a18cca40208686e6d38cf275e47b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>2-комн. квартира, 81.98 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1811,7 +1768,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431886</url>
     <location>
       <country>Россия</country>
@@ -1842,7 +1799,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/f1337046c824a480c72aab14ab8558ca9bc35198.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>2-комн. квартира, 68.72 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1854,7 +1811,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432144</url>
     <location>
       <country>Россия</country>
@@ -1884,8 +1841,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/c2d3ba02df8080d1d0ef193e65b48a4ce8353973.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/518ee818bfe8364bf3e3d929e5237223c5b13f42.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>2-комн. квартира, 67.59 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1897,7 +1854,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431896</url>
     <location>
       <country>Россия</country>
@@ -1928,7 +1885,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/969d073543c3ac33fd01cfb4df7d8a12c0a82276.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>2-комн. квартира, 68.2 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1940,7 +1897,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431997</url>
     <location>
       <country>Россия</country>
@@ -1970,8 +1927,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/0569dbd33af898a2e469dd17f0f3631180110158.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/7e287201312ad94ec3e747a4908e854b124623a9.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>2-комн. квартира, 73.76 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -1983,7 +1940,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431901</url>
     <location>
       <country>Россия</country>
@@ -2013,8 +1970,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/b5f816fcab1e1721e1b5e43e6709b8f96938e352.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/d741d4cfb2bd8d3ee8c02e995ac973851d3281f7.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/600aa6f3433ec0e7f8e009de1841cc7b258f575d.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/9ccdc3dc16d21ee00162b1250f3f383daecfa0b6.svg</image>
     <description>2-комн. квартира, 68.16 кв.м, Этаж 8/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2026,7 +1983,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432067</url>
     <location>
       <country>Россия</country>
@@ -2056,8 +2013,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/47bb3b1441af91c96ec42fd5370093f8e2163bd0.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/4c5f0140545578780f420eeae38834ac60ed444a.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>2-комн. квартира, 74.22 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2069,7 +2026,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431996</url>
     <location>
       <country>Россия</country>
@@ -2099,8 +2056,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/c7d2aafce51984bdfbb39f9234e70763e95527a9.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/293ccc54e2a25fbc8b14488c3c8dd3e85035da49.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>2-комн. квартира, 75.58 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2112,7 +2069,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432007</url>
     <location>
       <country>Россия</country>
@@ -2143,7 +2100,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/c443ccc034e746b8198ae9bd726cdd3f2430201e.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>2-комн. квартира, 73.63 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2155,7 +2112,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432077</url>
     <location>
       <country>Россия</country>
@@ -2186,7 +2143,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/32e0278e4e2bf552ada739b0d3b3675e2e6603ac.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>2-комн. квартира, 73.93 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2198,7 +2155,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431908</url>
     <location>
       <country>Россия</country>
@@ -2228,8 +2185,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/b5d673342464bb8e242c42a80e87d1cdd5d0bc9b.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/7bdc6c4bb8e124c027e99e36c3046109e4469f0a.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>3-комн. квартира, 92.51 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2241,7 +2198,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432017</url>
     <location>
       <country>Россия</country>
@@ -2272,7 +2229,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/abe93a8773d8fe1ec981cb1b94eb9670922f79a2.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>2-комн. квартира, 73.4 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2284,7 +2241,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432087</url>
     <location>
       <country>Россия</country>
@@ -2315,7 +2272,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/f5ed46592921bcf92eb6e2287e836dbb64c5bb27.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>2-комн. квартира, 73.57 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2327,7 +2284,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431948</url>
     <location>
       <country>Россия</country>
@@ -2357,8 +2314,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/6e43b2c0ff9eee9bfd2e4cc0efb9bf34b3ed9fca.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/ca045c7f3264a100713a758aedbf3a651a0487f8.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>2-комн. квартира, 65.98 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2370,7 +2327,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432016</url>
     <location>
       <country>Россия</country>
@@ -2401,7 +2358,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/31cfe7eb18862477d02402ba7277997b06b2ed95.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>2-комн. квартира, 74.71 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2413,7 +2370,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431946</url>
     <location>
       <country>Россия</country>
@@ -2443,8 +2400,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/145cd2ce2ef746124de622825973ac9ead1a8683.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/64af504c17a6d50258ed2d729ec709f09fdaa45a.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>3-комн. квартира, 89.98 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2456,7 +2413,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431947</url>
     <location>
       <country>Россия</country>
@@ -2486,8 +2443,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/49077f8ec4f4041797c46daaf7e7f40d8113fbbd.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/99e81429c035a446e090ea2c26d4e017918b0933.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 78.99 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2499,7 +2456,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432041</url>
     <location>
       <country>Россия</country>
@@ -2529,8 +2486,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/9c9228f93436cb49ab5f273136bce1e028565d84.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/21f9d29d0a05095d1d00fc6d8c5eddf08624dd59.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>3-комн. квартира, 93.97 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2542,7 +2499,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431843</url>
     <location>
       <country>Россия</country>
@@ -2585,7 +2542,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431842</url>
     <location>
       <country>Россия</country>
@@ -2628,7 +2585,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431953</url>
     <location>
       <country>Россия</country>
@@ -2659,7 +2616,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/79e809f851ea6391f025aaee04dfb9c3e3614fc5.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 77.85 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2671,7 +2628,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431815</url>
     <location>
       <country>Россия</country>
@@ -2714,7 +2671,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431992</url>
     <location>
       <country>Россия</country>
@@ -2744,8 +2701,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/63941b2c10290cb9ebcd294e8c959328b6a57029.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/2df61aa978e2b42578de99fd768978179ebe87dd.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>3-комн. квартира, 94.86 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2757,7 +2714,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431808</url>
     <location>
       <country>Россия</country>
@@ -2800,7 +2757,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431851</url>
     <location>
       <country>Россия</country>
@@ -2843,7 +2800,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431959</url>
     <location>
       <country>Россия</country>
@@ -2874,7 +2831,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/e57d8810c6aed5b39e653da643b188688a0ea06f.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 77.31 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2886,7 +2843,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431967</url>
     <location>
       <country>Россия</country>
@@ -2916,8 +2873,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/cb18040b7ee9b19c9023ab6945875b344d28471d.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d908a44f54e2ddaab5bcd30a77fde4c69b9935b2.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>3-комн. квартира, 98.97 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -2929,7 +2886,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431814</url>
     <location>
       <country>Россия</country>
@@ -2972,7 +2929,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431823</url>
     <location>
       <country>Россия</country>
@@ -3015,7 +2972,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431844</url>
     <location>
       <country>Россия</country>
@@ -3045,7 +3002,7 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/6145e92f8f502f5cae6c608ae6407f09f5c23583.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/35b9017d43b4b2893d74689d445627726c91c3e1.svg</image>
     <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg</image>
     <description>2-комн. квартира, 83.5 кв.м, Этаж 3/9, корпус 1. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
@@ -3058,7 +3015,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431877</url>
     <location>
       <country>Россия</country>
@@ -3088,8 +3045,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/210adaf54908a4ca65614b2f72812a43715bac63.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d0c0ac8004acb9d8cdf0835a900aa5b59782b10c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>2-комн. квартира, 82.48 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3101,7 +3058,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431859</url>
     <location>
       <country>Россия</country>
@@ -3144,7 +3101,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431875</url>
     <location>
       <country>Россия</country>
@@ -3174,8 +3131,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/fe83dee7ceedacec5f3d061884477395685512fc.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/f528b29eb5edca4d6fb764b1e2f1307dd3d1ba61.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 86.18 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3187,7 +3144,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432104</url>
     <location>
       <country>Россия</country>
@@ -3217,8 +3174,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/2c067c68159626aa377b255c3d1089b8d453abde.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/a87bacc409aba24063d76ecae8c7473d43019892.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>2-комн. квартира, 82.15 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3230,7 +3187,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431831</url>
     <location>
       <country>Россия</country>
@@ -3273,7 +3230,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431874</url>
     <location>
       <country>Россия</country>
@@ -3303,8 +3260,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/07526829b92efd424aabe0aec4348b5e4ad0e1ee.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/9c688e1af03928f97bd386d67b7572a3c8ec70eb.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>2-комн. квартира, 101.01 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3316,7 +3273,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431885</url>
     <location>
       <country>Россия</country>
@@ -3347,7 +3304,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/f91827ed9d47bd04d7873e2cd712b5c2af943bdc.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 84.95 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3359,7 +3316,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431822</url>
     <location>
       <country>Россия</country>
@@ -3402,7 +3359,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431887</url>
     <location>
       <country>Россия</country>
@@ -3433,7 +3390,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/895143b7d626642016371f87e0b55bed3f655153.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>2-комн. квартира, 81.83 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3445,7 +3402,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431852</url>
     <location>
       <country>Россия</country>
@@ -3475,7 +3432,7 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/b95e9c1f8a6129f220ef6224e910bca3959ba710.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/5a4d30efcfd5702c8ec755283545bb20e17fda34.svg</image>
     <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg</image>
     <description>2-комн. квартира, 83.41 кв.м, Этаж 5/9, корпус 1. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
@@ -3488,7 +3445,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432026</url>
     <location>
       <country>Россия</country>
@@ -3518,8 +3475,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/eb5c626624105d3cd69eb2003b0449630ffc622a.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/f31a65b62fe5fa4bf2aae6d4fb0e062692d1e922.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>3-комн. квартира, 101.44 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3531,7 +3488,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431830</url>
     <location>
       <country>Россия</country>
@@ -3574,7 +3531,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431895</url>
     <location>
       <country>Россия</country>
@@ -3605,7 +3562,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/bdb331fb31c56b18b7bff177e21e4a0f145cff5d.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 84.65 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3617,7 +3574,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431897</url>
     <location>
       <country>Россия</country>
@@ -3648,7 +3605,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/7905aa706de4c46f6bf0635976969fe2a176325a.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>2-комн. квартира, 81.83 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3660,7 +3617,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431860</url>
     <location>
       <country>Россия</country>
@@ -3690,7 +3647,7 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/ea957e54125e14c14849c9b60a50ceb4693ca947.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d9df6885c68edee63e8751ea04aa0413356fb63e.svg</image>
     <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg</image>
     <description>2-комн. квартира, 83.11 кв.м, Этаж 7/9, корпус 1. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
@@ -3703,7 +3660,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431949</url>
     <location>
       <country>Россия</country>
@@ -3733,8 +3690,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/bd70368c6a6d7f7ec1ba7786bbf3a3c8a32c257b.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/61dcb2900ed78ad3b8604e3071b21d9d18e61704.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 89.09 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3746,7 +3703,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432043</url>
     <location>
       <country>Россия</country>
@@ -3776,8 +3733,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/072f795e99a9f804dcf62ee192ba6e93dbea9fbb.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/be182a136f5ae437b129703d1ca2cc4c58421821.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 93.3 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3789,7 +3746,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431968</url>
     <location>
       <country>Россия</country>
@@ -3819,8 +3776,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/3a6fd7715748cd72a1bc433d0595ad1228aaca45.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/b76be4f7f84cf760e5b8d2b0de64027a4789cd54.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>3-комн. квартира, 113.02 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3832,7 +3789,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431955</url>
     <location>
       <country>Россия</country>
@@ -3863,7 +3820,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/0217adba45751cb37c8fecd903339b0a801b2190.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 88.73 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3875,7 +3832,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431913</url>
     <location>
       <country>Россия</country>
@@ -3905,8 +3862,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/8ec8ef1ddea0a038f415d402225f8627c35326bd.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/0140f9231f49545f43a77ce39b08af53bd4ec0d2.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 92.45 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -3918,7 +3875,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431846</url>
     <location>
       <country>Россия</country>
@@ -3961,7 +3918,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431812</url>
     <location>
       <country>Россия</country>
@@ -4004,7 +3961,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432049</url>
     <location>
       <country>Россия</country>
@@ -4034,8 +3991,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/1d491ab71db23ded785b1b01a7508833e37ebbeb.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/14326a1ddc1b1f8185d3305f7ecfc97c934d3276.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 92.83 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4047,7 +4004,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431961</url>
     <location>
       <country>Россия</country>
@@ -4078,7 +4035,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/603d620b47ec973c499b7401267a38859b693f6b.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 87.96 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4090,7 +4047,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431838</url>
     <location>
       <country>Россия</country>
@@ -4133,7 +4090,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431923</url>
     <location>
       <country>Россия</country>
@@ -4164,7 +4121,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/d82b4b24862ab49c2ef03679e8f9efb59f03ee82.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 92.05 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4176,7 +4133,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431854</url>
     <location>
       <country>Россия</country>
@@ -4219,7 +4176,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431969</url>
     <location>
       <country>Россия</country>
@@ -4249,8 +4206,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/41eba6cbfefc3e8c30c9ffce0fed67d1e5a09b48.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d11970dd4c12a70df00e58356986dd94245ec95f.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 98.32 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4262,7 +4219,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431820</url>
     <location>
       <country>Россия</country>
@@ -4305,7 +4262,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432055</url>
     <location>
       <country>Россия</country>
@@ -4335,8 +4292,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/fca3d38d2fbfa6d932741896dfa1bd5a8df7a92b.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d925a2a8b141ec8f5cca9df7821afe5e11a052b9.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 92.11 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4348,7 +4305,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432114</url>
     <location>
       <country>Россия</country>
@@ -4378,8 +4335,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/b90d39a34e959f29f0866eb571c30318b2b19604.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/739d649d55335091e05d136c9f8f8759d9d7d26e.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>2-комн. квартира, 88.74 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4391,7 +4348,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431879</url>
     <location>
       <country>Россия</country>
@@ -4421,8 +4378,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/6cd3d7c99a002ad25502c8110e4626b377f1f051.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/3db25a8625811535f8c3a8c47d84925476c33ecf.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>2-комн. квартира, 97.8 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4434,7 +4391,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431862</url>
     <location>
       <country>Россия</country>
@@ -4477,7 +4434,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431975</url>
     <location>
       <country>Россия</country>
@@ -4508,7 +4465,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/3abf843f95e9139ae0514a8b10a6c6014b0d60f3.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 97.88 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4520,7 +4477,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431828</url>
     <location>
       <country>Россия</country>
@@ -4563,7 +4520,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432124</url>
     <location>
       <country>Россия</country>
@@ -4593,8 +4550,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/fb9008a95a54ed816ccc87ca9115a2406fb8d492.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/480aea87e2e1a3e330bdd66d6cdfe545239c9ad1.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>2-комн. квартира, 88.27 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4606,7 +4563,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431971</url>
     <location>
       <country>Россия</country>
@@ -4636,8 +4593,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/aba0820dc4b7d3fd5222cc3b51387d13fe7ea2c0.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/70ead2f2d74a343151bec244e93a3849b1f4c62f.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 104.16 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4649,7 +4606,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431889</url>
     <location>
       <country>Россия</country>
@@ -4680,7 +4637,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/5d453d343f3ef548378de36b20746198503b232f.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>2-комн. квартира, 97.34 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4692,7 +4649,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432028</url>
     <location>
       <country>Россия</country>
@@ -4722,8 +4679,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/be7cb6349a6d2a533c9a780ad090776fd96c9700.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/06aa17ff9820f165949bdf40c54e443eb8f5f1e7.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 101.1 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4735,7 +4692,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431981</url>
     <location>
       <country>Россия</country>
@@ -4766,7 +4723,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/0565561b41d5afb071cecb869a80e0e8989830fd.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 97.62 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4778,7 +4735,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431899</url>
     <location>
       <country>Россия</country>
@@ -4809,7 +4766,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/6ed41d9b99afcbfb28e1664e246e17702977547e.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>2-комн. квартира, 96.65 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4821,7 +4778,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431977</url>
     <location>
       <country>Россия</country>
@@ -4852,7 +4809,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/7e7bcd81d4abb1a0d8df421708af4bae1c87fb89.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 103.69 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4864,7 +4821,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432032</url>
     <location>
       <country>Россия</country>
@@ -4895,7 +4852,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/679928368907d5ed44c9f1d9eb557f9f0a590008.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 100.99 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4907,7 +4864,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431983</url>
     <location>
       <country>Россия</country>
@@ -4938,7 +4895,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/bcac57e3b4f746c4c85eb027f0e0753d2e53253c.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 103.07 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -4950,7 +4907,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431837</url>
     <location>
       <country>Россия</country>
@@ -4993,7 +4950,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432036</url>
     <location>
       <country>Россия</country>
@@ -5024,7 +4981,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/1fa6d7eaa64f82ef5178d4e62e3269455e39a767.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 100.37 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5036,7 +4993,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432025</url>
     <location>
       <country>Россия</country>
@@ -5066,8 +5023,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/f49ee7bfee8ed3e063914e1d711ed399f0dda1da.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/4ca3c869317453c540178829e75e57a0e5a635ac.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>4-комн. квартира, 134.86 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5079,7 +5036,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432107</url>
     <location>
       <country>Россия</country>
@@ -5109,8 +5066,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/3e09ab517bd77ac81c26cdf86c6f189bd32b1bb1.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/efc8480679431de21afe2ec836dffec4f0b1675b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 114.19 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5122,7 +5079,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432117</url>
     <location>
       <country>Россия</country>
@@ -5152,8 +5109,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/fbf0fd8ddf8a84a91bfc5bbcd234b7b3c50b561f.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/3edf2e602190d121e13e7df4a1656d5189eb5151.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 111.91 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5165,7 +5122,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432127</url>
     <location>
       <country>Россия</country>
@@ -5196,7 +5153,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/1691154d444a3e11014fb61301a9085f34fa861b.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 111.59 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5208,7 +5165,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432071</url>
     <location>
       <country>Россия</country>
@@ -5238,8 +5195,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/9c194e0ebf8512320037b4be2064e03686fb40db.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/c059a158ce35801a50544cc45ef60429a64d771d.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 109.6 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5251,7 +5208,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432142</url>
     <location>
       <country>Россия</country>
@@ -5281,8 +5238,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/0f9cbceb06319a2b1396758216e579c000e940a9.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/04550ffd4043095110ab9dbfd798944acd618524.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 109.65 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5294,7 +5251,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432070</url>
     <location>
       <country>Россия</country>
@@ -5324,8 +5281,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/53f37a7b8968f2ce5306a54b7b27ea0bf20f9d71.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/2233867e0b1d460fb017805005a743e9562fe4d0.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 109.68 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5337,7 +5294,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432045</url>
     <location>
       <country>Россия</country>
@@ -5367,8 +5324,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/df84eb302c547834f859b23e352ae01807b29f4d.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/93855426a523eff6c3db79a5a0ee2ff7a6d66cbd.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>4-комн. квартира, 134.73 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5380,7 +5337,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431917</url>
     <location>
       <country>Россия</country>
@@ -5410,8 +5367,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/1c62c8d41efe955ccb81aafb1ec98bd97925e90b.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/174a010e890c18d8fae19257f5151ecea0b31dbd.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 110.51 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5423,7 +5380,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431994</url>
     <location>
       <country>Россия</country>
@@ -5453,8 +5410,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/ef2571fca4c29318677cc5b8967de4c5aef1cfe2.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/a63294cf8cb589c3d539a7a1d84b6ee6e59513af.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 110.74 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5466,7 +5423,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431993</url>
     <location>
       <country>Россия</country>
@@ -5496,8 +5453,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/e3b85028707af5c5b52901b5781abd20130656bc.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/235477148f7c38ad51e8d9a3da9a638c87d84baa.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 110.76 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5509,7 +5466,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431911</url>
     <location>
       <country>Россия</country>
@@ -5539,8 +5496,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/0325e021b13e77de4af80f87741fc0160148f2f7.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/5c4bcf079683983be0f4bd224bffb7d4e7da0311.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>3-комн. квартира, 111.31 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5552,7 +5509,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432105</url>
     <location>
       <country>Россия</country>
@@ -5582,8 +5539,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/b04ae80b0963e8661ea45a3c046a7efab56b693d.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/dec8b8d8e972c23ea54cb2f0f2eaf66f0ea593aa.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 131.09 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5595,7 +5552,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432051</url>
     <location>
       <country>Россия</country>
@@ -5626,7 +5583,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/b8f4b5511d315d54d533a4a72138f857451dc309.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>4-комн. квартира, 134.06 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5638,7 +5595,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432143</url>
     <location>
       <country>Россия</country>
@@ -5668,8 +5625,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/7d2a6b4ae88973fa98b0bca6d1471ca6f6d621d1.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/e57c7a817929845ee3f89f9412b0cc0377993ba3.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 110.51 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5681,7 +5638,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431916</url>
     <location>
       <country>Россия</country>
@@ -5711,8 +5668,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/81e42289fac85b2cd761d079efb348c206e772eb.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/ba1892e0eb25892d1fbcdffc2e34c1de186d1e34.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 111.56 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5724,7 +5681,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432115</url>
     <location>
       <country>Россия</country>
@@ -5755,7 +5712,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/66e4c8334965560dd5065fc7340e87b43c715701.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 129.99 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5767,7 +5724,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432057</url>
     <location>
       <country>Россия</country>
@@ -5798,7 +5755,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/5d0b71defd2676f5a3e55a744c5b78aa6d086672.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>4-комн. квартира, 133.03 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5810,7 +5767,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432152</url>
     <location>
       <country>Россия</country>
@@ -5840,8 +5797,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/0d2864a3a74b2dbb4dab4ebfb285274de952a962.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/1c0ff2a13fdce1a201195ce2fae10db8de369167.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 110.14 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5853,7 +5810,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432080</url>
     <location>
       <country>Россия</country>
@@ -5884,7 +5841,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/8a90b73e976eab9d35c2768cd4e073cef53dc3a1.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 110.17 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5896,7 +5853,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432081</url>
     <location>
       <country>Россия</country>
@@ -5927,7 +5884,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/ac14271fbeba7cb8b5c086b96f26925c3f99a6aa.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 110.2 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5939,7 +5896,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432027</url>
     <location>
       <country>Россия</country>
@@ -5969,8 +5926,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/8229bcae62e44a8b1f13443e6e267aa56f5f6296.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/a9116b7197bb6de85771998e9f052c6be9d1f0fa.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>4-комн. квартира, 134.21 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -5982,7 +5939,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431927</url>
     <location>
       <country>Россия</country>
@@ -6013,7 +5970,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/fcfe66607f0d075ca10c2730794bfa7d9c16fb1e.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 111.0 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6025,7 +5982,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432004</url>
     <location>
       <country>Россия</country>
@@ -6056,7 +6013,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/c9b742a77a740e607c2030767b8bbd982721dcf2.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 111.22 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6068,7 +6025,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432003</url>
     <location>
       <country>Россия</country>
@@ -6099,7 +6056,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/26abc145a7a95eee6bd63e90606a3ec24bb3d3e6.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 111.24 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6111,7 +6068,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432125</url>
     <location>
       <country>Россия</country>
@@ -6142,7 +6099,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/c5ba7d884426e424b30a9223c868ee681593efdb.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 129.54 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6154,7 +6111,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432031</url>
     <location>
       <country>Россия</country>
@@ -6185,7 +6142,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/36b32d96b0ef0bd7c8a54637fc16fa843146b6fa.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>4-комн. квартира, 133.96 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6197,7 +6154,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432009</url>
     <location>
       <country>Россия</country>
@@ -6227,8 +6184,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/15e631ddc5a477330cd555426a69bb1321d934f3.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/da5f5059e56791f120d1d458af10a60418154f55.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/1496192f5e52e08def55e920beedd084bc8c5a08.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/41fc7c53d51ec707b582ca9787eda0df2138c269.svg</image>
     <description>3-комн. квартира, 110.74 кв.м, Этаж 6/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6240,7 +6197,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431926</url>
     <location>
       <country>Россия</country>
@@ -6271,7 +6228,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/affe96179485f3609ee183098a911193763d3624.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 111.17 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6283,7 +6240,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432090</url>
     <location>
       <country>Россия</country>
@@ -6314,7 +6271,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/4cb56591d68bf1493aeed341696f95d14739ca16.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 109.68 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6326,7 +6283,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432035</url>
     <location>
       <country>Россия</country>
@@ -6357,7 +6314,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/73e2866c864df5be244b57514a855f943678d864.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>4-комн. квартира, 133.4 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6369,7 +6326,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431937</url>
     <location>
       <country>Россия</country>
@@ -6400,7 +6357,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/47529d4dc568c833c51da43677da66c1509f54b7.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 110.48 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6412,7 +6369,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432013</url>
     <location>
       <country>Россия</country>
@@ -6443,7 +6400,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/8db7f32c7bbe45416db0337b100b509e7ac90c18.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 110.78 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6455,7 +6412,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432103</url>
     <location>
       <country>Россия</country>
@@ -6485,9 +6442,52 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/3438748cfeb8a6ea33a47c5905929837ba36075f.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/9a27805b33d7a583fdcd5655b239a516d7e33093.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa020c0fda243beafbb3c1369de75215d04e8d10.svg</image>
     <description>3-комн. квартира, 156.19 кв.м, Этаж 3/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/akvatoriya-premialnyj-dom</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="432037">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
+    <url>https://psk-info.ru/flats/432037</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Выборгская набережная, 61</address>
+      <metro>
+        <name>Петроградская</name>
+      </metro>
+    </location>
+    <price>
+      <value>75776828</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>94721035</old-price>
+    <area>
+      <value>133.16</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>4</rooms>
+    <rooms-offered>4</rooms-offered>
+    <floor>8</floor>
+    <floors-total>9</floors-total>
+    <building-name>ЖК «Акватория», корпус 2</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>без отделки</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/3e77f2e9273eedd40d477902d313e652f07a84f0.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/9ccdc3dc16d21ee00162b1250f3f383daecfa0b6.svg</image>
+    <description>4-комн. квартира, 133.16 кв.м, Этаж 8/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
       <category>застройщик</category>
@@ -6498,7 +6498,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431965</url>
     <location>
       <country>Россия</country>
@@ -6529,7 +6529,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/5055a696ef5fc508396e786275fb238e83ddf6ba.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/efc92460486a5a4209eb82e7ce2c08fe4f1cf972.svg</image>
     <description>3-комн. квартира, 88.08 кв.м, Этаж 9/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6541,7 +6541,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431936</url>
     <location>
       <country>Россия</country>
@@ -6572,7 +6572,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/cc4dc63bac699ea4e30ca9082115411193abf6fc.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 108.54 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6584,7 +6584,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432113</url>
     <location>
       <country>Россия</country>
@@ -6614,8 +6614,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/576a113959a2ef98e0d4c15ca3c20285664830b2.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/357c3a5d0d3fb183b0faeb4ad3fc5431f8ac6046.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3d4af0035317917d6557d413dc09b7fae9bdb330.svg</image>
     <description>3-комн. квартира, 154.89 кв.м, Этаж 5/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6627,7 +6627,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432123</url>
     <location>
       <country>Россия</country>
@@ -6657,8 +6657,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d241a2eaf2c7bf69da914d88c24122787cedd336.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/4fd2fe0a46f401ea3f21c76d8d8c1e01ea6efe13.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/266f9e5649be90cd79770c87d796cc2de0832d73.svg</image>
     <description>3-комн. квартира, 154.16 кв.м, Этаж 7/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6670,7 +6670,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432042</url>
     <location>
       <country>Россия</country>
@@ -6700,8 +6700,8 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d604f6c05664ddba99df18201ca111a93430f1a6.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/598841213a98465725b3d4c30a6ee68aa8b58c80.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/fd246cdf4ff7c0212672b9f0bebe16a47e5e6f33.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/90d7076fa4c5fe48e3356c8ecabe145a960cf0b8.svg</image>
     <description>4-комн. квартира, 184.55 кв.м, Этаж 2/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6713,7 +6713,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/431966</url>
     <location>
       <country>Россия</country>
@@ -6744,7 +6744,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/67268a73b7b89be1ef36f7932de667c2ec148d0b.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/efc92460486a5a4209eb82e7ce2c08fe4f1cf972.svg</image>
     <description>4-комн. квартира, 115.33 кв.м, Этаж 9/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6756,7 +6756,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432133</url>
     <location>
       <country>Россия</country>
@@ -6787,7 +6787,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/368324c24d57a366fb53f353be34ffb9f0b59fc4.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/efc92460486a5a4209eb82e7ce2c08fe4f1cf972.svg</image>
     <description>3-комн. квартира, 143.17 кв.м, Этаж 9/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6799,7 +6799,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432024</url>
     <location>
       <country>Россия</country>
@@ -6830,7 +6830,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/7bc7fced285b5a55af866933c6155be15707d119.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/efc92460486a5a4209eb82e7ce2c08fe4f1cf972.svg</image>
     <description>4-комн. квартира, 166.76 кв.м, Этаж 9/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
@@ -6842,7 +6842,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-10-29T15:29:41+03:00</creation-date>
+    <creation-date>2026-10-30T15:21:23+03:00</creation-date>
     <url>https://psk-info.ru/flats/432023</url>
     <location>
       <country>Россия</country>
@@ -6873,7 +6873,7 @@
     <new-flat>да</new-flat>
     <renovation>без отделки</renovation>
     <image>https://storage.yandexcloud.net/psk-media/media/p/p/b720f1c4c7a779d757ba4957f3197024516cf2c6.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/efc92460486a5a4209eb82e7ce2c08fe4f1cf972.svg</image>
     <description>5-комн. квартира, 159.41 кв.м, Этаж 9/9, корпус 2. ЖК «Акватория» — премиум-класс, рядом с метро Петроградская. Монолитный дом, сдача 2 кв. 2029 г. Скидка 20%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
