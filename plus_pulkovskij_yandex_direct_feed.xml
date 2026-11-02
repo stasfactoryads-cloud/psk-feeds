@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-01T15:51:12+03:00</generation-date>
+  <generation-date>2026-11-02T18:02:00+03:00</generation-date>
   <offer internal-id="395215">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395215</url>
     <location>
       <country>Россия</country>
@@ -48,7 +48,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395407</url>
     <location>
       <country>Россия</country>
@@ -91,7 +91,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395408</url>
     <location>
       <country>Россия</country>
@@ -134,7 +134,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394891</url>
     <location>
       <country>Россия</country>
@@ -177,7 +177,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395164</url>
     <location>
       <country>Россия</country>
@@ -220,7 +220,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395351</url>
     <location>
       <country>Россия</country>
@@ -263,7 +263,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395259</url>
     <location>
       <country>Россия</country>
@@ -275,10 +275,10 @@
       </metro>
     </location>
     <price>
-      <value>5995317</value>
+      <value>6025812</value>
       <currency>RUR</currency>
     </price>
-    <old-price>6661463</old-price>
+    <old-price>6695346</old-price>
     <area>
       <value>20.33</value>
       <unit>кв.м</unit>
@@ -306,7 +306,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395073</url>
     <location>
       <country>Россия</country>
@@ -349,7 +349,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395074</url>
     <location>
       <country>Россия</country>
@@ -392,7 +392,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394950</url>
     <location>
       <country>Россия</country>
@@ -435,7 +435,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395115</url>
     <location>
       <country>Россия</country>
@@ -478,7 +478,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395409</url>
     <location>
       <country>Россия</country>
@@ -517,54 +517,11 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
-  <offer internal-id="395375">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395375</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>6168960</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>6854400</old-price>
-    <area>
-      <value>21.6</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>5</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 14</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/217bea1cc689d60121137fd1e9bb03de454b0c5f.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/04565ff948c555ff0cc018175adfe7fbde9416f5.svg</image>
-    <description>1-комн. квартира, 21.6 кв.м, Этаж 5/5, корпус 14. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
   <offer internal-id="395114">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395114</url>
     <location>
       <country>Россия</country>
@@ -603,11 +560,54 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
+  <offer internal-id="395375">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395375</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>6199200</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>6888000</old-price>
+    <area>
+      <value>21.6</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 14</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/217bea1cc689d60121137fd1e9bb03de454b0c5f.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/04565ff948c555ff0cc018175adfe7fbde9416f5.svg</image>
+    <description>1-комн. квартира, 21.6 кв.м, Этаж 5/5, корпус 14. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
   <offer internal-id="395123">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395123</url>
     <location>
       <country>Россия</country>
@@ -619,10 +619,10 @@
       </metro>
     </location>
     <price>
-      <value>6233000</value>
+      <value>6265200</value>
       <currency>RUR</currency>
     </price>
-    <old-price>6925555</old-price>
+    <old-price>6961333</old-price>
     <area>
       <value>23.0</value>
       <unit>кв.м</unit>
@@ -650,7 +650,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395417</url>
     <location>
       <country>Россия</country>
@@ -662,10 +662,10 @@
       </metro>
     </location>
     <price>
-      <value>6269340</value>
+      <value>6301680</value>
       <currency>RUR</currency>
     </price>
-    <old-price>6965933</old-price>
+    <old-price>7001866</old-price>
     <area>
       <value>23.1</value>
       <unit>кв.м</unit>
@@ -693,7 +693,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395124</url>
     <location>
       <country>Россия</country>
@@ -705,10 +705,10 @@
       </metro>
     </location>
     <price>
-      <value>6279000</value>
+      <value>6311200</value>
       <currency>RUR</currency>
     </price>
-    <old-price>6976666</old-price>
+    <old-price>7012444</old-price>
     <area>
       <value>23.0</value>
       <unit>кв.м</unit>
@@ -736,7 +736,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395106</url>
     <location>
       <country>Россия</country>
@@ -748,10 +748,10 @@
       </metro>
     </location>
     <price>
-      <value>6285960</value>
+      <value>6317880</value>
       <currency>RUR</currency>
     </price>
-    <old-price>6984400</old-price>
+    <old-price>7019866</old-price>
     <area>
       <value>22.8</value>
       <unit>кв.м</unit>
@@ -779,7 +779,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395425</url>
     <location>
       <country>Россия</country>
@@ -791,10 +791,10 @@
       </metro>
     </location>
     <price>
-      <value>6292440</value>
+      <value>6324780</value>
       <currency>RUR</currency>
     </price>
-    <old-price>6991600</old-price>
+    <old-price>7027533</old-price>
     <area>
       <value>23.1</value>
       <unit>кв.м</unit>
@@ -822,7 +822,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395433</url>
     <location>
       <country>Россия</country>
@@ -834,10 +834,10 @@
       </metro>
     </location>
     <price>
-      <value>6299370</value>
+      <value>6331710</value>
       <currency>RUR</currency>
     </price>
-    <old-price>6999300</old-price>
+    <old-price>7035233</old-price>
     <area>
       <value>23.1</value>
       <unit>кв.м</unit>
@@ -865,7 +865,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395157</url>
     <location>
       <country>Россия</country>
@@ -877,10 +877,10 @@
       </metro>
     </location>
     <price>
-      <value>6315800</value>
+      <value>6348000</value>
       <currency>RUR</currency>
     </price>
-    <old-price>7017555</old-price>
+    <old-price>7053333</old-price>
     <area>
       <value>23.0</value>
       <unit>кв.м</unit>
@@ -908,7 +908,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/201498</url>
     <location>
       <country>Россия</country>
@@ -920,10 +920,10 @@
       </metro>
     </location>
     <price>
-      <value>6439290</value>
+      <value>6470640</value>
       <currency>RUR</currency>
     </price>
-    <old-price>7154766</old-price>
+    <old-price>7189600</old-price>
     <area>
       <value>20.9</value>
       <unit>кв.м</unit>
@@ -947,54 +947,11 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
-  <offer internal-id="395088">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395088</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>6618700</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>7354111</old-price>
-    <area>
-      <value>24.2</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>3</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/a293b3b0a1c34a4efb6d8b96e0a57a49dee155c3.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3657cf3bc587d2072fe8c25e1f7671224652375d.svg</image>
-    <description>1-комн. квартира, 24.2 кв.м, Этаж 3/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
   <offer internal-id="395116">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395116</url>
     <location>
       <country>Россия</country>
@@ -1033,11 +990,54 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
+  <offer internal-id="395088">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395088</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>6652580</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7391755</old-price>
+    <area>
+      <value>24.2</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/a293b3b0a1c34a4efb6d8b96e0a57a49dee155c3.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3657cf3bc587d2072fe8c25e1f7671224652375d.svg</image>
+    <description>1-комн. квартира, 24.2 кв.м, Этаж 3/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
   <offer internal-id="395148">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395148</url>
     <location>
       <country>Россия</country>
@@ -1049,10 +1049,10 @@
       </metro>
     </location>
     <price>
-      <value>6625960</value>
+      <value>6659840</value>
       <currency>RUR</currency>
     </price>
-    <old-price>7362177</old-price>
+    <old-price>7399822</old-price>
     <area>
       <value>24.2</value>
       <unit>кв.м</unit>
@@ -1080,7 +1080,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395080</url>
     <location>
       <country>Россия</country>
@@ -1092,10 +1092,10 @@
       </metro>
     </location>
     <price>
-      <value>6678900</value>
+      <value>6713340</value>
       <currency>RUR</currency>
     </price>
-    <old-price>7421000</old-price>
+    <old-price>7459266</old-price>
     <area>
       <value>24.6</value>
       <unit>кв.м</unit>
@@ -1123,7 +1123,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395126</url>
     <location>
       <country>Россия</country>
@@ -1135,10 +1135,10 @@
       </metro>
     </location>
     <price>
-      <value>6678900</value>
+      <value>6713340</value>
       <currency>RUR</currency>
     </price>
-    <old-price>7421000</old-price>
+    <old-price>7459266</old-price>
     <area>
       <value>24.6</value>
       <unit>кв.м</unit>
@@ -1166,7 +1166,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395110</url>
     <location>
       <country>Россия</country>
@@ -1209,7 +1209,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395113</url>
     <location>
       <country>Россия</country>
@@ -1252,7 +1252,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394893</url>
     <location>
       <country>Россия</country>
@@ -1295,7 +1295,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395112</url>
     <location>
       <country>Россия</country>
@@ -1338,7 +1338,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395167</url>
     <location>
       <country>Россия</country>
@@ -1381,7 +1381,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395349</url>
     <location>
       <country>Россия</country>
@@ -1424,7 +1424,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395009</url>
     <location>
       <country>Россия</country>
@@ -1463,269 +1463,11 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
-  <offer internal-id="395133">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395133</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>6932520</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>7702800</old-price>
-    <area>
-      <value>26.2</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>3</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/952f07ed950b58583364b1db3d286aaf3ad0feaa.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3657cf3bc587d2072fe8c25e1f7671224652375d.svg</image>
-    <description>1-комн. квартира, 26.2 кв.м, Этаж 3/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="395130">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395130</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>6932640</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>7702933</old-price>
-    <area>
-      <value>26.4</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>3</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d9d2fdf6eefac2a374a36f503b34a818cce5957f.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3657cf3bc587d2072fe8c25e1f7671224652375d.svg</image>
-    <description>1-комн. квартира, 26.4 кв.м, Этаж 3/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="395144">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395144</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>6940380</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>7711533</old-price>
-    <area>
-      <value>26.2</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>4</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/952f07ed950b58583364b1db3d286aaf3ad0feaa.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/d6991dd7e250b9402cbf5ea64ea8b2b38ec8cab8.svg</image>
-    <description>1-комн. квартира, 26.2 кв.м, Этаж 4/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="395338">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395338</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>6945830</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>7717588</old-price>
-    <area>
-      <value>26.3</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>4</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 13</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/0f706fd54e70c9a007540803b494b5e841764baa.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c90da0e6869a1b751ab8eae7f852da248282baf.svg</image>
-    <description>1-комн. квартира, 26.3 кв.м, Этаж 4/5, корпус 13. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="395152">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395152</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>6948480</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>7720533</old-price>
-    <area>
-      <value>26.4</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>5</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d9d2fdf6eefac2a374a36f503b34a818cce5957f.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3f531628d55ffceed030ad34cba38a856aec51f6.svg</image>
-    <description>1-комн. квартира, 26.4 кв.м, Этаж 5/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="395155">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395155</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>6950860</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>7723177</old-price>
-    <area>
-      <value>26.2</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>5</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/952f07ed950b58583364b1db3d286aaf3ad0feaa.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3f531628d55ffceed030ad34cba38a856aec51f6.svg</image>
-    <description>1-комн. квартира, 26.2 кв.м, Этаж 5/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
   <offer internal-id="395045">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395045</url>
     <location>
       <country>Россия</country>
@@ -1764,11 +1506,269 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
+  <offer internal-id="395133">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395133</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>6966580</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7740644</old-price>
+    <area>
+      <value>26.2</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/952f07ed950b58583364b1db3d286aaf3ad0feaa.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3657cf3bc587d2072fe8c25e1f7671224652375d.svg</image>
+    <description>1-комн. квартира, 26.2 кв.м, Этаж 3/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="395130">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395130</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>6966960</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7741066</old-price>
+    <area>
+      <value>26.4</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d9d2fdf6eefac2a374a36f503b34a818cce5957f.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3657cf3bc587d2072fe8c25e1f7671224652375d.svg</image>
+    <description>1-комн. квартира, 26.4 кв.м, Этаж 3/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="395144">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395144</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>6974440</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7749377</old-price>
+    <area>
+      <value>26.2</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/952f07ed950b58583364b1db3d286aaf3ad0feaa.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/d6991dd7e250b9402cbf5ea64ea8b2b38ec8cab8.svg</image>
+    <description>1-комн. квартира, 26.2 кв.м, Этаж 4/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="395338">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395338</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>6980020</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7755577</old-price>
+    <area>
+      <value>26.3</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 13</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/0f706fd54e70c9a007540803b494b5e841764baa.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c90da0e6869a1b751ab8eae7f852da248282baf.svg</image>
+    <description>1-комн. квартира, 26.3 кв.м, Этаж 4/5, корпус 13. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="395152">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395152</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>6982800</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7758666</old-price>
+    <area>
+      <value>26.4</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d9d2fdf6eefac2a374a36f503b34a818cce5957f.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3f531628d55ffceed030ad34cba38a856aec51f6.svg</image>
+    <description>1-комн. квартира, 26.4 кв.м, Этаж 5/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="395155">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395155</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>6984920</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7761022</old-price>
+    <area>
+      <value>26.2</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/952f07ed950b58583364b1db3d286aaf3ad0feaa.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3f531628d55ffceed030ad34cba38a856aec51f6.svg</image>
+    <description>1-комн. квартира, 26.2 кв.м, Этаж 5/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
   <offer internal-id="395326">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395326</url>
     <location>
       <country>Россия</country>
@@ -1780,10 +1780,10 @@
       </metro>
     </location>
     <price>
-      <value>7016760</value>
+      <value>7051470</value>
       <currency>RUR</currency>
     </price>
-    <old-price>7796400</old-price>
+    <old-price>7834966</old-price>
     <area>
       <value>26.7</value>
       <unit>кв.м</unit>
@@ -1807,183 +1807,11 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
-  <offer internal-id="395121">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395121</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>7054320</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>7838133</old-price>
-    <area>
-      <value>27.3</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>2</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/4ddfffdf516fde672fd14510df8abffe451d7897.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/bede1f6f1d8e7daee62417637916006f8a741fc5.svg</image>
-    <description>1-комн. квартира, 27.3 кв.м, Этаж 2/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="395184">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395184</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>7058400</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>7842666</old-price>
-    <area>
-      <value>27.2</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>3</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/011c7c6a5f490ce05caffc407109371d6c92847c.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3657cf3bc587d2072fe8c25e1f7671224652375d.svg</image>
-    <description>1-комн. квартира, 27.2 кв.м, Этаж 3/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="395193">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395193</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>7066560</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>7851733</old-price>
-    <area>
-      <value>27.2</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>4</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/011c7c6a5f490ce05caffc407109371d6c92847c.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/d6991dd7e250b9402cbf5ea64ea8b2b38ec8cab8.svg</image>
-    <description>1-комн. квартира, 27.2 кв.м, Этаж 4/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="395202">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395202</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>7074720</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>7860800</old-price>
-    <area>
-      <value>27.2</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>5</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/011c7c6a5f490ce05caffc407109371d6c92847c.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3f531628d55ffceed030ad34cba38a856aec51f6.svg</image>
-    <description>1-комн. квартира, 27.2 кв.м, Этаж 5/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
   <offer internal-id="139419">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/139419</url>
     <location>
       <country>Россия</country>
@@ -2022,97 +1850,11 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
-  <offer internal-id="395355">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395355</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>7078500</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>7865000</old-price>
-    <area>
-      <value>27.5</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>2</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 14</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/367fe9263225dc0bb396669f71a5d4ff415c1072.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/b7359dd283813f6050bc734447e0f54b1e254f1b.svg</image>
-    <description>1-комн. квартира, 27.5 кв.м, Этаж 2/5, корпус 14. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="395132">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395132</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>7084350</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>7871500</old-price>
-    <area>
-      <value>27.3</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>3</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/e26ccdf495a2655a3cc23c4e43a26e56cc1ff2c2.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3657cf3bc587d2072fe8c25e1f7671224652375d.svg</image>
-    <description>1-комн. квартира, 27.3 кв.м, Этаж 3/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
   <offer internal-id="395320">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395320</url>
     <location>
       <country>Россия</country>
@@ -2151,11 +1893,269 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
+  <offer internal-id="395121">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395121</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7089810</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7877566</old-price>
+    <area>
+      <value>27.3</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/4ddfffdf516fde672fd14510df8abffe451d7897.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/bede1f6f1d8e7daee62417637916006f8a741fc5.svg</image>
+    <description>1-комн. квартира, 27.3 кв.м, Этаж 2/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="395184">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395184</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7093760</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7881955</old-price>
+    <area>
+      <value>27.2</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/011c7c6a5f490ce05caffc407109371d6c92847c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3657cf3bc587d2072fe8c25e1f7671224652375d.svg</image>
+    <description>1-комн. квартира, 27.2 кв.м, Этаж 3/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="395193">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395193</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7101920</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7891022</old-price>
+    <area>
+      <value>27.2</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/011c7c6a5f490ce05caffc407109371d6c92847c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/d6991dd7e250b9402cbf5ea64ea8b2b38ec8cab8.svg</image>
+    <description>1-комн. квартира, 27.2 кв.м, Этаж 4/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="395202">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395202</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7110080</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7900088</old-price>
+    <area>
+      <value>27.2</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/011c7c6a5f490ce05caffc407109371d6c92847c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3f531628d55ffceed030ad34cba38a856aec51f6.svg</image>
+    <description>1-комн. квартира, 27.2 кв.м, Этаж 5/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="395355">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395355</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7114250</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7904722</old-price>
+    <area>
+      <value>27.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 14</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/367fe9263225dc0bb396669f71a5d4ff415c1072.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/b7359dd283813f6050bc734447e0f54b1e254f1b.svg</image>
+    <description>1-комн. квартира, 27.5 кв.м, Этаж 2/5, корпус 14. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="395132">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395132</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7119840</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>7910933</old-price>
+    <area>
+      <value>27.3</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 11</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/e26ccdf495a2655a3cc23c4e43a26e56cc1ff2c2.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3657cf3bc587d2072fe8c25e1f7671224652375d.svg</image>
+    <description>1-комн. квартира, 27.3 кв.м, Этаж 3/5, корпус 11. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
   <offer internal-id="395143">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395143</url>
     <location>
       <country>Россия</country>
@@ -2167,10 +2167,10 @@
       </metro>
     </location>
     <price>
-      <value>7092540</value>
+      <value>7128030</value>
       <currency>RUR</currency>
     </price>
-    <old-price>7880600</old-price>
+    <old-price>7920033</old-price>
     <area>
       <value>27.3</value>
       <unit>кв.м</unit>
@@ -2198,7 +2198,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395154</url>
     <location>
       <country>Россия</country>
@@ -2210,10 +2210,10 @@
       </metro>
     </location>
     <price>
-      <value>7100730</value>
+      <value>7136220</value>
       <currency>RUR</currency>
     </price>
-    <old-price>7889700</old-price>
+    <old-price>7929133</old-price>
     <area>
       <value>27.3</value>
       <unit>кв.м</unit>
@@ -2241,7 +2241,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395361</url>
     <location>
       <country>Россия</country>
@@ -2253,10 +2253,10 @@
       </metro>
     </location>
     <price>
-      <value>7108750</value>
+      <value>7144500</value>
       <currency>RUR</currency>
     </price>
-    <old-price>7898611</old-price>
+    <old-price>7938333</old-price>
     <area>
       <value>27.5</value>
       <unit>кв.м</unit>
@@ -2284,7 +2284,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395367</url>
     <location>
       <country>Россия</country>
@@ -2296,10 +2296,10 @@
       </metro>
     </location>
     <price>
-      <value>7117000</value>
+      <value>7152750</value>
       <currency>RUR</currency>
     </price>
-    <old-price>7907777</old-price>
+    <old-price>7947500</old-price>
     <area>
       <value>27.5</value>
       <unit>кв.м</unit>
@@ -2327,7 +2327,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395373</url>
     <location>
       <country>Россия</country>
@@ -2339,10 +2339,10 @@
       </metro>
     </location>
     <price>
-      <value>7125250</value>
+      <value>7161000</value>
       <currency>RUR</currency>
     </price>
-    <old-price>7916944</old-price>
+    <old-price>7956666</old-price>
     <area>
       <value>27.5</value>
       <unit>кв.м</unit>
@@ -2370,7 +2370,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395344</url>
     <location>
       <country>Россия</country>
@@ -2382,10 +2382,10 @@
       </metro>
     </location>
     <price>
-      <value>7222314</value>
+      <value>7259680</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8024793</old-price>
+    <old-price>8066311</old-price>
     <area>
       <value>26.69</value>
       <unit>кв.м</unit>
@@ -2413,7 +2413,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395030</url>
     <location>
       <country>Россия</country>
@@ -2425,10 +2425,10 @@
       </metro>
     </location>
     <price>
-      <value>7239792</value>
+      <value>7276192</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8044213</old-price>
+    <old-price>8084657</old-price>
     <area>
       <value>28.0</value>
       <unit>кв.м</unit>
@@ -2452,97 +2452,11 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
-  <offer internal-id="395037">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395037</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>7248276</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>8053640</old-price>
-    <area>
-      <value>28.0</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>5</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 10</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/e14086314b18b10a3176c1b85f6db707d4a47bfe.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3b1bf879b8494604a9dd36f4f0cb55e4ead0a967.svg</image>
-    <description>1-комн. квартира, 28.0 кв.м, Этаж 5/5, корпус 10. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="395016">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395016</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>7251658</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>8057398</old-price>
-    <area>
-      <value>28.2</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>2</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 10</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/8e88f3273bfddd1fd253b29b6d97d17f4164623a.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa0c96d596647873a4c15af6c17bbe8a82111d60.svg</image>
-    <description>1-комн. квартира, 28.2 кв.м, Этаж 2/5, корпус 10. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
   <offer internal-id="139380">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/139380</url>
     <location>
       <country>Россия</country>
@@ -2581,12 +2495,12 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
-  <offer internal-id="395303">
+  <offer internal-id="395037">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395303</url>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395037</url>
     <location>
       <country>Россия</country>
       <region>Санкт-Петербург</region>
@@ -2597,39 +2511,39 @@
       </metro>
     </location>
     <price>
-      <value>7294760</value>
+      <value>7284676</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8105288</old-price>
+    <old-price>8094084</old-price>
     <area>
-      <value>28.1</value>
+      <value>28.0</value>
       <unit>кв.м</unit>
     </area>
     <rooms>1</rooms>
     <rooms-offered>1</rooms-offered>
-    <floor>3</floor>
+    <floor>5</floor>
     <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 13</building-name>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 10</building-name>
     <building-type>монолитный</building-type>
     <built-year>2027</built-year>
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/02bef32bebf14a9f9bd1582193da347b80eae725.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/942a77c165092a1678e06869ab6a26f89f59a217.svg</image>
-    <description>1-комн. квартира, 28.1 кв.м, Этаж 3/5, корпус 13. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/e14086314b18b10a3176c1b85f6db707d4a47bfe.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/3b1bf879b8494604a9dd36f4f0cb55e4ead0a967.svg</image>
+    <description>1-комн. квартира, 28.0 кв.м, Этаж 5/5, корпус 10. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
       <category>застройщик</category>
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
-  <offer internal-id="395051">
+  <offer internal-id="395016">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395051</url>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395016</url>
     <location>
       <country>Россия</country>
       <region>Санкт-Петербург</region>
@@ -2640,12 +2554,12 @@
       </metro>
     </location>
     <price>
-      <value>7303088</value>
+      <value>7288318</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8114542</old-price>
+    <old-price>8098131</old-price>
     <area>
-      <value>28.4</value>
+      <value>28.2</value>
       <unit>кв.м</unit>
     </area>
     <rooms>1</rooms>
@@ -2658,95 +2572,9 @@
     <ready-quarter>2</ready-quarter>
     <new-flat>да</new-flat>
     <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/1915e98260ff0ad6a49f41e3ab733413574eea5c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/8e88f3273bfddd1fd253b29b6d97d17f4164623a.svg</image>
     <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa0c96d596647873a4c15af6c17bbe8a82111d60.svg</image>
-    <description>1-комн. квартира, 28.4 кв.м, Этаж 2/5, корпус 10. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="395310">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395310</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>7303190</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>8114655</old-price>
-    <area>
-      <value>28.1</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>4</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 13</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/02bef32bebf14a9f9bd1582193da347b80eae725.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c90da0e6869a1b751ab8eae7f852da248282baf.svg</image>
-    <description>1-комн. квартира, 28.1 кв.м, Этаж 4/5, корпус 13. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
-  <offer internal-id="395296">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395296</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>7307400</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>8119333</old-price>
-    <area>
-      <value>28.5</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>2</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 13</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/16366bc17ba09578ca5ad9884618b535cae71777.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/179b2a19f127ca618a9230d3ecdd025391dcdd9f.svg</image>
-    <description>1-комн. квартира, 28.5 кв.м, Этаж 2/5, корпус 13. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <description>1-комн. квартира, 28.2 кв.м, Этаж 2/5, корпус 10. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
     <sales-agent>
       <organization>Группа компаний ПСК</organization>
       <category>застройщик</category>
@@ -2757,7 +2585,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/139340</url>
     <location>
       <country>Россия</country>
@@ -2800,7 +2628,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/139342</url>
     <location>
       <country>Россия</country>
@@ -2839,11 +2667,183 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
+  <offer internal-id="395303">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395303</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7331290</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8145877</old-price>
+    <area>
+      <value>28.1</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 13</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/02bef32bebf14a9f9bd1582193da347b80eae725.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/942a77c165092a1678e06869ab6a26f89f59a217.svg</image>
+    <description>1-комн. квартира, 28.1 кв.м, Этаж 3/5, корпус 13. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="395310">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395310</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7339720</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8155244</old-price>
+    <area>
+      <value>28.1</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 13</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/02bef32bebf14a9f9bd1582193da347b80eae725.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/7c90da0e6869a1b751ab8eae7f852da248282baf.svg</image>
+    <description>1-комн. квартира, 28.1 кв.м, Этаж 4/5, корпус 13. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="395051">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395051</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7340008</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8155564</old-price>
+    <area>
+      <value>28.4</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 10</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/1915e98260ff0ad6a49f41e3ab733413574eea5c.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa0c96d596647873a4c15af6c17bbe8a82111d60.svg</image>
+    <description>1-комн. квартира, 28.4 кв.м, Этаж 2/5, корпус 10. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
+  <offer internal-id="395296">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395296</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>7344450</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>8160500</old-price>
+    <area>
+      <value>28.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 13</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/16366bc17ba09578ca5ad9884618b535cae71777.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/179b2a19f127ca618a9230d3ecdd025391dcdd9f.svg</image>
+    <description>1-комн. квартира, 28.5 кв.м, Этаж 2/5, корпус 13. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
   <offer internal-id="395063">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395063</url>
     <location>
       <country>Россия</country>
@@ -2855,10 +2855,10 @@
       </metro>
     </location>
     <price>
-      <value>7343217</value>
+      <value>7380137</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8159130</old-price>
+    <old-price>8200152</old-price>
     <area>
       <value>28.4</value>
       <unit>кв.м</unit>
@@ -2886,7 +2886,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395069</url>
     <location>
       <country>Россия</country>
@@ -2898,10 +2898,10 @@
       </metro>
     </location>
     <price>
-      <value>7351822</value>
+      <value>7388742</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8168692</old-price>
+    <old-price>8209714</old-price>
     <area>
       <value>28.4</value>
       <unit>кв.м</unit>
@@ -2929,7 +2929,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395440</url>
     <location>
       <country>Россия</country>
@@ -2941,10 +2941,10 @@
       </metro>
     </location>
     <price>
-      <value>7355494</value>
+      <value>7391361</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8172771</old-price>
+    <old-price>8212623</old-price>
     <area>
       <value>27.59</value>
       <unit>кв.м</unit>
@@ -2972,7 +2972,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395317</url>
     <location>
       <country>Россия</country>
@@ -2984,10 +2984,10 @@
       </metro>
     </location>
     <price>
-      <value>7495719</value>
+      <value>7532756</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8328576</old-price>
+    <old-price>8369728</old-price>
     <area>
       <value>28.49</value>
       <unit>кв.м</unit>
@@ -3015,7 +3015,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/335043</url>
     <location>
       <country>Россия</country>
@@ -3027,10 +3027,10 @@
       </metro>
     </location>
     <price>
-      <value>7589925</value>
+      <value>7628635</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8433250</old-price>
+    <old-price>8476261</old-price>
     <area>
       <value>27.65</value>
       <unit>кв.м</unit>
@@ -3058,7 +3058,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395316</url>
     <location>
       <country>Россия</country>
@@ -3070,10 +3070,10 @@
       </metro>
     </location>
     <price>
-      <value>7630960</value>
+      <value>7668608</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8478844</old-price>
+    <old-price>8520675</old-price>
     <area>
       <value>28.96</value>
       <unit>кв.м</unit>
@@ -3101,7 +3101,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395343</url>
     <location>
       <country>Россия</country>
@@ -3113,10 +3113,10 @@
       </metro>
     </location>
     <price>
-      <value>7721680</value>
+      <value>7759848</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8579644</old-price>
+    <old-price>8622053</old-price>
     <area>
       <value>29.36</value>
       <unit>кв.м</unit>
@@ -3144,7 +3144,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395178</url>
     <location>
       <country>Россия</country>
@@ -3156,10 +3156,10 @@
       </metro>
     </location>
     <price>
-      <value>8887740</value>
+      <value>8994620</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9875266</old-price>
+    <old-price>9994022</old-price>
     <area>
       <value>33.4</value>
       <unit>кв.м</unit>
@@ -3187,7 +3187,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395187</url>
     <location>
       <country>Россия</country>
@@ -3199,10 +3199,10 @@
       </metro>
     </location>
     <price>
-      <value>8921140</value>
+      <value>9028020</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9912377</old-price>
+    <old-price>10031133</old-price>
     <area>
       <value>33.4</value>
       <unit>кв.м</unit>
@@ -3230,7 +3230,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395205</url>
     <location>
       <country>Россия</country>
@@ -3242,10 +3242,10 @@
       </metro>
     </location>
     <price>
-      <value>8944520</value>
+      <value>9051400</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9938355</old-price>
+    <old-price>10057111</old-price>
     <area>
       <value>33.4</value>
       <unit>кв.м</unit>
@@ -3273,7 +3273,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394948</url>
     <location>
       <country>Россия</country>
@@ -3285,10 +3285,10 @@
       </metro>
     </location>
     <price>
-      <value>8956296</value>
+      <value>9064296</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9951440</old-price>
+    <old-price>10071440</old-price>
     <area>
       <value>36.0</value>
       <unit>кв.м</unit>
@@ -3316,7 +3316,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395410</url>
     <location>
       <country>Россия</country>
@@ -3328,10 +3328,10 @@
       </metro>
     </location>
     <price>
-      <value>8982000</value>
+      <value>9090000</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9980000</old-price>
+    <old-price>10100000</old-price>
     <area>
       <value>36.0</value>
       <unit>кв.м</unit>
@@ -3359,7 +3359,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394942</url>
     <location>
       <country>Россия</country>
@@ -3371,10 +3371,10 @@
       </metro>
     </location>
     <price>
-      <value>8990449</value>
+      <value>9098639</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9989388</old-price>
+    <old-price>10109599</old-price>
     <area>
       <value>34.9</value>
       <unit>кв.м</unit>
@@ -3402,7 +3402,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395391</url>
     <location>
       <country>Россия</country>
@@ -3414,10 +3414,10 @@
       </metro>
     </location>
     <price>
-      <value>8997710</value>
+      <value>9105280</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9997455</old-price>
+    <old-price>10116977</old-price>
     <area>
       <value>34.7</value>
       <unit>кв.м</unit>
@@ -3445,7 +3445,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395397</url>
     <location>
       <country>Россия</country>
@@ -3457,10 +3457,10 @@
       </metro>
     </location>
     <price>
-      <value>9008120</value>
+      <value>9115690</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10009022</old-price>
+    <old-price>10128544</old-price>
     <area>
       <value>34.7</value>
       <unit>кв.м</unit>
@@ -3488,7 +3488,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395165</url>
     <location>
       <country>Россия</country>
@@ -3500,10 +3500,10 @@
       </metro>
     </location>
     <price>
-      <value>9011850</value>
+      <value>9121350</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10013166</old-price>
+    <old-price>10134833</old-price>
     <area>
       <value>36.5</value>
       <unit>кв.м</unit>
@@ -3531,7 +3531,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395403</url>
     <location>
       <country>Россия</country>
@@ -3543,10 +3543,10 @@
       </metro>
     </location>
     <price>
-      <value>9018530</value>
+      <value>9126100</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10020588</old-price>
+    <old-price>10140111</old-price>
     <area>
       <value>34.7</value>
       <unit>кв.м</unit>
@@ -3574,7 +3574,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395385</url>
     <location>
       <country>Россия</country>
@@ -3586,10 +3586,10 @@
       </metro>
     </location>
     <price>
-      <value>9056960</value>
+      <value>9166080</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10063288</old-price>
+    <old-price>10184533</old-price>
     <area>
       <value>35.2</value>
       <unit>кв.м</unit>
@@ -3617,7 +3617,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394953</url>
     <location>
       <country>Россия</country>
@@ -3629,10 +3629,10 @@
       </metro>
     </location>
     <price>
-      <value>9058936</value>
+      <value>9167506</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10065484</old-price>
+    <old-price>10186117</old-price>
     <area>
       <value>36.19</value>
       <unit>кв.м</unit>
@@ -3660,7 +3660,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394924</url>
     <location>
       <country>Россия</country>
@@ -3672,10 +3672,10 @@
       </metro>
     </location>
     <price>
-      <value>9077288</value>
+      <value>9187648</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10085875</old-price>
+    <old-price>10208497</old-price>
     <area>
       <value>35.6</value>
       <unit>кв.м</unit>
@@ -3703,7 +3703,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394963</url>
     <location>
       <country>Россия</country>
@@ -3715,10 +3715,10 @@
       </metro>
     </location>
     <price>
-      <value>9079077</value>
+      <value>9188897</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10087864</old-price>
+    <old-price>10209886</old-price>
     <area>
       <value>32.3</value>
       <unit>кв.м</unit>
@@ -3746,7 +3746,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394971</url>
     <location>
       <country>Россия</country>
@@ -3758,10 +3758,10 @@
       </metro>
     </location>
     <price>
-      <value>9088864</value>
+      <value>9198684</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10098738</old-price>
+    <old-price>10220760</old-price>
     <area>
       <value>32.3</value>
       <unit>кв.м</unit>
@@ -3789,7 +3789,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394979</url>
     <location>
       <country>Россия</country>
@@ -3801,10 +3801,10 @@
       </metro>
     </location>
     <price>
-      <value>9098554</value>
+      <value>9208374</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10109505</old-price>
+    <old-price>10231527</old-price>
     <area>
       <value>32.3</value>
       <unit>кв.м</unit>
@@ -3832,7 +3832,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395075</url>
     <location>
       <country>Россия</country>
@@ -3844,10 +3844,10 @@
       </metro>
     </location>
     <price>
-      <value>9127500</value>
+      <value>9236250</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10141666</old-price>
+    <old-price>10262500</old-price>
     <area>
       <value>37.5</value>
       <unit>кв.м</unit>
@@ -3875,7 +3875,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395263</url>
     <location>
       <country>Россия</country>
@@ -3887,10 +3887,10 @@
       </metro>
     </location>
     <price>
-      <value>9188400</value>
+      <value>9298600</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10209333</old-price>
+    <old-price>10331777</old-price>
     <area>
       <value>38.0</value>
       <unit>кв.м</unit>
@@ -3918,7 +3918,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394905</url>
     <location>
       <country>Россия</country>
@@ -3930,10 +3930,10 @@
       </metro>
     </location>
     <price>
-      <value>9211796</value>
+      <value>9323086</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10235329</old-price>
+    <old-price>10358984</old-price>
     <area>
       <value>35.9</value>
       <unit>кв.м</unit>
@@ -3957,11 +3957,54 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
+  <offer internal-id="139377">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/139377</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>9336108</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>10373454</old-price>
+    <area>
+      <value>36.4</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 1</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2025</built-year>
+    <ready-quarter>4</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/63589043c869fe8b7fbd782577336a73dca82711.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/af34f6215780b0c06e5da5bf769381ad466ae7ee.svg</image>
+    <description>1-комн. квартира, 36.4 кв.м, Этаж 5/5, корпус 1. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 4 кв. 2025 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
   <offer internal-id="394917">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394917</url>
     <location>
       <country>Россия</country>
@@ -3973,10 +4016,10 @@
       </metro>
     </location>
     <price>
-      <value>9233551</value>
+      <value>9344841</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10259502</old-price>
+    <old-price>10383157</old-price>
     <area>
       <value>35.9</value>
       <unit>кв.м</unit>
@@ -4004,7 +4047,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/139548</url>
     <location>
       <country>Россия</country>
@@ -4016,10 +4059,10 @@
       </metro>
     </location>
     <price>
-      <value>9250596</value>
+      <value>9360396</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10278440</old-price>
+    <old-price>10400440</old-price>
     <area>
       <value>36.6</value>
       <unit>кв.м</unit>
@@ -4047,7 +4090,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395077</url>
     <location>
       <country>Россия</country>
@@ -4059,10 +4102,10 @@
       </metro>
     </location>
     <price>
-      <value>9256450</value>
+      <value>9367750</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10284944</old-price>
+    <old-price>10408611</old-price>
     <area>
       <value>37.1</value>
       <unit>кв.м</unit>
@@ -4090,7 +4133,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395273</url>
     <location>
       <country>Россия</country>
@@ -4102,10 +4145,10 @@
       </metro>
     </location>
     <price>
-      <value>9262800</value>
+      <value>9374400</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10292000</old-price>
+    <old-price>10416000</old-price>
     <area>
       <value>36.0</value>
       <unit>кв.м</unit>
@@ -4133,7 +4176,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/139316</url>
     <location>
       <country>Россия</country>
@@ -4145,10 +4188,10 @@
       </metro>
     </location>
     <price>
-      <value>9269231</value>
+      <value>9382031</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10299146</old-price>
+    <old-price>10424479</old-price>
     <area>
       <value>37.6</value>
       <unit>кв.м</unit>
@@ -4176,7 +4219,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395278</url>
     <location>
       <country>Россия</country>
@@ -4188,10 +4231,10 @@
       </metro>
     </location>
     <price>
-      <value>9273600</value>
+      <value>9385200</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10304000</old-price>
+    <old-price>10428000</old-price>
     <area>
       <value>36.0</value>
       <unit>кв.м</unit>
@@ -4219,7 +4262,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/139582</url>
     <location>
       <country>Россия</country>
@@ -4231,10 +4274,10 @@
       </metro>
     </location>
     <price>
-      <value>9275748</value>
+      <value>9385848</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10306386</old-price>
+    <old-price>10428720</old-price>
     <area>
       <value>36.7</value>
       <unit>кв.м</unit>
@@ -4262,7 +4305,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/139539</url>
     <location>
       <country>Россия</country>
@@ -4274,10 +4317,10 @@
       </metro>
     </location>
     <price>
-      <value>9293764</value>
+      <value>9406864</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10326404</old-price>
+    <old-price>10452071</old-price>
     <area>
       <value>37.7</value>
       <unit>кв.м</unit>
@@ -4305,7 +4348,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395268</url>
     <location>
       <country>Россия</country>
@@ -4317,10 +4360,10 @@
       </metro>
     </location>
     <price>
-      <value>9303690</value>
+      <value>9416220</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10337433</old-price>
+    <old-price>10462466</old-price>
     <area>
       <value>36.3</value>
       <unit>кв.м</unit>
@@ -4348,7 +4391,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395287</url>
     <location>
       <country>Россия</country>
@@ -4360,10 +4403,10 @@
       </metro>
     </location>
     <price>
-      <value>9313920</value>
+      <value>9427600</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10348800</old-price>
+    <old-price>10475111</old-price>
     <area>
       <value>39.2</value>
       <unit>кв.м</unit>
@@ -4391,7 +4434,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394951</url>
     <location>
       <country>Россия</country>
@@ -4403,10 +4446,10 @@
       </metro>
     </location>
     <price>
-      <value>9335361</value>
+      <value>9449331</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10372623</old-price>
+    <old-price>10499257</old-price>
     <area>
       <value>39.3</value>
       <unit>кв.м</unit>
@@ -4434,7 +4477,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395286</url>
     <location>
       <country>Россия</country>
@@ -4446,10 +4489,10 @@
       </metro>
     </location>
     <price>
-      <value>9337680</value>
+      <value>9451650</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10375200</old-price>
+    <old-price>10501833</old-price>
     <area>
       <value>39.3</value>
       <unit>кв.м</unit>
@@ -4477,7 +4520,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395011</url>
     <location>
       <country>Россия</country>
@@ -4489,10 +4532,10 @@
       </metro>
     </location>
     <price>
-      <value>9386823</value>
+      <value>9497703</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10429804</old-price>
+    <old-price>10553004</old-price>
     <area>
       <value>39.6</value>
       <unit>кв.м</unit>
@@ -4520,7 +4563,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395360</url>
     <location>
       <country>Россия</country>
@@ -4532,10 +4575,10 @@
       </metro>
     </location>
     <price>
-      <value>9417180</value>
+      <value>9530640</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10463533</old-price>
+    <old-price>10589600</old-price>
     <area>
       <value>36.6</value>
       <unit>кв.м</unit>
@@ -4563,7 +4606,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395366</url>
     <location>
       <country>Россия</country>
@@ -4575,10 +4618,10 @@
       </metro>
     </location>
     <price>
-      <value>9428160</value>
+      <value>9541620</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10475733</old-price>
+    <old-price>10601800</old-price>
     <area>
       <value>36.6</value>
       <unit>кв.м</unit>
@@ -4606,7 +4649,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395354</url>
     <location>
       <country>Россия</country>
@@ -4618,10 +4661,10 @@
       </metro>
     </location>
     <price>
-      <value>9457470</value>
+      <value>9571860</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10508300</old-price>
+    <old-price>10635400</old-price>
     <area>
       <value>36.9</value>
       <unit>кв.м</unit>
@@ -4649,7 +4692,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/139630</url>
     <location>
       <country>Россия</country>
@@ -4661,10 +4704,10 @@
       </metro>
     </location>
     <price>
-      <value>9485678</value>
+      <value>9601198</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10539642</old-price>
+    <old-price>10667998</old-price>
     <area>
       <value>36.1</value>
       <unit>кв.м</unit>
@@ -4692,7 +4735,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394994</url>
     <location>
       <country>Россия</country>
@@ -4704,10 +4747,10 @@
       </metro>
     </location>
     <price>
-      <value>9495684</value>
+      <value>9611314</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10550760</old-price>
+    <old-price>10679238</old-price>
     <area>
       <value>37.3</value>
       <unit>кв.м</unit>
@@ -4735,7 +4778,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394999</url>
     <location>
       <country>Россия</country>
@@ -4747,10 +4790,10 @@
       </metro>
     </location>
     <price>
-      <value>9506986</value>
+      <value>9622616</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10563318</old-price>
+    <old-price>10691796</old-price>
     <area>
       <value>37.3</value>
       <unit>кв.м</unit>
@@ -4778,7 +4821,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395004</url>
     <location>
       <country>Россия</country>
@@ -4790,10 +4833,10 @@
       </metro>
     </location>
     <price>
-      <value>9518288</value>
+      <value>9633918</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10575876</old-price>
+    <old-price>10704354</old-price>
     <area>
       <value>37.3</value>
       <unit>кв.м</unit>
@@ -4821,7 +4864,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394989</url>
     <location>
       <country>Россия</country>
@@ -4833,10 +4876,10 @@
       </metro>
     </location>
     <price>
-      <value>9526561</value>
+      <value>9639361</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10585068</old-price>
+    <old-price>10710401</old-price>
     <area>
       <value>37.6</value>
       <unit>кв.м</unit>
@@ -4864,7 +4907,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395283</url>
     <location>
       <country>Россия</country>
@@ -4876,10 +4919,10 @@
       </metro>
     </location>
     <price>
-      <value>9687018</value>
+      <value>9803466</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10763353</old-price>
+    <old-price>10892740</old-price>
     <area>
       <value>36.39</value>
       <unit>кв.м</unit>
@@ -4907,7 +4950,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395372</url>
     <location>
       <country>Россия</country>
@@ -4919,10 +4962,10 @@
       </metro>
     </location>
     <price>
-      <value>9697700</value>
+      <value>9812400</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10775222</old-price>
+    <old-price>10902666</old-price>
     <area>
       <value>37.0</value>
       <unit>кв.м</unit>
@@ -4950,7 +4993,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395117</url>
     <location>
       <country>Россия</country>
@@ -4962,10 +5005,10 @@
       </metro>
     </location>
     <price>
-      <value>9736280</value>
+      <value>9852570</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10818088</old-price>
+    <old-price>10947300</old-price>
     <area>
       <value>40.1</value>
       <unit>кв.м</unit>
@@ -4993,7 +5036,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/335017</url>
     <location>
       <country>Россия</country>
@@ -5005,10 +5048,10 @@
       </metro>
     </location>
     <price>
-      <value>9747560</value>
+      <value>9865760</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10830622</old-price>
+    <old-price>10961955</old-price>
     <area>
       <value>39.4</value>
       <unit>кв.м</unit>
@@ -5036,7 +5079,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395043</url>
     <location>
       <country>Россия</country>
@@ -5048,10 +5091,10 @@
       </metro>
     </location>
     <price>
-      <value>9759900</value>
+      <value>9877930</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10844334</old-price>
+    <old-price>10975478</old-price>
     <area>
       <value>40.7</value>
       <unit>кв.м</unit>
@@ -5075,54 +5118,11 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
-  <offer internal-id="395019">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395019</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>9803395</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>10892662</old-price>
-    <area>
-      <value>36.3</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>1</rooms>
-    <rooms-offered>1</rooms-offered>
-    <floor>2</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 10</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d74c2aab1c20ccb12e1a8530529fb1faec550e36.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/aa0c96d596647873a4c15af6c17bbe8a82111d60.svg</image>
-    <description>1-комн. квартира, 36.3 кв.м, Этаж 2/5, корпус 10. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
   <offer internal-id="395379">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395379</url>
     <location>
       <country>Россия</country>
@@ -5134,10 +5134,10 @@
       </metro>
     </location>
     <price>
-      <value>9871640</value>
+      <value>9988960</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10968488</old-price>
+    <old-price>11098844</old-price>
     <area>
       <value>41.9</value>
       <unit>кв.м</unit>
@@ -5165,7 +5165,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395406</url>
     <location>
       <country>Россия</country>
@@ -5177,10 +5177,10 @@
       </metro>
     </location>
     <price>
-      <value>9881150</value>
+      <value>10001500</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10979055</old-price>
+    <old-price>11112777</old-price>
     <area>
       <value>41.5</value>
       <unit>кв.м</unit>
@@ -5208,7 +5208,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395128</url>
     <location>
       <country>Россия</country>
@@ -5220,10 +5220,10 @@
       </metro>
     </location>
     <price>
-      <value>9925000</value>
+      <value>10044100</value>
       <currency>RUR</currency>
     </price>
-    <old-price>11027777</old-price>
+    <old-price>11160111</old-price>
     <area>
       <value>39.7</value>
       <unit>кв.м</unit>
@@ -5251,7 +5251,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395008</url>
     <location>
       <country>Россия</country>
@@ -5263,10 +5263,10 @@
       </metro>
     </location>
     <price>
-      <value>9976983</value>
+      <value>10095243</value>
       <currency>RUR</currency>
     </price>
-    <old-price>11085536</old-price>
+    <old-price>11216936</old-price>
     <area>
       <value>43.8</value>
       <unit>кв.м</unit>
@@ -5294,7 +5294,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395150</url>
     <location>
       <country>Россия</country>
@@ -5306,10 +5306,10 @@
       </metro>
     </location>
     <price>
-      <value>9980580</value>
+      <value>10099680</value>
       <currency>RUR</currency>
     </price>
-    <old-price>11089533</old-price>
+    <old-price>11221866</old-price>
     <area>
       <value>39.7</value>
       <unit>кв.м</unit>
@@ -5337,7 +5337,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395282</url>
     <location>
       <country>Россия</country>
@@ -5349,10 +5349,10 @@
       </metro>
     </location>
     <price>
-      <value>9998472</value>
+      <value>10118664</value>
       <currency>RUR</currency>
     </price>
-    <old-price>11109413</old-price>
+    <old-price>11242960</old-price>
     <area>
       <value>37.56</value>
       <unit>кв.м</unit>
@@ -5376,11 +5376,54 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
+  <offer internal-id="395328">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395328</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>10125680</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>11250755</old-price>
+    <area>
+      <value>37.6</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 13</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/d99ebad67dbd5315a6e596bd11b042f4da1901df.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/179b2a19f127ca618a9230d3ecdd025391dcdd9f.svg</image>
+    <description>1-комн. квартира, 37.6 кв.м, Этаж 2/5, корпус 13. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
   <offer internal-id="395383">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395383</url>
     <location>
       <country>Россия</country>
@@ -5392,10 +5435,10 @@
       </metro>
     </location>
     <price>
-      <value>10022595</value>
+      <value>10144035</value>
       <currency>RUR</currency>
     </price>
-    <old-price>11136216</old-price>
+    <old-price>11271150</old-price>
     <area>
       <value>37.95</value>
       <unit>кв.м</unit>
@@ -5423,7 +5466,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395390</url>
     <location>
       <country>Россия</country>
@@ -5435,10 +5478,10 @@
       </metro>
     </location>
     <price>
-      <value>10048680</value>
+      <value>10168160</value>
       <currency>RUR</currency>
     </price>
-    <old-price>11165200</old-price>
+    <old-price>11297955</old-price>
     <area>
       <value>41.2</value>
       <unit>кв.м</unit>
@@ -5462,11 +5505,54 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
+  <offer internal-id="395402">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395402</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>10192880</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>11325422</old-price>
+    <area>
+      <value>41.2</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 14</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/e754e57c6b6345290668a711d68054ee5fee18c7.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/04565ff948c555ff0cc018175adfe7fbde9416f5.svg</image>
+    <description>1-комн. квартира, 41.2 кв.м, Этаж 5/5, корпус 14. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
   <offer internal-id="395290">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395290</url>
     <location>
       <country>Россия</country>
@@ -5478,10 +5564,10 @@
       </metro>
     </location>
     <price>
-      <value>10088220</value>
+      <value>10211140</value>
       <currency>RUR</currency>
     </price>
-    <old-price>11209133</old-price>
+    <old-price>11345711</old-price>
     <area>
       <value>43.9</value>
       <unit>кв.м</unit>
@@ -5509,7 +5595,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/335014</url>
     <location>
       <country>Россия</country>
@@ -5521,10 +5607,10 @@
       </metro>
     </location>
     <price>
-      <value>10162510</value>
+      <value>10283750</value>
       <currency>RUR</currency>
     </price>
-    <old-price>11291677</old-price>
+    <old-price>11426388</old-price>
     <area>
       <value>43.3</value>
       <unit>кв.м</unit>
@@ -5552,7 +5638,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395413</url>
     <location>
       <country>Россия</country>
@@ -5564,10 +5650,10 @@
       </metro>
     </location>
     <price>
-      <value>10172250</value>
+      <value>10295550</value>
       <currency>RUR</currency>
     </price>
-    <old-price>11302500</old-price>
+    <old-price>11439500</old-price>
     <area>
       <value>41.1</value>
       <unit>кв.м</unit>
@@ -5595,7 +5681,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395421</url>
     <location>
       <country>Россия</country>
@@ -5607,10 +5693,10 @@
       </metro>
     </location>
     <price>
-      <value>10213350</value>
+      <value>10336650</value>
       <currency>RUR</currency>
     </price>
-    <old-price>11348166</old-price>
+    <old-price>11485166</old-price>
     <area>
       <value>41.1</value>
       <unit>кв.м</unit>
@@ -5638,7 +5724,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395437</url>
     <location>
       <country>Россия</country>
@@ -5650,10 +5736,10 @@
       </metro>
     </location>
     <price>
-      <value>10482480</value>
+      <value>10606680</value>
       <currency>RUR</currency>
     </price>
-    <old-price>11647200</old-price>
+    <old-price>11785200</old-price>
     <area>
       <value>41.4</value>
       <unit>кв.м</unit>
@@ -5681,7 +5767,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395262</url>
     <location>
       <country>Россия</country>
@@ -5693,10 +5779,10 @@
       </metro>
     </location>
     <price>
-      <value>12155920</value>
+      <value>12217940</value>
       <currency>RUR</currency>
     </price>
-    <old-price>13506577</old-price>
+    <old-price>13575488</old-price>
     <area>
       <value>44.3</value>
       <unit>кв.м</unit>
@@ -5724,7 +5810,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394903</url>
     <location>
       <country>Россия</country>
@@ -5736,10 +5822,10 @@
       </metro>
     </location>
     <price>
-      <value>12987972</value>
+      <value>13054472</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14431080</old-price>
+    <old-price>14504969</old-price>
     <area>
       <value>47.5</value>
       <unit>кв.м</unit>
@@ -5767,7 +5853,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394909</url>
     <location>
       <country>Россия</country>
@@ -5779,10 +5865,10 @@
       </metro>
     </location>
     <price>
-      <value>13002365</value>
+      <value>13068865</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14447072</old-price>
+    <old-price>14520961</old-price>
     <area>
       <value>47.5</value>
       <unit>кв.м</unit>
@@ -5810,7 +5896,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395276</url>
     <location>
       <country>Россия</country>
@@ -5822,10 +5908,10 @@
       </metro>
     </location>
     <price>
-      <value>13002608</value>
+      <value>13069448</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14447342</old-price>
+    <old-price>14521608</old-price>
     <area>
       <value>44.56</value>
       <unit>кв.м</unit>
@@ -5853,7 +5939,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394915</url>
     <location>
       <country>Россия</country>
@@ -5865,10 +5951,10 @@
       </metro>
     </location>
     <price>
-      <value>13016757</value>
+      <value>13083257</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14463063</old-price>
+    <old-price>14536952</old-price>
     <area>
       <value>47.5</value>
       <unit>кв.м</unit>
@@ -5896,7 +5982,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395006</url>
     <location>
       <country>Россия</country>
@@ -5908,10 +5994,10 @@
       </metro>
     </location>
     <price>
-      <value>13060162</value>
+      <value>13127302</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14511291</old-price>
+    <old-price>14585891</old-price>
     <area>
       <value>44.76</value>
       <unit>кв.м</unit>
@@ -5939,7 +6025,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394991</url>
     <location>
       <country>Россия</country>
@@ -5951,10 +6037,10 @@
       </metro>
     </location>
     <price>
-      <value>13074879</value>
+      <value>13142469</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14527644</old-price>
+    <old-price>14602744</old-price>
     <area>
       <value>45.06</value>
       <unit>кв.м</unit>
@@ -5982,7 +6068,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395356</url>
     <location>
       <country>Россия</country>
@@ -5994,10 +6080,10 @@
       </metro>
     </location>
     <price>
-      <value>13105580</value>
+      <value>13173060</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14561755</old-price>
+    <old-price>14636733</old-price>
     <area>
       <value>48.2</value>
       <unit>кв.м</unit>
@@ -6025,7 +6111,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395281</url>
     <location>
       <country>Россия</country>
@@ -6037,10 +6123,10 @@
       </metro>
     </location>
     <price>
-      <value>13134390</value>
+      <value>13201815</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14593766</old-price>
+    <old-price>14668683</old-price>
     <area>
       <value>44.95</value>
       <unit>кв.м</unit>
@@ -6068,7 +6154,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395362</url>
     <location>
       <country>Россия</country>
@@ -6080,10 +6166,10 @@
       </metro>
     </location>
     <price>
-      <value>13153780</value>
+      <value>13221260</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14615311</old-price>
+    <old-price>14690288</old-price>
     <area>
       <value>48.2</value>
       <unit>кв.м</unit>
@@ -6111,7 +6197,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394892</url>
     <location>
       <country>Россия</country>
@@ -6123,10 +6209,10 @@
       </metro>
     </location>
     <price>
-      <value>13165636</value>
+      <value>13229193</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14628485</old-price>
+    <old-price>14699104</old-price>
     <area>
       <value>48.89</value>
       <unit>кв.м</unit>
@@ -6154,7 +6240,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395368</url>
     <location>
       <country>Россия</country>
@@ -6166,10 +6252,10 @@
       </metro>
     </location>
     <price>
-      <value>13168240</value>
+      <value>13235720</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14631377</old-price>
+    <old-price>14706355</old-price>
     <area>
       <value>48.2</value>
       <unit>кв.м</unit>
@@ -6197,7 +6283,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395350</url>
     <location>
       <country>Россия</country>
@@ -6209,10 +6295,10 @@
       </metro>
     </location>
     <price>
-      <value>13328120</value>
+      <value>13392340</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14809022</old-price>
+    <old-price>14880377</old-price>
     <area>
       <value>49.4</value>
       <unit>кв.м</unit>
@@ -6240,7 +6326,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394954</url>
     <location>
       <country>Россия</country>
@@ -6252,10 +6338,10 @@
       </metro>
     </location>
     <price>
-      <value>13407381</value>
+      <value>13472251</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14897090</old-price>
+    <old-price>14969168</old-price>
     <area>
       <value>49.9</value>
       <unit>кв.м</unit>
@@ -6283,7 +6369,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394970</url>
     <location>
       <country>Россия</country>
@@ -6295,10 +6381,10 @@
       </metro>
     </location>
     <price>
-      <value>13472900</value>
+      <value>13537770</value>
       <currency>RUR</currency>
     </price>
-    <old-price>14969889</old-price>
+    <old-price>15041966</old-price>
     <area>
       <value>49.9</value>
       <unit>кв.м</unit>
@@ -6326,7 +6412,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395285</url>
     <location>
       <country>Россия</country>
@@ -6338,10 +6424,10 @@
       </metro>
     </location>
     <price>
-      <value>13559040</value>
+      <value>13627680</value>
       <currency>RUR</currency>
     </price>
-    <old-price>15065600</old-price>
+    <old-price>15141866</old-price>
     <area>
       <value>52.8</value>
       <unit>кв.м</unit>
@@ -6369,7 +6455,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395374</url>
     <location>
       <country>Россия</country>
@@ -6381,10 +6467,10 @@
       </metro>
     </location>
     <price>
-      <value>13644480</value>
+      <value>13712800</value>
       <currency>RUR</currency>
     </price>
-    <old-price>15160533</old-price>
+    <old-price>15236444</old-price>
     <area>
       <value>48.8</value>
       <unit>кв.м</unit>
@@ -6412,7 +6498,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395071</url>
     <location>
       <country>Россия</country>
@@ -6424,10 +6510,10 @@
       </metro>
     </location>
     <price>
-      <value>13675251</value>
+      <value>13741512</value>
       <currency>RUR</currency>
     </price>
-    <old-price>15194723</old-price>
+    <old-price>15268346</old-price>
     <area>
       <value>50.97</value>
       <unit>кв.м</unit>
@@ -6455,7 +6541,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395216</url>
     <location>
       <country>Россия</country>
@@ -6467,10 +6553,10 @@
       </metro>
     </location>
     <price>
-      <value>13720280</value>
+      <value>13787334</value>
       <currency>RUR</currency>
     </price>
-    <old-price>15244755</old-price>
+    <old-price>15319260</old-price>
     <area>
       <value>51.58</value>
       <unit>кв.м</unit>
@@ -6498,7 +6584,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395412</url>
     <location>
       <country>Россия</country>
@@ -6510,10 +6596,10 @@
       </metro>
     </location>
     <price>
-      <value>13768440</value>
+      <value>13835780</value>
       <currency>RUR</currency>
     </price>
-    <old-price>15298266</old-price>
+    <old-price>15373088</old-price>
     <area>
       <value>51.8</value>
       <unit>кв.м</unit>
@@ -6541,7 +6627,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395227</url>
     <location>
       <country>Россия</country>
@@ -6553,10 +6639,10 @@
       </metro>
     </location>
     <price>
-      <value>13771860</value>
+      <value>13838914</value>
       <currency>RUR</currency>
     </price>
-    <old-price>15302066</old-price>
+    <old-price>15376571</old-price>
     <area>
       <value>51.58</value>
       <unit>кв.м</unit>
@@ -6584,7 +6670,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395238</url>
     <location>
       <country>Россия</country>
@@ -6596,10 +6682,10 @@
       </metro>
     </location>
     <price>
-      <value>13787334</value>
+      <value>13854388</value>
       <currency>RUR</currency>
     </price>
-    <old-price>15319260</old-price>
+    <old-price>15393764</old-price>
     <area>
       <value>51.58</value>
       <unit>кв.м</unit>
@@ -6627,7 +6713,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395249</url>
     <location>
       <country>Россия</country>
@@ -6639,10 +6725,10 @@
       </metro>
     </location>
     <price>
-      <value>13802808</value>
+      <value>13869862</value>
       <currency>RUR</currency>
     </price>
-    <old-price>15336453</old-price>
+    <old-price>15410957</old-price>
     <area>
       <value>51.58</value>
       <unit>кв.м</unit>
@@ -6670,7 +6756,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395013</url>
     <location>
       <country>Россия</country>
@@ -6682,10 +6768,10 @@
       </metro>
     </location>
     <price>
-      <value>13919348</value>
+      <value>13988638</value>
       <currency>RUR</currency>
     </price>
-    <old-price>15465942</old-price>
+    <old-price>15542931</old-price>
     <area>
       <value>53.3</value>
       <unit>кв.м</unit>
@@ -6713,7 +6799,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395411</url>
     <location>
       <country>Россия</country>
@@ -6725,10 +6811,10 @@
       </metro>
     </location>
     <price>
-      <value>13954120</value>
+      <value>14022240</value>
       <currency>RUR</currency>
     </price>
-    <old-price>15504577</old-price>
+    <old-price>15580266</old-price>
     <area>
       <value>52.4</value>
       <unit>кв.м</unit>
@@ -6756,7 +6842,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395405</url>
     <location>
       <country>Россия</country>
@@ -6768,10 +6854,10 @@
       </metro>
     </location>
     <price>
-      <value>14220440</value>
+      <value>14289730</value>
       <currency>RUR</currency>
     </price>
-    <old-price>15800488</old-price>
+    <old-price>15877477</old-price>
     <area>
       <value>53.3</value>
       <unit>кв.м</unit>
@@ -6799,7 +6885,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/139454</url>
     <location>
       <country>Россия</country>
@@ -6842,7 +6928,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395443</url>
     <location>
       <country>Россия</country>
@@ -6854,10 +6940,10 @@
       </metro>
     </location>
     <price>
-      <value>14609959</value>
+      <value>14682465</value>
       <currency>RUR</currency>
     </price>
-    <old-price>16233287</old-price>
+    <old-price>16313850</old-price>
     <area>
       <value>51.79</value>
       <unit>кв.м</unit>
@@ -6885,7 +6971,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395041</url>
     <location>
       <country>Россия</country>
@@ -6897,10 +6983,10 @@
       </metro>
     </location>
     <price>
-      <value>14733311</value>
+      <value>14807511</value>
       <currency>RUR</currency>
     </price>
-    <old-price>16370345</old-price>
+    <old-price>16452790</old-price>
     <area>
       <value>53.0</value>
       <unit>кв.м</unit>
@@ -6928,7 +7014,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395207</url>
     <location>
       <country>Россия</country>
@@ -6940,10 +7026,10 @@
       </metro>
     </location>
     <price>
-      <value>14897880</value>
+      <value>14972084</value>
       <currency>RUR</currency>
     </price>
-    <old-price>16553200</old-price>
+    <old-price>16635648</old-price>
     <area>
       <value>57.08</value>
       <unit>кв.м</unit>
@@ -6971,7 +7057,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395377</url>
     <location>
       <country>Россия</country>
@@ -6983,10 +7069,10 @@
       </metro>
     </location>
     <price>
-      <value>14915200</value>
+      <value>14991900</value>
       <currency>RUR</currency>
     </price>
-    <old-price>16572444</old-price>
+    <old-price>16657666</old-price>
     <area>
       <value>59.0</value>
       <unit>кв.м</unit>
@@ -7014,7 +7100,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395323</url>
     <location>
       <country>Россия</country>
@@ -7026,10 +7112,10 @@
       </metro>
     </location>
     <price>
-      <value>15108478</value>
+      <value>15183501</value>
       <currency>RUR</currency>
     </price>
-    <old-price>16787197</old-price>
+    <old-price>16870556</old-price>
     <area>
       <value>57.71</value>
       <unit>кв.м</unit>
@@ -7057,7 +7143,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395042</url>
     <location>
       <country>Россия</country>
@@ -7069,10 +7155,10 @@
       </metro>
     </location>
     <price>
-      <value>15146566</value>
+      <value>15223123</value>
       <currency>RUR</currency>
     </price>
-    <old-price>16829518</old-price>
+    <old-price>16914582</old-price>
     <area>
       <value>58.89</value>
       <unit>кв.м</unit>
@@ -7100,7 +7186,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395381</url>
     <location>
       <country>Россия</country>
@@ -7112,10 +7198,10 @@
       </metro>
     </location>
     <price>
-      <value>15178560</value>
+      <value>15254220</value>
       <currency>RUR</currency>
     </price>
-    <old-price>16865066</old-price>
+    <old-price>16949133</old-price>
     <area>
       <value>58.2</value>
       <unit>кв.м</unit>
@@ -7143,7 +7229,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394928</url>
     <location>
       <country>Россия</country>
@@ -7155,10 +7241,10 @@
       </metro>
     </location>
     <price>
-      <value>15193282</value>
+      <value>15268032</value>
       <currency>RUR</currency>
     </price>
-    <old-price>16881425</old-price>
+    <old-price>16964480</old-price>
     <area>
       <value>57.5</value>
       <unit>кв.м</unit>
@@ -7186,7 +7272,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395387</url>
     <location>
       <country>Россия</country>
@@ -7198,10 +7284,10 @@
       </metro>
     </location>
     <price>
-      <value>15236760</value>
+      <value>15312420</value>
       <currency>RUR</currency>
     </price>
-    <old-price>16929733</old-price>
+    <old-price>17013800</old-price>
     <area>
       <value>58.2</value>
       <unit>кв.м</unit>
@@ -7229,7 +7315,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395393</url>
     <location>
       <country>Россия</country>
@@ -7241,10 +7327,10 @@
       </metro>
     </location>
     <price>
-      <value>15254220</value>
+      <value>15329880</value>
       <currency>RUR</currency>
     </price>
-    <old-price>16949133</old-price>
+    <old-price>17033200</old-price>
     <area>
       <value>58.2</value>
       <unit>кв.м</unit>
@@ -7272,7 +7358,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395297</url>
     <location>
       <country>Россия</country>
@@ -7284,10 +7370,10 @@
       </metro>
     </location>
     <price>
-      <value>15408520</value>
+      <value>15488180</value>
       <currency>RUR</currency>
     </price>
-    <old-price>17120577</old-price>
+    <old-price>17209088</old-price>
     <area>
       <value>56.9</value>
       <unit>кв.м</unit>
@@ -7315,7 +7401,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395318</url>
     <location>
       <country>Россия</country>
@@ -7327,10 +7413,10 @@
       </metro>
     </location>
     <price>
-      <value>15505250</value>
+      <value>15584910</value>
       <currency>RUR</currency>
     </price>
-    <old-price>17228055</old-price>
+    <old-price>17316566</old-price>
     <area>
       <value>56.9</value>
       <unit>кв.м</unit>
@@ -7358,7 +7444,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395336</url>
     <location>
       <country>Россия</country>
@@ -7370,10 +7456,10 @@
       </metro>
     </location>
     <price>
-      <value>15569840</value>
+      <value>15649920</value>
       <currency>RUR</currency>
     </price>
-    <old-price>17299822</old-price>
+    <old-price>17388800</old-price>
     <area>
       <value>57.2</value>
       <unit>кв.м</unit>
@@ -7401,7 +7487,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395194</url>
     <location>
       <country>Россия</country>
@@ -7413,10 +7499,10 @@
       </metro>
     </location>
     <price>
-      <value>15675090</value>
+      <value>15753285</value>
       <currency>RUR</currency>
     </price>
-    <old-price>17416766</old-price>
+    <old-price>17503650</old-price>
     <area>
       <value>60.15</value>
       <unit>кв.м</unit>
@@ -7444,7 +7530,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395399</url>
     <location>
       <country>Россия</country>
@@ -7456,10 +7542,10 @@
       </metro>
     </location>
     <price>
-      <value>15781920</value>
+      <value>15858360</value>
       <currency>RUR</currency>
     </price>
-    <old-price>17535466</old-price>
+    <old-price>17620400</old-price>
     <area>
       <value>58.8</value>
       <unit>кв.м</unit>
@@ -7487,7 +7573,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395176</url>
     <location>
       <country>Россия</country>
@@ -7499,10 +7585,10 @@
       </metro>
     </location>
     <price>
-      <value>15856195</value>
+      <value>15935690</value>
       <currency>RUR</currency>
     </price>
-    <old-price>17617994</old-price>
+    <old-price>17706322</old-price>
     <area>
       <value>61.15</value>
       <unit>кв.м</unit>
@@ -7530,7 +7616,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395319</url>
     <location>
       <country>Россия</country>
@@ -7542,10 +7628,10 @@
       </metro>
     </location>
     <price>
-      <value>15940242</value>
+      <value>16023065</value>
       <currency>RUR</currency>
     </price>
-    <old-price>17711380</old-price>
+    <old-price>17803405</old-price>
     <area>
       <value>63.71</value>
       <unit>кв.м</unit>
@@ -7573,7 +7659,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394919</url>
     <location>
       <country>Россия</country>
@@ -7585,10 +7671,10 @@
       </metro>
     </location>
     <price>
-      <value>16146918</value>
+      <value>16224426</value>
       <currency>RUR</currency>
     </price>
-    <old-price>17941020</old-price>
+    <old-price>18027140</old-price>
     <area>
       <value>64.59</value>
       <unit>кв.м</unit>
@@ -7616,7 +7702,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395217</url>
     <location>
       <country>Россия</country>
@@ -7628,10 +7714,10 @@
       </metro>
     </location>
     <price>
-      <value>16169380</value>
+      <value>16253360</value>
       <currency>RUR</currency>
     </price>
-    <old-price>17965977</old-price>
+    <old-price>18059288</old-price>
     <area>
       <value>64.6</value>
       <unit>кв.м</unit>
@@ -7659,7 +7745,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395010</url>
     <location>
       <country>Россия</country>
@@ -7671,10 +7757,10 @@
       </metro>
     </location>
     <price>
-      <value>16224663</value>
+      <value>16274103</value>
       <currency>RUR</currency>
     </price>
-    <old-price>18027403</old-price>
+    <old-price>18082336</old-price>
     <area>
       <value>61.8</value>
       <unit>кв.м</unit>
@@ -7698,54 +7784,11 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
-  <offer internal-id="395228">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
-    <url>https://psk-info.ru/flats/395228</url>
-    <location>
-      <country>Россия</country>
-      <region>Санкт-Петербург</region>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
-      <metro>
-        <name>Московская</name>
-      </metro>
-    </location>
-    <price>
-      <value>16233980</value>
-      <currency>RUR</currency>
-    </price>
-    <old-price>18037755</old-price>
-    <area>
-      <value>64.6</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>2</rooms>
-    <rooms-offered>2</rooms-offered>
-    <floor>3</floor>
-    <floors-total>5</floors-total>
-    <building-name>ЖК «ПЛЮС Пулковский», корпус 12</building-name>
-    <building-type>монолитный</building-type>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <new-flat>да</new-flat>
-    <renovation>чистовая отделка</renovation>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/p/045529d26cfd25b2bd7de9207d0debd47911ce5a.svg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/e76ddb0d36a5e43c41360773553800877242f226.svg</image>
-    <description>2-комн. квартира, 64.6 кв.м, Этаж 3/5, корпус 12. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
-    <sales-agent>
-      <organization>Группа компаний ПСК</organization>
-      <category>застройщик</category>
-      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
-    </sales-agent>
-  </offer>
   <offer internal-id="395288">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395288</url>
     <location>
       <country>Россия</country>
@@ -7757,10 +7800,10 @@
       </metro>
     </location>
     <price>
-      <value>16236370</value>
+      <value>16285890</value>
       <currency>RUR</currency>
     </price>
-    <old-price>18040411</old-price>
+    <old-price>18095433</old-price>
     <area>
       <value>61.9</value>
       <unit>кв.м</unit>
@@ -7784,11 +7827,54 @@
       <url>https://psk-info.ru/projects/plus-pulkovskij</url>
     </sales-agent>
   </offer>
+  <offer internal-id="395228">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <url>https://psk-info.ru/flats/395228</url>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>г. Санкт-Петербург, Пулковское шоссе / Волхонское шоссе</address>
+      <metro>
+        <name>Московская</name>
+      </metro>
+    </location>
+    <price>
+      <value>16317960</value>
+      <currency>RUR</currency>
+    </price>
+    <old-price>18131066</old-price>
+    <area>
+      <value>64.6</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <rooms-offered>2</rooms-offered>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-name>ЖК «ПЛЮС Пулковский», корпус 12</building-name>
+    <building-type>монолитный</building-type>
+    <built-year>2027</built-year>
+    <ready-quarter>2</ready-quarter>
+    <new-flat>да</new-flat>
+    <renovation>чистовая отделка</renovation>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/p/045529d26cfd25b2bd7de9207d0debd47911ce5a.svg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/b/f/p/e76ddb0d36a5e43c41360773553800877242f226.svg</image>
+    <description>2-комн. квартира, 64.6 кв.м, Этаж 3/5, корпус 12. ЖК «ПЛЮС Пулковский» — комфорт-класс, рядом с метро Московская. Монолитный дом, сдача 2 кв. 2027 г. Скидка 10%!</description>
+    <sales-agent>
+      <organization>Группа компаний ПСК</organization>
+      <category>застройщик</category>
+      <url>https://psk-info.ru/projects/plus-pulkovskij</url>
+    </sales-agent>
+  </offer>
   <offer internal-id="395239">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395239</url>
     <location>
       <country>Россия</country>
@@ -7800,10 +7886,10 @@
       </metro>
     </location>
     <price>
-      <value>16253360</value>
+      <value>16337340</value>
       <currency>RUR</currency>
     </price>
-    <old-price>18059288</old-price>
+    <old-price>18152600</old-price>
     <area>
       <value>64.6</value>
       <unit>кв.м</unit>
@@ -7831,7 +7917,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395250</url>
     <location>
       <country>Россия</country>
@@ -7843,10 +7929,10 @@
       </metro>
     </location>
     <price>
-      <value>16272740</value>
+      <value>16356720</value>
       <currency>RUR</currency>
     </price>
-    <old-price>18080822</old-price>
+    <old-price>18174133</old-price>
     <area>
       <value>64.6</value>
       <unit>кв.м</unit>
@@ -7874,7 +7960,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395209</url>
     <location>
       <country>Россия</country>
@@ -7886,10 +7972,10 @@
       </metro>
     </location>
     <price>
-      <value>16426960</value>
+      <value>16508416</value>
       <currency>RUR</currency>
     </price>
-    <old-price>18252177</old-price>
+    <old-price>18342684</old-price>
     <area>
       <value>67.88</value>
       <unit>кв.м</unit>
@@ -7917,7 +8003,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395208</url>
     <location>
       <country>Россия</country>
@@ -7929,10 +8015,10 @@
       </metro>
     </location>
     <price>
-      <value>16505544</value>
+      <value>16585668</value>
       <currency>RUR</currency>
     </price>
-    <old-price>18339493</old-price>
+    <old-price>18428520</old-price>
     <area>
       <value>66.77</value>
       <unit>кв.м</unit>
@@ -7960,7 +8046,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394890</url>
     <location>
       <country>Россия</country>
@@ -7972,10 +8058,10 @@
       </metro>
     </location>
     <price>
-      <value>16643440</value>
+      <value>16696160</value>
       <currency>RUR</currency>
     </price>
-    <old-price>18492711</old-price>
+    <old-price>18551289</old-price>
     <area>
       <value>65.9</value>
       <unit>кв.м</unit>
@@ -8003,7 +8089,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395017</url>
     <location>
       <country>Россия</country>
@@ -8046,7 +8132,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395031</url>
     <location>
       <country>Россия</country>
@@ -8089,7 +8175,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395370</url>
     <location>
       <country>Россия</country>
@@ -8132,7 +8218,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395315</url>
     <location>
       <country>Россия</country>
@@ -8175,7 +8261,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395047</url>
     <location>
       <country>Россия</country>
@@ -8218,7 +8304,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395329</url>
     <location>
       <country>Россия</country>
@@ -8261,7 +8347,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395376</url>
     <location>
       <country>Россия</country>
@@ -8304,7 +8390,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395347</url>
     <location>
       <country>Россия</country>
@@ -8347,7 +8433,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/335044</url>
     <location>
       <country>Россия</country>
@@ -8359,10 +8445,10 @@
       </metro>
     </location>
     <price>
-      <value>17951950</value>
+      <value>17970880</value>
       <currency>RUR</currency>
     </price>
-    <old-price>19946611</old-price>
+    <old-price>19967644</old-price>
     <area>
       <value>63.1</value>
       <unit>кв.м</unit>
@@ -8390,7 +8476,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/335037</url>
     <location>
       <country>Россия</country>
@@ -8402,10 +8488,10 @@
       </metro>
     </location>
     <price>
-      <value>17955120</value>
+      <value>17974080</value>
       <currency>RUR</currency>
     </price>
-    <old-price>19950133</old-price>
+    <old-price>19971200</old-price>
     <area>
       <value>63.2</value>
       <unit>кв.м</unit>
@@ -8433,7 +8519,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/335030</url>
     <location>
       <country>Россия</country>
@@ -8445,10 +8531,10 @@
       </metro>
     </location>
     <price>
-      <value>17964540</value>
+      <value>17983530</value>
       <currency>RUR</currency>
     </price>
-    <old-price>19960600</old-price>
+    <old-price>19981700</old-price>
     <area>
       <value>63.3</value>
       <unit>кв.м</unit>
@@ -8476,7 +8562,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/334995</url>
     <location>
       <country>Россия</country>
@@ -8488,10 +8574,10 @@
       </metro>
     </location>
     <price>
-      <value>18235080</value>
+      <value>18255060</value>
       <currency>RUR</currency>
     </price>
-    <old-price>20261200</old-price>
+    <old-price>20283400</old-price>
     <area>
       <value>66.6</value>
       <unit>кв.м</unit>
@@ -8519,7 +8605,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/335013</url>
     <location>
       <country>Россия</country>
@@ -8531,10 +8617,10 @@
       </metro>
     </location>
     <price>
-      <value>18341640</value>
+      <value>18361620</value>
       <currency>RUR</currency>
     </price>
-    <old-price>20379600</old-price>
+    <old-price>20401800</old-price>
     <area>
       <value>66.6</value>
       <unit>кв.м</unit>
@@ -8562,7 +8648,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/335007</url>
     <location>
       <country>Россия</country>
@@ -8574,10 +8660,10 @@
       </metro>
     </location>
     <price>
-      <value>18376680</value>
+      <value>18396720</value>
       <currency>RUR</currency>
     </price>
-    <old-price>20418533</old-price>
+    <old-price>20440800</old-price>
     <area>
       <value>66.8</value>
       <unit>кв.м</unit>
@@ -8605,7 +8691,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395170</url>
     <location>
       <country>Россия</country>
@@ -8648,7 +8734,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395261</url>
     <location>
       <country>Россия</country>
@@ -8691,7 +8777,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394900</url>
     <location>
       <country>Россия</country>
@@ -8734,7 +8820,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394906</url>
     <location>
       <country>Россия</country>
@@ -8777,7 +8863,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394988</url>
     <location>
       <country>Россия</country>
@@ -8820,7 +8906,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395269</url>
     <location>
       <country>Россия</country>
@@ -8863,7 +8949,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394912</url>
     <location>
       <country>Россия</country>
@@ -8906,7 +8992,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/394918</url>
     <location>
       <country>Россия</country>
@@ -8949,7 +9035,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395274</url>
     <location>
       <country>Россия</country>
@@ -8992,7 +9078,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395279</url>
     <location>
       <country>Россия</country>
@@ -9035,7 +9121,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395179</url>
     <location>
       <country>Россия</country>
@@ -9078,7 +9164,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395353</url>
     <location>
       <country>Россия</country>
@@ -9121,7 +9207,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395359</url>
     <location>
       <country>Россия</country>
@@ -9164,7 +9250,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395206</url>
     <location>
       <country>Россия</country>
@@ -9207,7 +9293,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395365</url>
     <location>
       <country>Россия</country>
@@ -9250,7 +9336,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395171</url>
     <location>
       <country>Россия</country>
@@ -9293,7 +9379,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395371</url>
     <location>
       <country>Россия</country>
@@ -9336,7 +9422,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395180</url>
     <location>
       <country>Россия</country>
@@ -9379,7 +9465,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395265</url>
     <location>
       <country>Россия</country>
@@ -9422,7 +9508,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395284</url>
     <location>
       <country>Россия</country>
@@ -9465,7 +9551,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395198</url>
     <location>
       <country>Россия</country>
@@ -9508,7 +9594,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395380</url>
     <location>
       <country>Россия</country>
@@ -9551,7 +9637,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395280</url>
     <location>
       <country>Россия</country>
@@ -9594,7 +9680,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395264</url>
     <location>
       <country>Россия</country>
@@ -9637,7 +9723,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/395348</url>
     <location>
       <country>Россия</country>
@@ -9680,7 +9766,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-01T15:51:12+03:00</creation-date>
+    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/139388</url>
     <location>
       <country>Россия</country>
