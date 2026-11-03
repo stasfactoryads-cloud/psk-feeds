@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-02T18:02:00+03:00</generation-date>
+  <generation-date>2026-11-03T16:49:00+03:00</generation-date>
   <offer internal-id="100226">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100226</url>
     <location>
       <country>Россия</country>
@@ -48,7 +48,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100258</url>
     <location>
       <country>Россия</country>
@@ -60,10 +60,10 @@
       </metro>
     </location>
     <price>
-      <value>7405201</value>
+      <value>7481249</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8228001</old-price>
+    <old-price>8312499</old-price>
     <area>
       <value>27.16</value>
       <unit>кв.м</unit>
@@ -91,7 +91,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100268</url>
     <location>
       <country>Россия</country>
@@ -103,10 +103,10 @@
       </metro>
     </location>
     <price>
-      <value>7405201</value>
+      <value>7481249</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8228001</old-price>
+    <old-price>8312499</old-price>
     <area>
       <value>27.16</value>
       <unit>кв.м</unit>
@@ -134,7 +134,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100270</url>
     <location>
       <country>Россия</country>
@@ -146,10 +146,10 @@
       </metro>
     </location>
     <price>
-      <value>7405201</value>
+      <value>7481249</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8228001</old-price>
+    <old-price>8312499</old-price>
     <area>
       <value>27.16</value>
       <unit>кв.м</unit>
@@ -177,7 +177,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100272</url>
     <location>
       <country>Россия</country>
@@ -189,10 +189,10 @@
       </metro>
     </location>
     <price>
-      <value>7405201</value>
+      <value>7481249</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8228001</old-price>
+    <old-price>8312499</old-price>
     <area>
       <value>27.16</value>
       <unit>кв.м</unit>
@@ -220,7 +220,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100420</url>
     <location>
       <country>Россия</country>
@@ -232,10 +232,10 @@
       </metro>
     </location>
     <price>
-      <value>7435104</value>
+      <value>7511152</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8261227</old-price>
+    <old-price>8345724</old-price>
     <area>
       <value>27.16</value>
       <unit>кв.м</unit>
@@ -263,7 +263,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100257</url>
     <location>
       <country>Россия</country>
@@ -275,10 +275,10 @@
       </metro>
     </location>
     <price>
-      <value>7753881</value>
+      <value>7829929</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8615423</old-price>
+    <old-price>8699921</old-price>
     <area>
       <value>27.16</value>
       <unit>кв.м</unit>
@@ -306,7 +306,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100259</url>
     <location>
       <country>Россия</country>
@@ -318,10 +318,10 @@
       </metro>
     </location>
     <price>
-      <value>7753881</value>
+      <value>7829929</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8615423</old-price>
+    <old-price>8699921</old-price>
     <area>
       <value>27.16</value>
       <unit>кв.м</unit>
@@ -349,7 +349,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100271</url>
     <location>
       <country>Россия</country>
@@ -361,10 +361,10 @@
       </metro>
     </location>
     <price>
-      <value>7753881</value>
+      <value>7829929</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8615423</old-price>
+    <old-price>8699921</old-price>
     <area>
       <value>27.16</value>
       <unit>кв.м</unit>
@@ -392,7 +392,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100831</url>
     <location>
       <country>Россия</country>
@@ -404,10 +404,10 @@
       </metro>
     </location>
     <price>
-      <value>7858365</value>
+      <value>7934413</value>
       <currency>RUR</currency>
     </price>
-    <old-price>8731517</old-price>
+    <old-price>8816015</old-price>
     <area>
       <value>27.16</value>
       <unit>кв.м</unit>
@@ -435,7 +435,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100409</url>
     <location>
       <country>Россия</country>
@@ -447,10 +447,10 @@
       </metro>
     </location>
     <price>
-      <value>8854681</value>
+      <value>8940987</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9838535</old-price>
+    <old-price>9934430</old-price>
     <area>
       <value>39.23</value>
       <unit>кв.м</unit>
@@ -478,7 +478,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100569</url>
     <location>
       <country>Россия</country>
@@ -490,10 +490,10 @@
       </metro>
     </location>
     <price>
-      <value>8896540</value>
+      <value>8982846</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9885044</old-price>
+    <old-price>9980940</old-price>
     <area>
       <value>39.23</value>
       <unit>кв.м</unit>
@@ -521,7 +521,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100484</url>
     <location>
       <country>Россия</country>
@@ -533,10 +533,10 @@
       </metro>
     </location>
     <price>
-      <value>8911437</value>
+      <value>8998007</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9901596</old-price>
+    <old-price>9997785</old-price>
     <area>
       <value>39.35</value>
       <unit>кв.м</unit>
@@ -564,7 +564,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100606</url>
     <location>
       <country>Россия</country>
@@ -576,10 +576,10 @@
       </metro>
     </location>
     <price>
-      <value>8932371</value>
+      <value>9018941</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9924857</old-price>
+    <old-price>10021045</old-price>
     <area>
       <value>39.35</value>
       <unit>кв.м</unit>
@@ -607,7 +607,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100724</url>
     <location>
       <country>Россия</country>
@@ -619,10 +619,10 @@
       </metro>
     </location>
     <price>
-      <value>8974397</value>
+      <value>9060967</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9971552</old-price>
+    <old-price>10067741</old-price>
     <area>
       <value>39.35</value>
       <unit>кв.м</unit>
@@ -650,7 +650,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100804</url>
     <location>
       <country>Россия</country>
@@ -662,10 +662,10 @@
       </metro>
     </location>
     <price>
-      <value>8995370</value>
+      <value>9081940</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9994856</old-price>
+    <old-price>10091045</old-price>
     <area>
       <value>39.35</value>
       <unit>кв.м</unit>
@@ -693,7 +693,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100846</url>
     <location>
       <country>Россия</country>
@@ -705,10 +705,10 @@
       </metro>
     </location>
     <price>
-      <value>8995370</value>
+      <value>9081940</value>
       <currency>RUR</currency>
     </price>
-    <old-price>9994856</old-price>
+    <old-price>10091045</old-price>
     <area>
       <value>39.35</value>
       <unit>кв.м</unit>
@@ -736,7 +736,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100439</url>
     <location>
       <country>Россия</country>
@@ -748,10 +748,10 @@
       </metro>
     </location>
     <price>
-      <value>9005908</value>
+      <value>9093688</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10006565</old-price>
+    <old-price>10104098</old-price>
     <area>
       <value>39.9</value>
       <unit>кв.м</unit>
@@ -779,7 +779,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100926</url>
     <location>
       <country>Россия</country>
@@ -791,10 +791,10 @@
       </metro>
     </location>
     <price>
-      <value>9016383</value>
+      <value>9102953</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10018203</old-price>
+    <old-price>10114392</old-price>
     <area>
       <value>39.35</value>
       <unit>кв.м</unit>
@@ -822,7 +822,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100519</url>
     <location>
       <country>Россия</country>
@@ -834,10 +834,10 @@
       </metro>
     </location>
     <price>
-      <value>9027175</value>
+      <value>9114955</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10030195</old-price>
+    <old-price>10127728</old-price>
     <area>
       <value>39.9</value>
       <unit>кв.м</unit>
@@ -865,7 +865,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100964</url>
     <location>
       <country>Россия</country>
@@ -877,10 +877,10 @@
       </metro>
     </location>
     <price>
-      <value>9037357</value>
+      <value>9123927</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10041507</old-price>
+    <old-price>10137696</old-price>
     <area>
       <value>39.35</value>
       <unit>кв.м</unit>
@@ -908,7 +908,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/101124</url>
     <location>
       <country>Россия</country>
@@ -920,10 +920,10 @@
       </metro>
     </location>
     <price>
-      <value>9079304</value>
+      <value>9165874</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10088115</old-price>
+    <old-price>10184304</old-price>
     <area>
       <value>39.35</value>
       <unit>кв.м</unit>
@@ -951,7 +951,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/101166</url>
     <location>
       <country>Россия</country>
@@ -963,10 +963,10 @@
       </metro>
     </location>
     <price>
-      <value>9079304</value>
+      <value>9165874</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10088115</old-price>
+    <old-price>10184304</old-price>
     <area>
       <value>39.35</value>
       <unit>кв.м</unit>
@@ -994,7 +994,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100759</url>
     <location>
       <country>Россия</country>
@@ -1006,10 +1006,10 @@
       </metro>
     </location>
     <price>
-      <value>9091015</value>
+      <value>9178795</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10101128</old-price>
+    <old-price>10198661</old-price>
     <area>
       <value>39.9</value>
       <unit>кв.м</unit>
@@ -1037,7 +1037,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100839</url>
     <location>
       <country>Россия</country>
@@ -1049,10 +1049,10 @@
       </metro>
     </location>
     <price>
-      <value>9112282</value>
+      <value>9200062</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10124758</old-price>
+    <old-price>10222291</old-price>
     <area>
       <value>39.9</value>
       <unit>кв.м</unit>
@@ -1080,7 +1080,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/101079</url>
     <location>
       <country>Россия</country>
@@ -1092,10 +1092,10 @@
       </metro>
     </location>
     <price>
-      <value>9176162</value>
+      <value>9263942</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10195735</old-price>
+    <old-price>10293269</old-price>
     <area>
       <value>39.9</value>
       <unit>кв.м</unit>
@@ -1123,7 +1123,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/101159</url>
     <location>
       <country>Россия</country>
@@ -1135,10 +1135,10 @@
       </metro>
     </location>
     <price>
-      <value>9197468</value>
+      <value>9285248</value>
       <currency>RUR</currency>
     </price>
-    <old-price>10219409</old-price>
+    <old-price>10316943</old-price>
     <area>
       <value>39.9</value>
       <unit>кв.м</unit>
@@ -1166,7 +1166,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100336</url>
     <location>
       <country>Россия</country>
@@ -1209,7 +1209,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100416</url>
     <location>
       <country>Россия</country>
@@ -1252,7 +1252,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100496</url>
     <location>
       <country>Россия</country>
@@ -1295,7 +1295,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100656</url>
     <location>
       <country>Россия</country>
@@ -1338,7 +1338,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100736</url>
     <location>
       <country>Россия</country>
@@ -1381,7 +1381,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100513</url>
     <location>
       <country>Россия</country>
@@ -1424,7 +1424,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100495</url>
     <location>
       <country>Россия</country>
@@ -1467,7 +1467,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100575</url>
     <location>
       <country>Россия</country>
@@ -1510,7 +1510,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100673</url>
     <location>
       <country>Россия</country>
@@ -1553,7 +1553,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100655</url>
     <location>
       <country>Россия</country>
@@ -1596,7 +1596,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100735</url>
     <location>
       <country>Россия</country>
@@ -1639,7 +1639,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100815</url>
     <location>
       <country>Россия</country>
@@ -1682,7 +1682,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100913</url>
     <location>
       <country>Россия</country>
@@ -1725,7 +1725,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100895</url>
     <location>
       <country>Россия</country>
@@ -1768,7 +1768,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100993</url>
     <location>
       <country>Россия</country>
@@ -1811,7 +1811,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100975</url>
     <location>
       <country>Россия</country>
@@ -1854,7 +1854,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/101073</url>
     <location>
       <country>Россия</country>
@@ -1897,7 +1897,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/101055</url>
     <location>
       <country>Россия</country>
@@ -1940,7 +1940,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/101135</url>
     <location>
       <country>Россия</country>
@@ -1983,7 +1983,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100434</url>
     <location>
       <country>Россия</country>
@@ -2026,7 +2026,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100594</url>
     <location>
       <country>Россия</country>
@@ -2069,7 +2069,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100674</url>
     <location>
       <country>Россия</country>
@@ -2112,7 +2112,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100754</url>
     <location>
       <country>Россия</country>
@@ -2155,7 +2155,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100834</url>
     <location>
       <country>Россия</country>
@@ -2198,7 +2198,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100914</url>
     <location>
       <country>Россия</country>
@@ -2241,7 +2241,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/100994</url>
     <location>
       <country>Россия</country>
@@ -2284,7 +2284,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-11-02T18:02:00+03:00</creation-date>
+    <creation-date>2026-11-03T16:49:00+03:00</creation-date>
     <url>https://psk-info.ru/flats/101074</url>
     <location>
       <country>Россия</country>
