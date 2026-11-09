@@ -818,6 +818,28 @@ def transform_feed(input_path, output_path):
         floors_elem = offer.find(f'{{{NS}}}floors-total')
         floors = floors_elem.text if floors_elem is not None else ''
 
+        # v2.2: Remove <metro>, <rooms>, <rooms-offered>, <floor>, <floors-total>
+        # (values already extracted above for template substitution)
+        location_elem = offer.find(f'{{{NS}}}location')
+        if location_elem is not None:
+            metro_elem = location_elem.find(f'{{{NS}}}metro')
+            if metro_elem is not None:
+                location_elem.remove(metro_elem)
+
+        rooms_elem = offer.find(f'{{{NS}}}rooms')
+        if rooms_elem is not None:
+            offer.remove(rooms_elem)
+
+        rooms_offered_elem = offer.find(f'{{{NS}}}rooms-offered')
+        if rooms_offered_elem is not None:
+            offer.remove(rooms_offered_elem)
+
+        if floor_elem is not None:
+            offer.remove(floor_elem)
+
+        if floors_elem is not None:
+            offer.remove(floors_elem)
+
         price_elem = offer.find(f'{{{NS}}}price/{{{NS}}}value')
         price = price_elem.text if price_elem is not None else ''
 
